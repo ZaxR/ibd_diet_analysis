@@ -1,0 +1,50 @@
+{"items_base": ["Beef"], "items_add": ["Chicken"], "confidence": 0.9852941176470589, "lift": 1.4124447466848011}
+{"items_base": ["Bananas", "Butter"], "items_add": ["Chicken"], "confidence": 0.9523809523809524, "lift": 1.3652628681530417}
+{"items_base": ["Beef", "Chicken Egg"], "items_add": ["Chicken"], "confidence": 1.0, "lift": 1.4335260115606936}
+{"items_base": ["Beef", "Potatoes, White"], "items_add": ["Chicken"], "confidence": 1.0, "lift": 1.4335260115606936}
+{"items_base": ["Butter", "Carrots"], "items_add": ["Chicken"], "confidence": 0.96875, "lift": 1.388728323699422}
+{"items_base": ["Butter", "Garlic"], "items_add": ["Chicken"], "confidence": 0.9615384615384615, "lift": 1.378390395731436}
+{"items_base": ["Carrots", "Chicken Egg"], "items_add": ["Chicken"], "confidence": 0.957142857142857, "lift": 1.3720891824938064}
+{"items_base": ["Chicken Egg", "Garlic"], "items_add": ["Chicken"], "confidence": 0.962962962962963, "lift": 1.3804324555769643}
+{"items_base": ["Potatoes, White", "notOrange Juice (without bits)"], "items_add": ["Chicken"], "confidence": 0.9642857142857143, "lift": 1.3823286540049544}
+{"items_base": ["Chocolate - Milk", "Rice, White"], "items_add": ["Potatoes, White"], "confidence": 0.9636363636363636, "lift": 1.7968557758031443}
+{"items_base": ["Bananas", "Butter", "Carrots"], "items_add": ["Chicken"], "confidence": 0.980392156862745, "lift": 1.4054176583928366}
+{"items_base": ["Bananas", "Butter", "Potatoes, White"], "items_add": ["Chicken"], "confidence": 0.9636363636363636, "lift": 1.3813977929584864}
+{"items_base": ["Bananas", "Chicken Egg", "Potatoes, White"], "items_add": ["Chicken"], "confidence": 0.9516129032258065, "lift": 1.3641618497109826}
+{"items_base": ["Bananas", "Chicken Egg", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.9661016949152541, "lift": 1.38493190947389}
+{"items_base": ["Butter", "Carrots", "Potatoes, White"], "items_add": ["Chicken"], "confidence": 0.9821428571428572, "lift": 1.4079273327828241}
+{"items_base": ["Butter", "Carrots", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.962962962962963, "lift": 1.3804324555769643}
+{"items_base": ["Carrots", "Chicken Egg", "Potatoes, White"], "items_add": ["Chicken"], "confidence": 0.967741935483871, "lift": 1.3872832369942196}
+{"items_base": ["Carrots", "Chicken Egg", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.9827586206896551, "lift": 1.4088100458441297}
+{"items_base": ["Carrots", "Potatoes, White", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.9605263157894737, "lift": 1.3769394584727714}
+{"items_base": ["Chicken Egg", "Potatoes, White", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.9589041095890412, "lift": 1.3746139836883364}
+{"items_base": ["Chicken", "Chocolate - Milk", "Rice, White"], "items_add": ["Potatoes, White"], "confidence": 0.980392156862745, "lift": 1.8280996609169982}
+{"items_base": ["Chicken", "Lettuce", "Rice, White"], "items_add": ["Potatoes, White"], "confidence": 0.9615384615384615, "lift": 1.792943898207056}
+{"items_base": ["notApple", "notLettuce", "notWheat"], "items_add": ["notPeas"], "confidence": 0.9642857142857143, "lift": 1.8255179934569248}
+{"items_base": ["notBananas", "notGarlic", "notGrapes"], "items_add": ["notTomatoes"], "confidence": 0.980392156862745, "lift": 1.7491888841867682}
+{"items_base": ["notBananas", "notGrapes", "notOnions"], "items_add": ["notTomatoes"], "confidence": 0.9636363636363636, "lift": 1.7192936559843035}
+{"items_base": ["notButter", "notOats", "notOrange"], "items_add": ["notChocolate - Milk"], "confidence": 0.9642857142857143, "lift": 1.758403361344538}
+{"items_base": ["notLettuce", "notOats", "notOrange Juice (without bits)"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notOnions", "notOrange Juice (without bits)", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.980392156862745, "lift": 1.8560095794042806}
+{"items_base": ["Bananas", "Chicken Egg", "Potatoes, White", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.9807692307692308, "lift": 1.405958203646065}
+{"items_base": ["Butter", "Carrots", "Chicken", "Rice, White"], "items_add": ["Potatoes, White"], "confidence": 0.9615384615384615, "lift": 1.792943898207056}
+{"items_base": ["Butter", "Carrots", "Potatoes, White", "Rice, White"], "items_add": ["Chicken"], "confidence": 0.980392156862745, "lift": 1.4054176583928366}
+{"items_base": ["Carrots", "Chicken Egg", "Potatoes, White", "Rice, White"], "items_add": ["Chicken"], "confidence": 1.0, "lift": 1.4335260115606936}
+{"items_base": ["notApple", "notBroccoli", "notLettuce", "notTomatoes"], "items_add": ["notPeas"], "confidence": 0.9636363636363636, "lift": 1.8242886884108258}
+{"items_base": ["notApple", "notButter", "notChocolate - Milk", "notWheat"], "items_add": ["notOats"], "confidence": 0.980392156862745, "lift": 1.945098039215686}
+{"items_base": ["notApple", "notChocolate - Milk", "notIce Cream", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notApple", "notChocolate - Milk", "notLettuce", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notApple", "notLettuce", "notOats", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.9807692307692308, "lift": 1.8567234292425134}
+{"items_base": ["notApple", "notLettuce", "notOats", "notTomatoes"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notApple", "notOats", "notOnions", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.962962962962963, "lift": 1.823013853548205}
+{"items_base": ["notApple", "notOats", "notStrawberries", "notTomatoes"], "items_add": ["notPeas"], "confidence": 0.9622641509433962, "lift": 1.8216909117096356}
+{"items_base": ["notBeef", "notBroccoli", "notGrapes", "notOnions"], "items_add": ["notPeas"], "confidence": 0.9807692307692308, "lift": 1.8567234292425134}
+{"items_base": ["notBeef", "notCheese - Hard", "notGrapes", "notOnions"], "items_add": ["notPeas"], "confidence": 0.9622641509433962, "lift": 1.8216909117096356}
+{"items_base": ["notBeef", "notChocolate - Milk", "notGrapes", "notOnions"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notBeef", "notGarlic", "notGrapes", "notOnions"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notBeef", "notGrapes", "notLettuce", "notOnions"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notBeef", "notGrapes", "notOnions", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
+{"items_base": ["notChocolate - Milk", "notIce Cream", "notStrawberries", "notTomatoes"], "items_add": ["notGrapes"], "confidence": 0.9636363636363636, "lift": 1.8242886884108258}
+{"items_base": ["notGrapes", "notIce Cream", "notOnions", "notStrawberries"], "items_add": ["notPeas"], "confidence": 0.9622641509433962, "lift": 1.8216909117096356}
+{"items_base": ["notIce Cream", "notPeas", "notStrawberries", "notTomatoes"], "items_add": ["notGrapes"], "confidence": 0.9807692307692308, "lift": 1.8567234292425134}
+{"items_base": ["notGrapes", "notOats", "notStrawberries", "notTomatoes"], "items_add": ["notPeas"], "confidence": 0.9615384615384615, "lift": 1.82031708749266}
