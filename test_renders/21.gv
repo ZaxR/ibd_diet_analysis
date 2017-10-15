@@ -1,0 +1,40 @@
+digraph {
+	graph [rankdir=LR]
+	node [pos=r shape=box]
+	edge [headport=w tailport=e]
+		A [label="Overall
+Possible
+Recommendations:30"]
+		B [label="User
+Possible
+Recommendations:25"]
+		C [label="Missed
+Recommendations: 5"]
+		D [label="Usable
+Recommendations:24"]
+		E [label="Conflicting
+Recommendations:1"]
+		J [label="Missed
+Recommendations: 5"]
+		M [label="Unreconciled
+Conflicts:1"]
+		F [label="Correct: 10"]
+		G [label="Incorrect: 5"]
+		H [label="New: 9"]
+		K [label="Missed
+Recommendations: 5"]
+		I [label="Accuracy: 66.67%"]
+		l [label="Number of rules that apply: 4080"]
+			A -> B
+			A -> C
+			B -> D
+			B -> E
+			D -> F
+			D -> G
+			D -> H
+			F -> I
+			G -> I
+			C -> J
+			J -> K
+			E -> M
+}
