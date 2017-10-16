@@ -18,13 +18,13 @@ Recommendations:0"]
 Recommendations: 25"]
 		M [label="Unreconciled
 Conflicts:0"]
-		F [label="Correct: 0"]
+		F [label="Correct: 4"]
 		G [label="Incorrect: 0"]
-		H [label="New: 5"]
+		H [label="New: 1"]
 		K [label="Missed
 Recommendations: 25"]
-		I [label="Accuracy: N/A"]
-		l [label="Number of rules that apply: 8"]
+		I [label="Accuracy: 100.00%"]
+		l [label="Number of rules that apply: 9"]
 			A -> B
 			A -> C
 			B -> D

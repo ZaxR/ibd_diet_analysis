@@ -11,20 +11,20 @@ Recommendations:24"]
 		C [label="Missed
 Recommendations: 6"]
 		D [label="Usable
-Recommendations:22"]
+Recommendations:24"]
 		E [label="Conflicting
-Recommendations:2"]
+Recommendations:0"]
 		J [label="Missed
 Recommendations: 6"]
 		M [label="Unreconciled
-Conflicts:2"]
-		F [label="Correct: 9"]
-		G [label="Incorrect: 5"]
-		H [label="New: 8"]
+Conflicts:0"]
+		F [label="Correct: 15"]
+		G [label="Incorrect: 0"]
+		H [label="New: 9"]
 		K [label="Missed
 Recommendations: 6"]
-		I [label="Accuracy: 64.29%"]
-		l [label="Number of rules that apply: 273"]
+		I [label="Accuracy: 100.00%"]
+		l [label="Number of rules that apply: 3272"]
 			A -> B
 			A -> C
 			B -> D
