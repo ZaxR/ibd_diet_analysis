@@ -1,0 +1,1646 @@
+,Consequent,Antecedents,Support (Count),Confidence (%),Lift (x)
+0,Chicken,"('Cod', 'Potatoes, White')",185,92.43243243243244,1.404972972972973
+1,Chicken,"('Cod', 'Chicken Egg')",190,91.05263157894737,1.384
+2,Chicken,"('Cod', 'Chicken Egg', 'Potatoes, White')",146,92.46575342465754,1.4054794520547946
+3,Chicken,"('Cod', 'Carrots')",182,91.20879120879121,1.3863736263736264
+4,Chicken,"('Cod', 'Carrots', 'Potatoes, White')",136,93.38235294117648,1.4194117647058824
+5,Chicken,"('Cod', 'Carrots', 'Chicken Egg')",129,93.7984496124031,1.4257364341085272
+6,Chicken,"('Cod', 'Carrots', 'Chicken Egg', 'Potatoes, White')",107,93.45794392523365,1.4205607476635513
+7,Chicken,"('Cod', 'Rice, White')",175,90.85714285714286,1.3810285714285715
+8,Chicken,"('Cod', 'Rice, White', 'Potatoes, White')",141,92.90780141843972,1.4121985815602838
+9,Chicken,"('Cod', 'Rice, White', 'Chicken Egg')",130,93.07692307692308,1.4147692307692308
+10,Chicken,"('Cod', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",112,92.85714285714286,1.4114285714285715
+11,Chicken,"('Cod', 'Rice, White', 'Carrots')",132,90.9090909090909,1.3818181818181818
+12,Chicken,"('Cod', 'Rice, White', 'Carrots', 'Potatoes, White')",112,92.85714285714286,1.4114285714285715
+13,Chicken,"('Cod', 'Rice, White', 'Carrots', 'Chicken Egg')",98,93.87755102040816,1.426938775510204
+14,Chicken,"('Cod', 'Rice, White', 'Carrots', 'Chicken Egg', 'Potatoes, White')",87,93.10344827586206,1.4151724137931034
+15,Chicken,"('Turkey',)",272,96.32352941176471,1.4641176470588235
+16,Chicken,"('Turkey', 'Potatoes, White')",182,98.35164835164835,1.494945054945055
+17,Chicken,"('Turkey', 'Chicken Egg')",181,97.23756906077348,1.4780110497237569
+18,Chicken,"('Turkey', 'Chicken Egg', 'Potatoes, White')",132,98.48484848484848,1.496969696969697
+19,Chicken,"('Turkey', 'Carrots')",178,97.75280898876404,1.4858426966292135
+20,Chicken,"('Turkey', 'Carrots', 'Potatoes, White')",133,99.24812030075188,1.5085714285714287
+21,Chicken,"('Turkey', 'Carrots', 'Chicken Egg')",124,98.38709677419355,1.495483870967742
+22,Chicken,"('Turkey', 'Carrots', 'Chicken Egg', 'Potatoes, White')",98,98.9795918367347,1.5044897959183674
+23,Chicken,"('Turkey', 'Rice, White')",172,97.09302325581395,1.475813953488372
+24,Chicken,"('Turkey', 'Rice, White', 'Potatoes, White')",141,97.87234042553192,1.4876595744680852
+25,Chicken,"('Turkey', 'Rice, White', 'Chicken Egg')",123,98.3739837398374,1.4952845528455285
+26,Chicken,"('Turkey', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",103,98.05825242718447,1.490485436893204
+27,Chicken,"('Turkey', 'Rice, White', 'Carrots')",128,98.4375,1.49625
+28,Chicken,"('Turkey', 'Rice, White', 'Carrots', 'Potatoes, White')",108,99.07407407407408,1.505925925925926
+29,Chicken,"('Turkey', 'Rice, White', 'Carrots', 'Chicken Egg')",91,98.9010989010989,1.5032967032967033
+30,Chicken,"('Turkey', 'Cod')",191,97.90575916230367,1.4881675392670157
+31,Chicken,"('Turkey', 'Cod', 'Potatoes, White')",139,98.56115107913669,1.4981294964028777
+32,Chicken,"('Turkey', 'Cod', 'Chicken Egg')",140,98.57142857142858,1.4982857142857142
+33,Chicken,"('Turkey', 'Cod', 'Chicken Egg', 'Potatoes, White')",113,98.23008849557522,1.4930973451327434
+34,Chicken,"('Turkey', 'Cod', 'Carrots')",135,98.51851851851852,1.4974814814814814
+35,Chicken,"('Turkey', 'Cod', 'Carrots', 'Potatoes, White')",102,99.01960784313727,1.5050980392156863
+36,Chicken,"('Turkey', 'Cod', 'Carrots', 'Chicken Egg')",100,99.0,1.5048
+37,Chicken,"('Turkey', 'Cod', 'Rice, White')",130,96.92307692307692,1.4732307692307691
+38,Chicken,"('Turkey', 'Cod', 'Rice, White', 'Potatoes, White')",109,98.1651376146789,1.4921100917431194
+39,Chicken,"('Turkey', 'Cod', 'Rice, White', 'Chicken Egg')",101,98.01980198019803,1.48990099009901
+40,Chicken,"('Turkey', 'Cod', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",88,97.72727272727273,1.4854545454545454
+41,Chicken,"('Turkey', 'Cod', 'Rice, White', 'Carrots')",100,98.0,1.4896
+42,Chicken,"('Tuna', 'Potatoes, White')",170,90.58823529411765,1.3769411764705883
+43,Chicken,"('Tuna', 'Chicken Egg')",182,90.10989010989012,1.3696703296703296
+44,Chicken,"('Tuna', 'Chicken Egg', 'Potatoes, White')",136,92.64705882352942,1.408235294117647
+45,Chicken,"('Tuna', 'Carrots', 'Potatoes, White')",135,90.37037037037037,1.3736296296296295
+46,Chicken,"('Tuna', 'Carrots', 'Chicken Egg')",125,92.80000000000001,1.41056
+47,Chicken,"('Tuna', 'Carrots', 'Chicken Egg', 'Potatoes, White')",104,92.3076923076923,1.403076923076923
+48,Chicken,"('Tuna', 'Rice, White')",160,90.625,1.3775
+49,Chicken,"('Tuna', 'Rice, White', 'Potatoes, White')",131,93.12977099236642,1.4155725190839694
+50,Chicken,"('Tuna', 'Rice, White', 'Chicken Egg')",126,92.85714285714286,1.4114285714285715
+51,Chicken,"('Tuna', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",107,94.39252336448598,1.434766355140187
+52,Chicken,"('Tuna', 'Rice, White', 'Carrots')",123,91.869918699187,1.3964227642276423
+53,Chicken,"('Tuna', 'Rice, White', 'Carrots', 'Potatoes, White')",108,92.5925925925926,1.4074074074074074
+54,Chicken,"('Tuna', 'Rice, White', 'Carrots', 'Chicken Egg')",93,94.6236559139785,1.438279569892473
+55,"Potatoes, White","('Tuna', 'Rice, White', 'Carrots', 'Chicken Egg')",93,90.32258064516128,1.7814488224132157
+56,Chicken,"('Tuna', 'Cod', 'Potatoes, White')",141,92.19858156028369,1.401418439716312
+57,Chicken,"('Tuna', 'Cod', 'Chicken Egg')",149,91.94630872483222,1.3975838926174498
+58,Chicken,"('Tuna', 'Cod', 'Chicken Egg', 'Potatoes, White')",116,93.10344827586206,1.4151724137931034
+59,Chicken,"('Tuna', 'Cod', 'Carrots')",143,90.9090909090909,1.3818181818181818
+60,Chicken,"('Tuna', 'Cod', 'Carrots', 'Potatoes, White')",112,92.85714285714286,1.4114285714285715
+61,Chicken,"('Tuna', 'Cod', 'Carrots', 'Chicken Egg')",105,93.33333333333333,1.4186666666666667
+62,Chicken,"('Tuna', 'Cod', 'Carrots', 'Chicken Egg', 'Potatoes, White')",89,93.25842696629213,1.4175280898876403
+63,Chicken,"('Tuna', 'Cod', 'Rice, White')",134,91.7910447761194,1.395223880597015
+64,Chicken,"('Tuna', 'Cod', 'Rice, White', 'Potatoes, White')",112,92.85714285714286,1.4114285714285715
+65,Chicken,"('Tuna', 'Cod', 'Rice, White', 'Chicken Egg')",106,93.39622641509435,1.419622641509434
+66,Chicken,"('Tuna', 'Cod', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",92,93.47826086956522,1.4208695652173913
+67,Chicken,"('Tuna', 'Cod', 'Rice, White', 'Carrots')",105,91.42857142857143,1.3897142857142857
+68,Chicken,"('Tuna', 'Cod', 'Rice, White', 'Carrots', 'Potatoes, White')",93,92.47311827956989,1.4055913978494623
+69,Chicken,"('Tuna', 'Turkey')",171,98.83040935672514,1.5022222222222221
+70,Chicken,"('Tuna', 'Turkey', 'Potatoes, White')",122,99.18032786885246,1.5075409836065574
+71,Chicken,"('Tuna', 'Turkey', 'Chicken Egg')",132,98.48484848484848,1.496969696969697
+72,Chicken,"('Tuna', 'Turkey', 'Chicken Egg', 'Potatoes, White')",101,99.00990099009901,1.504950495049505
+73,Chicken,"('Tuna', 'Turkey', 'Carrots')",127,99.21259842519686,1.5080314960629921
+74,Chicken,"('Tuna', 'Turkey', 'Carrots', 'Potatoes, White')",97,98.96907216494846,1.5043298969072165
+75,Chicken,"('Tuna', 'Turkey', 'Carrots', 'Chicken Egg')",96,98.95833333333334,1.5041666666666667
+76,Chicken,"('Tuna', 'Turkey', 'Rice, White')",114,99.12280701754386,1.5066666666666666
+77,Chicken,"('Tuna', 'Turkey', 'Rice, White', 'Potatoes, White')",98,98.9795918367347,1.5044897959183674
+78,Chicken,"('Tuna', 'Turkey', 'Rice, White', 'Chicken Egg')",92,98.91304347826086,1.5034782608695652
+79,Chicken,"('Tuna', 'Turkey', 'Rice, White', 'Carrots')",91,98.9010989010989,1.5032967032967033
+80,Chicken,"('Tuna', 'Turkey', 'Cod')",145,99.3103448275862,1.5095172413793103
+81,Chicken,"('Tuna', 'Turkey', 'Cod', 'Potatoes, White')",108,99.07407407407408,1.505925925925926
+82,Chicken,"('Tuna', 'Turkey', 'Cod', 'Chicken Egg')",114,99.12280701754386,1.5066666666666666
+83,Chicken,"('Tuna', 'Turkey', 'Cod', 'Chicken Egg', 'Potatoes, White')",91,98.9010989010989,1.5032967032967033
+84,Cod,"('Tuna', 'Turkey', 'Chicken Egg', 'Potatoes, White', 'Chicken')",100,90.0,1.8387096774193548
+85,Cod,"('Tuna', 'Turkey', 'Chicken Egg', 'Potatoes, White')",101,90.0990099009901,1.8407324603428086
+86,Chicken,"('Tuna', 'Turkey', 'Cod', 'Carrots')",111,99.09909909909909,1.5063063063063062
+87,Chicken,"('Tuna', 'Turkey', 'Cod', 'Carrots', 'Potatoes, White')",87,98.85057471264368,1.502528735632184
+88,Chicken,"('Tuna', 'Turkey', 'Cod', 'Rice, White')",101,99.00990099009901,1.504950495049505
+89,Chicken,"('Tuna', 'Turkey', 'Cod', 'Rice, White', 'Potatoes, White')",87,98.85057471264368,1.502528735632184
+90,Chicken,"('Bananas', 'Rice, White', 'Chicken Egg')",113,90.2654867256637,1.3720353982300886
+91,Chicken,"('Bananas', 'Cod')",153,92.81045751633987,1.410718954248366
+92,Chicken,"('Bananas', 'Cod', 'Potatoes, White')",111,94.5945945945946,1.4378378378378378
+93,Chicken,"('Bananas', 'Cod', 'Chicken Egg')",114,93.85964912280701,1.4266666666666667
+94,Chicken,"('Bananas', 'Cod', 'Chicken Egg', 'Potatoes, White')",90,94.44444444444444,1.4355555555555555
+95,Chicken,"('Bananas', 'Cod', 'Carrots')",118,94.0677966101695,1.4298305084745764
+96,Chicken,"('Bananas', 'Cod', 'Carrots', 'Potatoes, White')",92,94.56521739130434,1.4373913043478261
+97,Chicken,"('Bananas', 'Cod', 'Carrots', 'Chicken Egg')",88,95.45454545454545,1.450909090909091
+98,Chicken,"('Bananas', 'Cod', 'Rice, White')",107,94.39252336448598,1.434766355140187
+99,Chicken,"('Bananas', 'Cod', 'Rice, White', 'Potatoes, White')",88,95.45454545454545,1.450909090909091
+100,Chicken,"('Bananas', 'Cod', 'Rice, White', 'Carrots')",89,93.25842696629213,1.4175280898876403
+101,Chicken,"('Bananas', 'Turkey')",152,98.68421052631578,1.5
+102,Chicken,"('Bananas', 'Turkey', 'Potatoes, White')",108,99.07407407407408,1.505925925925926
+103,Chicken,"('Bananas', 'Turkey', 'Chicken Egg')",113,100.0,1.52
+104,Chicken,"('Bananas', 'Turkey', 'Carrots')",120,99.16666666666667,1.5073333333333334
+105,Chicken,"('Bananas', 'Turkey', 'Carrots', 'Potatoes, White')",91,100.0,1.52
+106,Chicken,"('Bananas', 'Turkey', 'Carrots', 'Chicken Egg')",87,100.0,1.52
+107,Chicken,"('Bananas', 'Turkey', 'Rice, White')",105,99.04761904761905,1.5055238095238095
+108,Chicken,"('Bananas', 'Turkey', 'Rice, White', 'Potatoes, White')",87,98.85057471264368,1.502528735632184
+109,Chicken,"('Bananas', 'Turkey', 'Rice, White', 'Carrots')",88,100.0,1.52
+110,Chicken,"('Bananas', 'Turkey', 'Cod')",116,100.0,1.52
+111,Chicken,"('Bananas', 'Turkey', 'Cod', 'Chicken Egg')",92,100.0,1.52
+112,Chicken,"('Bananas', 'Turkey', 'Cod', 'Carrots')",94,100.0,1.52
+113,Chicken,"('Bananas', 'Tuna')",147,90.47619047619048,1.3752380952380951
+114,Chicken,"('Bananas', 'Tuna', 'Potatoes, White')",106,92.45283018867924,1.4052830188679246
+115,Chicken,"('Bananas', 'Tuna', 'Chicken Egg')",112,93.75,1.425
+116,Chicken,"('Bananas', 'Tuna', 'Chicken Egg', 'Potatoes, White')",87,94.25287356321839,1.4326436781609195
+117,Chicken,"('Bananas', 'Tuna', 'Carrots')",117,92.3076923076923,1.403076923076923
+118,Chicken,"('Bananas', 'Tuna', 'Carrots', 'Potatoes, White')",93,92.47311827956989,1.4055913978494623
+119,Chicken,"('Bananas', 'Tuna', 'Carrots', 'Chicken Egg')",87,95.40229885057471,1.4501149425287356
+120,Chicken,"('Bananas', 'Tuna', 'Rice, White')",100,93.0,1.4136
+121,Chicken,"('Bananas', 'Tuna', 'Cod')",117,92.3076923076923,1.403076923076923
+122,Chicken,"('Bananas', 'Tuna', 'Cod', 'Chicken Egg')",91,94.5054945054945,1.4364835164835166
+123,Chicken,"('Bananas', 'Tuna', 'Cod', 'Carrots')",95,93.6842105263158,1.424
+124,Chicken,"('Bananas', 'Tuna', 'Turkey')",104,100.0,1.52
+125,Chicken,"('Bananas', 'Tuna', 'Turkey', 'Chicken Egg')",86,100.0,1.52
+126,Chicken,"('Bananas', 'Tuna', 'Turkey', 'Carrots')",88,100.0,1.52
+127,Chicken,"('Bananas', 'Tuna', 'Turkey', 'Cod')",91,100.0,1.52
+128,Chicken,"('Salmon', 'Chicken Egg', 'Potatoes, White')",130,90.0,1.368
+129,Chicken,"('Salmon', 'Carrots', 'Potatoes, White')",134,91.04477611940298,1.3838805970149253
+130,Chicken,"('Salmon', 'Carrots', 'Chicken Egg')",125,92.0,1.3984
+131,Chicken,"('Salmon', 'Carrots', 'Chicken Egg', 'Potatoes, White')",104,91.34615384615384,1.3884615384615384
+132,Chicken,"('Salmon', 'Rice, White', 'Potatoes, White')",132,90.9090909090909,1.3818181818181818
+133,Chicken,"('Salmon', 'Rice, White', 'Chicken Egg')",122,90.1639344262295,1.3704918032786886
+134,Chicken,"('Salmon', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",105,90.47619047619048,1.3752380952380951
+135,Chicken,"('Salmon', 'Rice, White', 'Carrots')",126,90.47619047619048,1.3752380952380951
+136,Chicken,"('Salmon', 'Rice, White', 'Carrots', 'Potatoes, White')",109,91.74311926605505,1.3944954128440368
+137,Chicken,"('Salmon', 'Rice, White', 'Carrots', 'Chicken Egg')",93,92.47311827956989,1.4055913978494623
+138,"Potatoes, White","('Salmon', 'Rice, White', 'Carrots', 'Chicken Egg', 'Chicken')",86,90.69767441860465,1.7888468656956626
+139,"Potatoes, White","('Salmon', 'Rice, White', 'Carrots', 'Chicken Egg')",93,91.39784946236558,1.8026565464895636
+140,Chicken,"('Salmon', 'Cod', 'Potatoes, White')",140,91.42857142857143,1.3897142857142857
+141,Chicken,"('Salmon', 'Cod', 'Chicken Egg', 'Potatoes, White')",111,91.8918918918919,1.3967567567567567
+142,Chicken,"('Salmon', 'Cod', 'Carrots')",144,90.27777777777779,1.3722222222222222
+143,Chicken,"('Salmon', 'Cod', 'Carrots', 'Potatoes, White')",110,92.72727272727272,1.4094545454545455
+144,Chicken,"('Salmon', 'Cod', 'Carrots', 'Chicken Egg')",102,93.13725490196079,1.415686274509804
+145,Chicken,"('Salmon', 'Cod', 'Carrots', 'Chicken Egg', 'Potatoes, White')",87,93.10344827586206,1.4151724137931034
+146,Chicken,"('Salmon', 'Cod', 'Rice, White')",139,90.64748201438849,1.377841726618705
+147,Chicken,"('Salmon', 'Cod', 'Rice, White', 'Potatoes, White')",115,92.17391304347827,1.4010434782608696
+148,Chicken,"('Salmon', 'Cod', 'Rice, White', 'Chicken Egg')",103,92.23300970873787,1.4019417475728155
+149,Chicken,"('Salmon', 'Cod', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",91,92.3076923076923,1.403076923076923
+150,Chicken,"('Salmon', 'Cod', 'Rice, White', 'Carrots')",108,90.74074074074075,1.3792592592592592
+151,Chicken,"('Salmon', 'Cod', 'Rice, White', 'Carrots', 'Potatoes, White')",94,92.5531914893617,1.406808510638298
+152,Chicken,"('Salmon', 'Turkey')",170,98.82352941176471,1.5021176470588236
+153,Chicken,"('Salmon', 'Turkey', 'Potatoes, White')",120,98.33333333333333,1.4946666666666666
+154,Chicken,"('Salmon', 'Turkey', 'Chicken Egg')",126,98.4126984126984,1.4958730158730158
+155,Chicken,"('Salmon', 'Turkey', 'Chicken Egg', 'Potatoes, White')",95,97.89473684210527,1.488
+156,Chicken,"('Salmon', 'Turkey', 'Carrots')",129,99.2248062015504,1.5082170542635658
+157,Chicken,"('Salmon', 'Turkey', 'Carrots', 'Potatoes, White')",96,98.95833333333334,1.5041666666666667
+158,Chicken,"('Salmon', 'Turkey', 'Carrots', 'Chicken Egg')",96,98.95833333333334,1.5041666666666667
+159,Chicken,"('Salmon', 'Turkey', 'Rice, White')",120,98.33333333333333,1.4946666666666666
+160,Chicken,"('Salmon', 'Turkey', 'Rice, White', 'Potatoes, White')",98,97.95918367346938,1.4889795918367348
+161,Chicken,"('Salmon', 'Turkey', 'Rice, White', 'Chicken Egg')",92,97.82608695652173,1.4869565217391305
+162,Chicken,"('Salmon', 'Turkey', 'Rice, White', 'Carrots')",95,98.94736842105263,1.504
+163,Chicken,"('Salmon', 'Turkey', 'Cod')",141,98.58156028368793,1.4984397163120566
+164,Chicken,"('Salmon', 'Turkey', 'Cod', 'Potatoes, White')",106,98.11320754716981,1.4913207547169811
+165,Chicken,"('Salmon', 'Turkey', 'Cod', 'Chicken Egg')",106,98.11320754716981,1.4913207547169811
+166,Chicken,"('Salmon', 'Turkey', 'Cod', 'Chicken Egg', 'Potatoes, White')",86,97.67441860465115,1.4846511627906978
+167,Cod,"('Salmon', 'Turkey', 'Chicken Egg', 'Potatoes, White', 'Chicken')",93,90.32258064516128,1.8453000346860908
+168,Cod,"('Salmon', 'Turkey', 'Chicken Egg', 'Potatoes, White')",95,90.52631578947368,1.8494623655913978
+169,Chicken,"('Salmon', 'Turkey', 'Cod', 'Carrots')",110,99.0909090909091,1.5061818181818183
+170,Chicken,"('Salmon', 'Turkey', 'Cod', 'Rice, White')",104,98.07692307692307,1.4907692307692308
+171,Chicken,"('Salmon', 'Turkey', 'Cod', 'Rice, White', 'Potatoes, White')",88,97.72727272727273,1.4854545454545454
+172,Chicken,"('Salmon', 'Tuna', 'Potatoes, White')",135,91.11111111111111,1.3848888888888888
+173,Chicken,"('Salmon', 'Tuna', 'Chicken Egg')",142,90.14084507042254,1.3701408450704224
+174,Chicken,"('Salmon', 'Tuna', 'Chicken Egg', 'Potatoes, White')",109,92.66055045871559,1.408440366972477
+175,Chicken,"('Salmon', 'Tuna', 'Carrots')",144,90.27777777777779,1.3722222222222222
+176,Chicken,"('Salmon', 'Tuna', 'Carrots', 'Potatoes, White')",112,91.96428571428571,1.397857142857143
+177,Chicken,"('Salmon', 'Tuna', 'Carrots', 'Chicken Egg')",106,93.39622641509435,1.419622641509434
+178,Chicken,"('Salmon', 'Tuna', 'Carrots', 'Chicken Egg', 'Potatoes, White')",88,93.18181818181817,1.4163636363636363
+179,Chicken,"('Salmon', 'Tuna', 'Rice, White')",131,91.6030534351145,1.3923664122137405
+180,Chicken,"('Salmon', 'Tuna', 'Rice, White', 'Potatoes, White')",110,93.63636363636364,1.4232727272727272
+181,Chicken,"('Salmon', 'Tuna', 'Rice, White', 'Chicken Egg')",103,93.20388349514563,1.4166990291262136
+182,Chicken,"('Salmon', 'Tuna', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",90,94.44444444444444,1.4355555555555555
+183,Chicken,"('Salmon', 'Tuna', 'Rice, White', 'Carrots')",105,92.38095238095238,1.4041904761904762
+184,Chicken,"('Salmon', 'Tuna', 'Rice, White', 'Carrots', 'Potatoes, White')",93,93.54838709677419,1.4219354838709677
+185,Chicken,"('Salmon', 'Tuna', 'Cod', 'Potatoes, White')",118,91.52542372881356,1.3911864406779662
+186,Chicken,"('Salmon', 'Tuna', 'Cod', 'Chicken Egg')",123,91.05691056910568,1.3840650406504065
+187,Tuna,"('Salmon', 'Cod', 'Chicken Egg', 'Chicken')",124,90.32258064516128,2.003263461779842
+188,Chicken,"('Salmon', 'Tuna', 'Cod', 'Chicken Egg', 'Potatoes, White')",97,92.78350515463917,1.4103092783505156
+189,Chicken,"('Salmon', 'Tuna', 'Cod', 'Carrots')",125,90.4,1.37408
+190,Chicken,"('Salmon', 'Tuna', 'Cod', 'Carrots', 'Potatoes, White')",97,92.78350515463917,1.4103092783505156
+191,Chicken,"('Salmon', 'Tuna', 'Cod', 'Carrots', 'Chicken Egg')",92,93.47826086956522,1.4208695652173913
+192,Tuna,"('Salmon', 'Cod', 'Carrots', 'Chicken Egg', 'Chicken')",95,90.52631578947368,2.007782101167315
+193,Tuna,"('Salmon', 'Cod', 'Carrots', 'Chicken Egg')",102,90.19607843137256,2.000457770656901
+194,Chicken,"('Salmon', 'Tuna', 'Cod', 'Rice, White')",118,91.52542372881356,1.3911864406779662
+195,Cod,"('Salmon', 'Tuna', 'Rice, White', 'Chicken')",120,90.0,1.8387096774193548
+196,Chicken,"('Salmon', 'Tuna', 'Cod', 'Rice, White', 'Potatoes, White')",99,92.92929292929293,1.4125252525252525
+197,Cod,"('Salmon', 'Tuna', 'Rice, White', 'Potatoes, White')",110,90.0,1.8387096774193548
+198,Chicken,"('Salmon', 'Tuna', 'Cod', 'Rice, White', 'Chicken Egg')",93,93.54838709677419,1.4219354838709677
+199,Cod,"('Salmon', 'Tuna', 'Rice, White', 'Chicken Egg', 'Chicken')",96,90.625,1.851478494623656
+200,Tuna,"('Salmon', 'Cod', 'Rice, White', 'Chicken Egg', 'Chicken')",95,91.57894736842105,2.0311284046692606
+201,Cod,"('Salmon', 'Tuna', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",90,90.0,1.8387096774193548
+202,Cod,"('Salmon', 'Tuna', 'Rice, White', 'Chicken Egg')",103,90.29126213592234,1.8446601941747574
+203,Tuna,"('Salmon', 'Cod', 'Rice, White', 'Chicken Egg')",103,90.29126213592234,2.0025688489290165
+204,Chicken,"('Salmon', 'Tuna', 'Cod', 'Rice, White', 'Carrots')",94,91.48936170212765,1.3906382978723404
+205,Cod,"('Salmon', 'Tuna', 'Rice, White')",131,90.07633587786259,1.8402692276122465
+206,Chicken,"('Salmon', 'Tuna', 'Turkey')",136,99.26470588235294,1.5088235294117647
+207,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Potatoes, White')",99,98.98989898989899,1.5046464646464646
+208,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Chicken Egg')",107,99.06542056074767,1.5057943925233646
+209,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Carrots')",109,99.08256880733946,1.5060550458715596
+210,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Rice, White')",99,98.98989898989899,1.5046464646464646
+211,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Cod')",119,99.15966386554622,1.5072268907563025
+212,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Cod', 'Potatoes, White')",89,98.87640449438202,1.5029213483146067
+213,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Cod', 'Chicken Egg')",95,98.94736842105263,1.504
+214,Tuna,"('Salmon', 'Turkey', 'Cod', 'Chicken Egg', 'Chicken')",104,90.38461538461539,2.0046393295420533
+215,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Cod', 'Carrots')",97,98.96907216494846,1.5043298969072165
+216,Chicken,"('Salmon', 'Tuna', 'Turkey', 'Cod', 'Rice, White')",90,98.88888888888889,1.503111111111111
+217,Cod,"('Salmon', 'Tuna', 'Turkey', 'Rice, White', 'Chicken')",98,90.81632653061224,1.8553873162168093
+218,Cod,"('Salmon', 'Tuna', 'Turkey', 'Rice, White')",99,90.9090909090909,1.8572825024437927
+219,Chicken,"('Salmon', 'Bananas', 'Potatoes, White')",106,91.50943396226415,1.390943396226415
+220,Chicken,"('Salmon', 'Bananas', 'Chicken Egg')",107,90.65420560747664,1.377943925233645
+221,Chicken,"('Salmon', 'Bananas', 'Carrots')",118,91.52542372881356,1.3911864406779662
+222,Chicken,"('Salmon', 'Bananas', 'Carrots', 'Potatoes, White')",92,92.3913043478261,1.4043478260869566
+223,Chicken,"('Salmon', 'Bananas', 'Carrots', 'Chicken Egg')",86,94.18604651162791,1.4316279069767441
+224,Chicken,"('Salmon', 'Bananas', 'Rice, White')",102,92.15686274509804,1.4007843137254903
+225,Chicken,"('Salmon', 'Bananas', 'Rice, White', 'Carrots')",87,93.10344827586206,1.4151724137931034
+226,Chicken,"('Salmon', 'Bananas', 'Cod')",117,92.3076923076923,1.403076923076923
+227,Chicken,"('Salmon', 'Bananas', 'Cod', 'Potatoes, White')",88,94.31818181818183,1.4336363636363636
+228,Chicken,"('Salmon', 'Bananas', 'Cod', 'Chicken Egg')",88,93.18181818181817,1.4163636363636363
+229,Chicken,"('Salmon', 'Bananas', 'Cod', 'Carrots')",96,93.75,1.425
+230,Chicken,"('Salmon', 'Bananas', 'Cod', 'Rice, White')",89,94.3820224719101,1.4346067415730337
+231,Chicken,"('Salmon', 'Bananas', 'Turkey')",105,100.0,1.52
+232,Chicken,"('Salmon', 'Bananas', 'Turkey', 'Carrots')",90,100.0,1.52
+233,Chicken,"('Salmon', 'Bananas', 'Turkey', 'Cod')",92,100.0,1.52
+234,Chicken,"('Salmon', 'Bananas', 'Tuna')",117,91.45299145299145,1.3900854700854701
+235,Chicken,"('Salmon', 'Bananas', 'Tuna', 'Potatoes, White')",87,93.10344827586206,1.4151724137931034
+236,Chicken,"('Salmon', 'Bananas', 'Tuna', 'Chicken Egg')",92,93.47826086956522,1.4208695652173913
+237,Chicken,"('Salmon', 'Bananas', 'Tuna', 'Carrots')",99,92.92929292929293,1.4125252525252525
+238,Chicken,"('Salmon', 'Bananas', 'Tuna', 'Cod')",100,93.0,1.4136
+239,Chicken,"('Salmon', 'Bananas', 'Tuna', 'Turkey')",89,100.0,1.52
+240,"Potatoes, White","('Sweet Potato', 'Rice, White', 'Carrots', 'Chicken')",116,90.51724137931035,1.7852881517718648
+241,Chicken,"('Sweet Potato', 'Rice, White', 'Carrots', 'Chicken Egg')",90,90.0,1.368
+242,"Potatoes, White","('Sweet Potato', 'Rice, White', 'Carrots', 'Chicken Egg')",90,93.33333333333333,1.8408304498269896
+243,Chicken,"('Sweet Potato', 'Cod')",150,92.66666666666666,1.4085333333333334
+244,Chicken,"('Sweet Potato', 'Cod', 'Potatoes, White')",118,94.0677966101695,1.4298305084745764
+245,Chicken,"('Sweet Potato', 'Cod', 'Chicken Egg')",108,94.44444444444444,1.4355555555555555
+246,Chicken,"('Sweet Potato', 'Cod', 'Chicken Egg', 'Potatoes, White')",93,94.6236559139785,1.438279569892473
+247,Chicken,"('Sweet Potato', 'Cod', 'Carrots')",121,93.38842975206612,1.419504132231405
+248,Chicken,"('Sweet Potato', 'Cod', 'Carrots', 'Potatoes, White')",100,94.0,1.4288
+249,Chicken,"('Sweet Potato', 'Cod', 'Carrots', 'Chicken Egg')",87,95.40229885057471,1.4501149425287356
+250,Chicken,"('Sweet Potato', 'Cod', 'Rice, White')",113,92.03539823008849,1.3989380530973452
+251,Chicken,"('Sweet Potato', 'Cod', 'Rice, White', 'Potatoes, White')",98,93.87755102040816,1.426938775510204
+252,Chicken,"('Sweet Potato', 'Cod', 'Rice, White', 'Carrots')",96,92.70833333333334,1.4091666666666667
+253,Chicken,"('Sweet Potato', 'Cod', 'Rice, White', 'Carrots', 'Potatoes, White')",86,94.18604651162791,1.4316279069767441
+254,"Potatoes, White","('Sweet Potato', 'Cod', 'Rice, White', 'Carrots', 'Chicken')",89,91.01123595505618,1.795031297383461
+255,Chicken,"('Sweet Potato', 'Turkey')",155,98.06451612903226,1.4905806451612904
+256,Chicken,"('Sweet Potato', 'Turkey', 'Potatoes, White')",124,97.58064516129032,1.4832258064516128
+257,Chicken,"('Sweet Potato', 'Turkey', 'Chicken Egg')",108,98.14814814814815,1.4918518518518518
+258,Chicken,"('Sweet Potato', 'Turkey', 'Chicken Egg', 'Potatoes, White')",93,97.84946236559139,1.4873118279569892
+259,Chicken,"('Sweet Potato', 'Turkey', 'Carrots')",125,99.2,1.50784
+260,Chicken,"('Sweet Potato', 'Turkey', 'Carrots', 'Potatoes, White')",104,99.03846153846155,1.5053846153846153
+261,Chicken,"('Sweet Potato', 'Turkey', 'Carrots', 'Chicken Egg')",87,98.85057471264368,1.502528735632184
+262,Chicken,"('Sweet Potato', 'Turkey', 'Rice, White')",119,97.47899159663865,1.4816806722689075
+263,Chicken,"('Sweet Potato', 'Turkey', 'Rice, White', 'Potatoes, White')",105,97.14285714285714,1.4765714285714286
+264,Chicken,"('Sweet Potato', 'Turkey', 'Rice, White', 'Carrots')",100,99.0,1.5048
+265,Chicken,"('Sweet Potato', 'Turkey', 'Rice, White', 'Carrots', 'Potatoes, White')",90,98.88888888888889,1.503111111111111
+266,"Potatoes, White","('Sweet Potato', 'Turkey', 'Rice, White', 'Carrots')",100,90.0,1.7750865051903115
+267,Chicken,"('Sweet Potato', 'Turkey', 'Cod')",116,98.27586206896551,1.4937931034482759
+268,Chicken,"('Sweet Potato', 'Turkey', 'Cod', 'Potatoes, White')",96,97.91666666666666,1.4883333333333333
+269,Chicken,"('Sweet Potato', 'Turkey', 'Cod', 'Chicken Egg')",89,97.75280898876404,1.4858426966292135
+270,Chicken,"('Sweet Potato', 'Turkey', 'Cod', 'Carrots')",96,98.95833333333334,1.5041666666666667
+271,Chicken,"('Sweet Potato', 'Turkey', 'Cod', 'Rice, White')",91,97.8021978021978,1.4865934065934066
+272,Chicken,"('Sweet Potato', 'Tuna', 'Potatoes, White')",112,91.96428571428571,1.397857142857143
+273,Chicken,"('Sweet Potato', 'Tuna', 'Chicken Egg')",104,94.23076923076923,1.4323076923076923
+274,Chicken,"('Sweet Potato', 'Tuna', 'Chicken Egg', 'Potatoes, White')",87,94.25287356321839,1.4326436781609195
+275,Chicken,"('Sweet Potato', 'Tuna', 'Carrots')",116,90.51724137931035,1.3758620689655172
+276,Chicken,"('Sweet Potato', 'Tuna', 'Carrots', 'Potatoes, White')",98,90.81632653061224,1.380408163265306
+277,Chicken,"('Sweet Potato', 'Tuna', 'Rice, White')",106,91.50943396226415,1.390943396226415
+278,Chicken,"('Sweet Potato', 'Tuna', 'Rice, White', 'Potatoes, White')",92,93.47826086956522,1.4208695652173913
+279,Chicken,"('Sweet Potato', 'Tuna', 'Rice, White', 'Carrots')",91,91.20879120879121,1.3863736263736264
+280,"Potatoes, White","('Sweet Potato', 'Tuna', 'Rice, White', 'Carrots')",91,90.10989010989012,1.7772538879805315
+281,Chicken,"('Sweet Potato', 'Tuna', 'Cod')",117,91.45299145299145,1.3900854700854701
+282,Chicken,"('Sweet Potato', 'Tuna', 'Cod', 'Potatoes, White')",95,93.6842105263158,1.424
+283,Chicken,"('Sweet Potato', 'Tuna', 'Cod', 'Chicken Egg')",88,94.31818181818183,1.4336363636363636
+284,Chicken,"('Sweet Potato', 'Tuna', 'Cod', 'Carrots')",100,92.0,1.3984
+285,Chicken,"('Sweet Potato', 'Tuna', 'Cod', 'Rice, White')",93,91.39784946236558,1.389247311827957
+286,Cod,"('Sweet Potato', 'Tuna', 'Rice, White', 'Carrots')",91,90.10989010989012,1.8409547441805507
+287,Chicken,"('Sweet Potato', 'Tuna', 'Turkey')",109,99.08256880733946,1.5060550458715596
+288,Chicken,"('Sweet Potato', 'Tuna', 'Turkey', 'Potatoes, White')",89,98.87640449438202,1.5029213483146067
+289,Chicken,"('Sweet Potato', 'Tuna', 'Turkey', 'Chicken Egg')",86,98.83720930232558,1.5023255813953489
+290,Chicken,"('Sweet Potato', 'Tuna', 'Turkey', 'Carrots')",93,98.9247311827957,1.5036559139784946
+291,Chicken,"('Sweet Potato', 'Tuna', 'Turkey', 'Cod')",95,98.94736842105263,1.504
+292,Chicken,"('Sweet Potato', 'Bananas', 'Chicken Egg')",101,90.0990099009901,1.3695049504950496
+293,Chicken,"('Sweet Potato', 'Bananas', 'Cod')",104,94.23076923076923,1.4323076923076923
+294,Chicken,"('Sweet Potato', 'Bananas', 'Cod', 'Carrots')",89,94.3820224719101,1.4346067415730337
+295,Chicken,"('Sweet Potato', 'Bananas', 'Turkey')",104,99.03846153846155,1.5053846153846153
+296,Chicken,"('Sweet Potato', 'Bananas', 'Turkey', 'Carrots')",90,100.0,1.52
+297,Chicken,"('Sweet Potato', 'Bananas', 'Tuna')",102,91.17647058823529,1.3858823529411766
+298,Chicken,"('Sweet Potato', 'Bananas', 'Tuna', 'Carrots')",89,91.01123595505618,1.3833707865168539
+299,Chicken,"('Sweet Potato', 'Salmon', 'Rice, White', 'Potatoes, White')",94,90.42553191489363,1.374468085106383
+300,Chicken,"('Sweet Potato', 'Salmon', 'Rice, White', 'Carrots')",93,90.32258064516128,1.3729032258064515
+301,Chicken,"('Sweet Potato', 'Salmon', 'Cod')",116,91.37931034482759,1.3889655172413793
+302,Chicken,"('Sweet Potato', 'Salmon', 'Cod', 'Potatoes, White')",92,92.3913043478261,1.4043478260869566
+303,Chicken,"('Sweet Potato', 'Salmon', 'Cod', 'Carrots')",97,91.75257731958763,1.394639175257732
+304,Chicken,"('Sweet Potato', 'Salmon', 'Cod', 'Rice, White')",97,90.72164948453609,1.3789690721649484
+305,"Rice, White","('Sweet Potato', 'Salmon', 'Cod', 'Potatoes, White')",92,90.21739130434783,1.9045893719806763
+306,Chicken,"('Sweet Potato', 'Salmon', 'Turkey')",110,98.18181818181819,1.4923636363636363
+307,Chicken,"('Sweet Potato', 'Salmon', 'Turkey', 'Carrots')",92,98.91304347826086,1.5034782608695652
+308,Chicken,"('Sweet Potato', 'Salmon', 'Turkey', 'Rice, White')",89,97.75280898876404,1.4858426966292135
+309,Chicken,"('Sweet Potato', 'Salmon', 'Turkey', 'Cod')",93,97.84946236559139,1.4873118279569892
+310,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Potatoes, White')",91,91.20879120879121,1.3863736263736264
+311,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Carrots')",100,90.0,1.368
+312,Carrots,"('Sweet Potato', 'Salmon', 'Tuna', 'Potatoes, White')",91,91.20879120879121,1.8836598184424271
+313,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Rice, White')",93,91.39784946236558,1.389247311827957
+314,Salmon,"('Sweet Potato', 'Tuna', 'Rice, White', 'Carrots')",91,90.10989010989012,2.046320213650891
+315,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Cod')",99,90.9090909090909,1.3818181818181818
+316,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Cod', 'Carrots')",88,90.9090909090909,1.3818181818181818
+317,Tuna,"('Sweet Potato', 'Salmon', 'Cod', 'Carrots')",97,90.72164948453609,2.012114404909944
+318,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Cod', 'Rice, White')",86,90.69767441860465,1.3786046511627907
+319,Cod,"('Sweet Potato', 'Salmon', 'Tuna', 'Rice, White')",93,92.47311827956989,1.8892357497976644
+320,Salmon,"('Sweet Potato', 'Tuna', 'Cod', 'Rice, White')",93,92.47311827956989,2.0999871481814676
+321,Chicken,"('Sweet Potato', 'Salmon', 'Tuna', 'Turkey')",91,98.9010989010989,1.5032967032967033
+322,Chicken,"('Sweet Potato', 'Salmon', 'Bananas')",96,90.625,1.3775
+323,"Potatoes, White","('Butter', 'Rice, White', 'Carrots', 'Chicken')",103,91.2621359223301,1.7999798434508012
+324,"Potatoes, White","('Butter', 'Rice, White', 'Carrots')",116,90.51724137931035,1.7852881517718648
+325,"Potatoes, White","('Butter', 'Rice, White', 'Carrots', 'Chicken Egg')",89,93.25842696629213,1.8393530578126822
+326,Chicken,"('Butter', 'Cod')",145,91.0344827586207,1.3837241379310345
+327,Chicken,"('Butter', 'Cod', 'Potatoes, White')",119,92.43697478991596,1.4050420168067226
+328,Chicken,"('Butter', 'Cod', 'Chicken Egg')",118,90.67796610169492,1.3783050847457627
+329,Chicken,"('Butter', 'Cod', 'Chicken Egg', 'Potatoes, White')",102,92.15686274509804,1.4007843137254903
+330,Chicken,"('Butter', 'Cod', 'Carrots')",108,92.5925925925926,1.4074074074074074
+331,Chicken,"('Butter', 'Cod', 'Carrots', 'Potatoes, White')",93,92.47311827956989,1.4055913978494623
+332,Chicken,"('Butter', 'Cod', 'Carrots', 'Chicken Egg')",87,93.10344827586206,1.4151724137931034
+333,"Potatoes, White","('Butter', 'Cod', 'Carrots', 'Chicken Egg')",87,91.95402298850574,1.813626058942847
+334,Chicken,"('Butter', 'Cod', 'Rice, White')",112,91.07142857142857,1.3842857142857143
+335,Chicken,"('Butter', 'Cod', 'Rice, White', 'Potatoes, White')",99,91.91919191919192,1.397171717171717
+336,Chicken,"('Butter', 'Cod', 'Rice, White', 'Chicken Egg')",93,91.39784946236558,1.389247311827957
+337,Chicken,"('Butter', 'Cod', 'Rice, White', 'Chicken Egg', 'Potatoes, White')",86,91.86046511627907,1.3962790697674419
+338,"Potatoes, White","('Butter', 'Cod', 'Rice, White', 'Chicken Egg')",93,92.47311827956989,1.8238642705659114
+339,Chicken,"('Butter', 'Cod', 'Rice, White', 'Carrots')",89,92.13483146067416,1.4004494382022472
+340,"Potatoes, White","('Butter', 'Cod', 'Rice, White', 'Carrots')",89,91.01123595505618,1.795031297383461
+341,Chicken,"('Butter', 'Turkey')",142,97.1830985915493,1.4771830985915493
+342,Chicken,"('Butter', 'Turkey', 'Potatoes, White')",114,98.24561403508771,1.4933333333333334
+343,Chicken,"('Butter', 'Turkey', 'Chicken Egg')",109,97.24770642201835,1.478165137614679
+344,Chicken,"('Butter', 'Turkey', 'Chicken Egg', 'Potatoes, White')",90,97.77777777777777,1.4862222222222221
+345,Chicken,"('Butter', 'Turkey', 'Carrots')",109,97.24770642201835,1.478165137614679
+346,Chicken,"('Butter', 'Turkey', 'Carrots', 'Potatoes, White')",90,98.88888888888889,1.503111111111111
+347,Chicken,"('Butter', 'Turkey', 'Rice, White')",106,97.16981132075472,1.4769811320754718
+348,Chicken,"('Butter', 'Turkey', 'Rice, White', 'Potatoes, White')",93,97.84946236559139,1.4873118279569892
+349,Chicken,"('Butter', 'Turkey', 'Cod')",106,97.16981132075472,1.4769811320754718
+350,Chicken,"('Butter', 'Turkey', 'Cod', 'Potatoes, White')",89,97.75280898876404,1.4858426966292135
+351,Chicken,"('Butter', 'Turkey', 'Cod', 'Chicken Egg')",87,97.70114942528735,1.4850574712643678
+352,Chicken,"('Butter', 'Tuna')",132,90.9090909090909,1.3818181818181818
+353,Chicken,"('Butter', 'Tuna', 'Potatoes, White')",106,92.45283018867924,1.4052830188679246
+354,Chicken,"('Butter', 'Tuna', 'Chicken Egg')",110,90.9090909090909,1.3818181818181818
+355,Chicken,"('Butter', 'Tuna', 'Chicken Egg', 'Potatoes, White')",91,92.3076923076923,1.403076923076923
+356,Chicken,"('Butter', 'Tuna', 'Carrots')",99,92.92929292929293,1.4125252525252525
+357,Chicken,"('Butter', 'Tuna', 'Carrots', 'Potatoes, White')",86,91.86046511627907,1.3962790697674419
+358,Chicken,"('Butter', 'Tuna', 'Rice, White')",100,92.0,1.3984
+359,Chicken,"('Butter', 'Tuna', 'Rice, White', 'Potatoes, White')",89,93.25842696629213,1.4175280898876403
+360,"Potatoes, White","('Butter', 'Tuna', 'Rice, White', 'Chicken')",92,90.21739130434783,1.779374153753573
+361,Chicken,"('Butter', 'Tuna', 'Cod')",112,91.07142857142857,1.3842857142857143
+362,Chicken,"('Butter', 'Tuna', 'Cod', 'Potatoes, White')",92,92.3913043478261,1.4043478260869566
+363,Chicken,"('Butter', 'Tuna', 'Cod', 'Chicken Egg')",94,90.42553191489363,1.374468085106383
+364,Chicken,"('Butter', 'Tuna', 'Cod', 'Carrots')",87,93.10344827586206,1.4151724137931034
+365,Chicken,"('Butter', 'Tuna', 'Cod', 'Rice, White')",88,92.04545454545455,1.3990909090909092
+366,Chicken,"('Butter', 'Tuna', 'Turkey')",97,98.96907216494846,1.5043298969072165
+367,Chicken,"('Butter', 'Bananas', 'Potatoes, White')",106,90.56603773584906,1.3766037735849057
+368,Chicken,"('Butter', 'Bananas', 'Chicken Egg')",98,91.83673469387756,1.3959183673469389
+369,Chicken,"('Butter', 'Bananas', 'Carrots')",103,92.23300970873787,1.4019417475728155
+370,Chicken,"('Butter', 'Bananas', 'Carrots', 'Potatoes, White')",88,92.04545454545455,1.3990909090909092
+371,Chicken,"('Butter', 'Bananas', 'Rice, White')",96,90.625,1.3775
+372,Chicken,"('Butter', 'Bananas', 'Rice, White', 'Potatoes, White')",86,91.86046511627907,1.3962790697674419
+373,"Potatoes, White","('Butter', 'Bananas', 'Rice, White', 'Chicken')",87,90.80459770114942,1.7909557332060613
+374,Chicken,"('Butter', 'Bananas', 'Cod')",98,93.87755102040816,1.426938775510204
+375,Chicken,"('Butter', 'Bananas', 'Turkey')",91,100.0,1.52
+376,Chicken,"('Butter', 'Bananas', 'Tuna')",86,93.02325581395348,1.413953488372093
+377,Chicken,"('Butter', 'Salmon', 'Potatoes, White')",106,90.56603773584906,1.3766037735849057
+378,Chicken,"('Butter', 'Salmon', 'Carrots')",99,92.92929292929293,1.4125252525252525
+379,Chicken,"('Butter', 'Salmon', 'Carrots', 'Potatoes, White')",86,91.86046511627907,1.3962790697674419
+380,Chicken,"('Butter', 'Salmon', 'Rice, White', 'Potatoes, White')",90,90.0,1.368
+381,"Potatoes, White","('Butter', 'Salmon', 'Rice, White', 'Chicken')",88,92.04545454545455,1.815429380308273
+382,"Potatoes, White","('Butter', 'Salmon', 'Rice, White')",98,91.83673469387756,1.811312760398277
+383,Chicken,"('Butter', 'Salmon', 'Cod', 'Potatoes, White')",92,91.30434782608695,1.3878260869565218
+384,"Potatoes, White","('Butter', 'Salmon', 'Cod', 'Chicken Egg')",87,90.80459770114942,1.7909557332060613
+385,Chicken,"('Butter', 'Salmon', 'Cod', 'Rice, White')",87,90.80459770114942,1.3802298850574712
+386,"Potatoes, White","('Butter', 'Salmon', 'Cod', 'Rice, White')",87,91.95402298850574,1.813626058942847
+387,Chicken,"('Butter', 'Salmon', 'Turkey')",95,97.89473684210527,1.488
+388,Chicken,"('Butter', 'Salmon', 'Tuna')",102,91.17647058823529,1.3858823529411766
+389,Chicken,"('Butter', 'Salmon', 'Tuna', 'Potatoes, White')",86,93.02325581395348,1.413953488372093
+390,Chicken,"('Butter', 'Salmon', 'Tuna', 'Chicken Egg')",86,90.69767441860465,1.3786046511627907
+391,Chicken,"('Butter', 'Salmon', 'Tuna', 'Cod')",90,90.0,1.368
+392,Cod,"('Butter', 'Salmon', 'Tuna', 'Potatoes, White')",86,90.69767441860465,1.8529632408102026
+393,"Potatoes, White","('Butter', 'Sweet Potato', 'Chicken Egg')",89,91.01123595505618,1.795031297383461
+394,Chicken,"('Butter', 'Sweet Potato', 'Carrots')",100,92.0,1.3984
+395,Chicken,"('Butter', 'Sweet Potato', 'Carrots', 'Potatoes, White')",88,92.04545454545455,1.3990909090909092
+396,"Potatoes, White","('Butter', 'Sweet Potato', 'Rice, White')",92,92.3913043478261,1.8222506393861893
+397,Chicken,"('Butter', 'Sweet Potato', 'Cod')",87,91.95402298850574,1.3977011494252873
+398,Chicken,"('Butter', 'Sweet Potato', 'Turkey')",89,97.75280898876404,1.4858426966292135
+399,Carrots,"('Butter', 'Sweet Potato', 'Turkey', 'Chicken')",87,90.80459770114942,1.8753123438280859
+400,Chicken,"('Garlic', 'Cod')",143,90.20979020979021,1.371188811188811
+401,Chicken,"('Garlic', 'Cod', 'Potatoes, White')",112,92.85714285714286,1.4114285714285715
+402,Chicken,"('Garlic', 'Cod', 'Chicken Egg')",106,91.50943396226415,1.390943396226415
+403,Chicken,"('Garlic', 'Cod', 'Chicken Egg', 'Potatoes, White')",90,93.33333333333333,1.4186666666666667
+404,Chicken,"('Garlic', 'Cod', 'Carrots')",122,90.1639344262295,1.3704918032786886
+405,Chicken,"('Garlic', 'Cod', 'Carrots', 'Potatoes, White')",96,91.66666666666666,1.3933333333333333
+406,Chicken,"('Garlic', 'Cod', 'Carrots', 'Chicken Egg')",88,92.04545454545455,1.3990909090909092
+407,Chicken,"('Garlic', 'Cod', 'Rice, White')",106,90.56603773584906,1.3766037735849057
+408,Chicken,"('Garlic', 'Cod', 'Rice, White', 'Potatoes, White')",93,92.47311827956989,1.4055913978494623
+409,Carrots,"('Garlic', 'Cod', 'Rice, White')",106,90.56603773584906,1.870385561936013
+410,Chicken,"('Garlic', 'Turkey')",133,96.2406015037594,1.4628571428571429
+411,Chicken,"('Garlic', 'Turkey', 'Potatoes, White')",101,98.01980198019803,1.48990099009901
+412,Chicken,"('Garlic', 'Turkey', 'Chicken Egg')",92,98.91304347826086,1.5034782608695652
+413,Chicken,"('Garlic', 'Turkey', 'Carrots')",108,97.22222222222221,1.4777777777777779
+414,Chicken,"('Garlic', 'Turkey', 'Rice, White')",97,96.90721649484536,1.4729896907216495
+415,Chicken,"('Garlic', 'Turkey', 'Cod')",108,98.14814814814815,1.4918518518518518
+416,Chicken,"('Garlic', 'Turkey', 'Cod', 'Carrots')",91,97.8021978021978,1.4865934065934066
+417,Chicken,"('Garlic', 'Tuna', 'Potatoes, White')",105,91.42857142857143,1.3897142857142857
+418,Chicken,"('Garlic', 'Tuna', 'Carrots', 'Potatoes, White')",93,90.32258064516128,1.3729032258064515
+419,Chicken,"('Garlic', 'Tuna', 'Rice, White')",97,90.72164948453609,1.3789690721649484
+420,Chicken,"('Garlic', 'Tuna', 'Rice, White', 'Potatoes, White')",87,91.95402298850574,1.3977011494252873
+421,"Potatoes, White","('Garlic', 'Tuna', 'Rice, White', 'Chicken')",88,90.9090909090909,1.7930166719094054
+422,Carrots,"('Garlic', 'Tuna', 'Rice, White', 'Chicken')",88,90.9090909090909,1.8774703557312253
+423,Carrots,"('Garlic', 'Tuna', 'Rice, White', 'Potatoes, White')",87,90.80459770114942,1.8753123438280859
+424,Carrots,"('Garlic', 'Tuna', 'Rice, White')",97,91.75257731958763,1.8948901837740924
+425,Chicken,"('Garlic', 'Tuna', 'Cod', 'Potatoes, White')",95,91.57894736842105,1.392
+426,Cod,"('Garlic', 'Tuna', 'Potatoes, White', 'Chicken')",96,90.625,1.851478494623656
+427,Cod,"('Garlic', 'Tuna', 'Potatoes, White')",105,90.47619047619048,1.8484383000512032
+428,Cod,"('Garlic', 'Tuna', 'Carrots', 'Chicken')",101,91.0891089108911,1.860960289577345
+429,Cod,"('Garlic', 'Tuna', 'Carrots', 'Potatoes, White')",93,91.39784946236558,1.8672678922418777
+430,Cod,"('Garlic', 'Tuna', 'Carrots')",113,91.1504424778761,1.8622133409458559
+431,"Potatoes, White","('Garlic', 'Tuna', 'Cod', 'Rice, White')",88,90.9090909090909,1.7930166719094054
+432,Cod,"('Garlic', 'Tuna', 'Rice, White', 'Potatoes, White')",87,91.95402298850574,1.878630577184526
+433,Carrots,"('Garlic', 'Tuna', 'Cod', 'Rice, White')",88,93.18181818181817,1.9244071146245059
+434,Cod,"('Garlic', 'Tuna', 'Rice, White', 'Carrots')",89,92.13483146067416,1.8823245137126978
+435,Cod,"('Garlic', 'Tuna', 'Rice, White')",97,90.72164948453609,1.8534530539851457
+436,Chicken,"('Garlic', 'Tuna', 'Turkey')",95,98.94736842105263,1.504
+437,Chicken,"('Garlic', 'Tuna', 'Turkey', 'Cod')",88,98.86363636363636,1.5027272727272727
+438,Cod,"('Garlic', 'Tuna', 'Turkey', 'Chicken')",94,92.5531914893617,1.8908716540837336
+439,Cod,"('Garlic', 'Tuna', 'Turkey')",95,92.63157894736842,1.89247311827957
+440,Chicken,"('Garlic', 'Bananas', 'Chicken Egg')",92,90.21739130434783,1.371304347826087
+441,Chicken,"('Garlic', 'Bananas', 'Cod')",97,92.78350515463917,1.4103092783505156
+442,Chicken,"('Garlic', 'Bananas', 'Turkey')",91,97.8021978021978,1.4865934065934066
+443,Chicken,"('Garlic', 'Bananas', 'Tuna')",89,92.13483146067416,1.4004494382022472
+444,Chicken,"('Garlic', 'Salmon', 'Potatoes, White')",96,91.66666666666666,1.3933333333333333
+445,Chicken,"('Garlic', 'Salmon', 'Chicken Egg')",91,90.10989010989012,1.3696703296703296
+446,Chicken,"('Garlic', 'Salmon', 'Carrots', 'Potatoes, White')",87,90.80459770114942,1.3802298850574712
+447,Carrots,"('Garlic', 'Salmon', 'Potatoes, White')",96,90.625,1.8716032608695652
+448,Chicken,"('Garlic', 'Salmon', 'Rice, White')",96,90.625,1.3775
+449,Carrots,"('Garlic', 'Salmon', 'Rice, White', 'Chicken')",87,90.80459770114942,1.8753123438280859
+450,Carrots,"('Garlic', 'Salmon', 'Rice, White')",96,91.66666666666666,1.8931159420289856
+451,Cod,"('Garlic', 'Salmon', 'Chicken')",109,91.74311926605505,1.8743217914570385
+452,Chicken,"('Garlic', 'Salmon', 'Cod', 'Potatoes, White')",89,92.13483146067416,1.4004494382022472
+453,Cod,"('Garlic', 'Salmon', 'Potatoes, White', 'Chicken')",88,93.18181818181817,1.9037145650048877
+454,Cod,"('Garlic', 'Salmon', 'Potatoes, White')",96,92.70833333333334,1.894041218637993
+455,Cod,"('Garlic', 'Salmon', 'Chicken Egg')",91,90.10989010989012,1.8409547441805507
+456,Chicken,"('Garlic', 'Salmon', 'Cod', 'Carrots')",101,90.0990099009901,1.3695049504950496
+457,Carrots,"('Garlic', 'Salmon', 'Cod', 'Chicken')",100,91.0,1.8793478260869565
+458,Cod,"('Garlic', 'Salmon', 'Carrots', 'Chicken')",98,92.85714285714286,1.8970814132104454
+459,Carrots,"('Garlic', 'Salmon', 'Cod', 'Potatoes, White')",89,91.01123595505618,1.8795798729848558
+460,Cod,"('Garlic', 'Salmon', 'Carrots', 'Potatoes, White')",87,93.10344827586206,1.9021134593993325
+461,Carrots,"('Garlic', 'Salmon', 'Cod')",112,90.17857142857143,1.8623835403726707
+462,Cod,"('Garlic', 'Salmon', 'Carrots')",109,92.66055045871559,1.893065009371609
+463,Chicken,"('Garlic', 'Salmon', 'Cod', 'Rice, White')",89,91.01123595505618,1.3833707865168539
+464,Cod,"('Garlic', 'Salmon', 'Rice, White', 'Chicken')",87,93.10344827586206,1.9021134593993325
+465,Carrots,"('Garlic', 'Salmon', 'Cod', 'Rice, White')",89,92.13483146067416,1.9027845627747924
+466,Cod,"('Garlic', 'Salmon', 'Rice, White', 'Carrots')",88,93.18181818181817,1.9037145650048877
+467,Cod,"('Garlic', 'Salmon', 'Rice, White')",96,92.70833333333334,1.894041218637993
+468,Cod,"('Garlic', 'Salmon')",122,91.80327868852459,1.8755508549268465
+469,Chicken,"('Garlic', 'Salmon', 'Turkey')",91,98.9010989010989,1.5032967032967033
+470,Carrots,"('Garlic', 'Salmon', 'Turkey', 'Chicken')",90,90.0,1.858695652173913
+471,Carrots,"('Garlic', 'Salmon', 'Turkey')",91,90.10989010989012,1.860965121834687
+472,Cod,"('Garlic', 'Salmon', 'Turkey', 'Chicken')",90,92.22222222222223,1.8841099163679809
+473,Cod,"('Garlic', 'Salmon', 'Turkey')",91,92.3076923076923,1.8858560794044665
+474,Chicken,"('Garlic', 'Salmon', 'Tuna', 'Potatoes, White')",87,91.95402298850574,1.3977011494252873
+475,Tuna,"('Garlic', 'Salmon', 'Potatoes, White', 'Chicken')",88,90.9090909090909,2.0162716660771136
+476,Tuna,"('Garlic', 'Salmon', 'Potatoes, White')",96,90.625,2.0099708171206228
+477,Carrots,"('Garlic', 'Salmon', 'Tuna', 'Chicken')",95,90.52631578947368,1.8695652173913044
+478,Carrots,"('Garlic', 'Salmon', 'Tuna', 'Potatoes, White')",87,90.80459770114942,1.8753123438280859
+479,Tuna,"('Garlic', 'Salmon', 'Carrots', 'Potatoes, White')",87,90.80459770114942,2.0139541124379443
+480,Chicken,"('Garlic', 'Salmon', 'Tuna', 'Rice, White')",86,90.69767441860465,1.3786046511627907
+481,"Potatoes, White","('Garlic', 'Salmon', 'Tuna', 'Rice, White')",86,90.69767441860465,1.7888468656956626
+482,Carrots,"('Garlic', 'Salmon', 'Tuna', 'Rice, White')",86,91.86046511627907,1.897118301314459
+483,Cod,"('Garlic', 'Salmon', 'Tuna', 'Chicken')",95,93.6842105263158,1.913978494623656
+484,Cod,"('Garlic', 'Salmon', 'Tuna', 'Potatoes, White')",87,93.10344827586206,1.9021134593993325
+485,Tuna,"('Garlic', 'Salmon', 'Cod', 'Potatoes, White')",89,91.01123595505618,2.0185371398592227
+486,Carrots,"('Garlic', 'Salmon', 'Tuna', 'Cod', 'Chicken')",89,91.01123595505618,1.8795798729848558
+487,Cod,"('Garlic', 'Salmon', 'Tuna', 'Carrots', 'Chicken')",86,94.18604651162791,1.924231057764441
+488,Carrots,"('Garlic', 'Salmon', 'Tuna', 'Cod')",101,90.0990099009901,1.8607404218682737
+489,Cod,"('Garlic', 'Salmon', 'Tuna', 'Carrots')",96,94.79166666666666,1.9366039426523298
+490,Tuna,"('Garlic', 'Salmon', 'Cod', 'Carrots')",101,90.0990099009901,1.9983048888546442
+491,Cod,"('Garlic', 'Salmon', 'Tuna', 'Rice, White')",86,94.18604651162791,1.924231057764441
+492,Tuna,"('Garlic', 'Salmon', 'Cod', 'Rice, White')",89,91.01123595505618,2.0185371398592227
+493,Salmon,"('Garlic', 'Tuna', 'Cod', 'Rice, White')",88,92.04545454545455,2.0902752625860197
+494,Cod,"('Garlic', 'Salmon', 'Tuna')",107,94.39252336448598,1.9284494020701437
+495,Tuna,"('Garlic', 'Salmon', 'Cod')",112,90.17857142857143,2.0000694830461367
+496,Chicken,"('Garlic', 'Salmon', 'Bananas')",87,91.95402298850574,1.3977011494252873
+497,Carrots,"('Garlic', 'Salmon', 'Bananas')",87,90.80459770114942,1.8753123438280859
+498,Cod,"('Garlic', 'Salmon', 'Bananas')",87,91.95402298850574,1.878630577184526
+499,Chicken,"('Garlic', 'Sweet Potato', 'Chicken Egg')",86,90.69767441860465,1.3786046511627907
+500,"Potatoes, White","('Garlic', 'Sweet Potato', 'Chicken Egg')",86,91.86046511627907,1.811780799871248
+501,"Potatoes, White","('Garlic', 'Sweet Potato', 'Rice, White', 'Chicken')",89,92.13483146067416,1.8171921775980717
+502,"Potatoes, White","('Garlic', 'Sweet Potato', 'Rice, White')",103,90.29126213592234,1.780831121711963
+503,"Potatoes, White","('Garlic', 'Sweet Potato', 'Rice, White', 'Carrots')",91,90.10989010989012,1.7772538879805315
+504,Chicken,"('Garlic', 'Sweet Potato', 'Cod')",100,92.0,1.3984
+505,Chicken,"('Garlic', 'Sweet Potato', 'Cod', 'Carrots')",90,91.11111111111111,1.3848888888888888
+506,Carrots,"('Garlic', 'Sweet Potato', 'Cod')",100,90.0,1.858695652173913
+507,Chicken,"('Garlic', 'Sweet Potato', 'Turkey')",98,97.95918367346938,1.4889795918367348
+508,Chicken,"('Garlic', 'Sweet Potato', 'Tuna')",92,90.21739130434783,1.371304347826087
+509,Cod,"('Garlic', 'Sweet Potato', 'Tuna')",92,92.3913043478261,1.8875642823749417
+510,Carrots,"('Garlic', 'Sweet Potato', 'Salmon')",88,93.18181818181817,1.9244071146245059
+511,Cod,"('Garlic', 'Sweet Potato', 'Salmon')",88,93.18181818181817,1.9037145650048877
+512,Chicken,"('Garlic', 'Butter', 'Potatoes, White')",96,91.66666666666666,1.3933333333333333
+513,Chicken,"('Garlic', 'Butter', 'Carrots')",101,90.0990099009901,1.3695049504950496
+514,Chicken,"('Garlic', 'Butter', 'Carrots', 'Potatoes, White')",86,90.69767441860465,1.3786046511627907
+515,Chicken,"('Garlic', 'Butter', 'Rice, White')",94,91.48936170212765,1.3906382978723404
+516,Chicken,"('Garlic', 'Butter', 'Cod')",92,90.21739130434783,1.371304347826087
+517,Chicken,"('Garlic', 'Butter', 'Turkey')",88,97.72727272727273,1.4854545454545454
+518,Chicken,"('Cucumber', 'Cod')",130,90.76923076923077,1.3796923076923078
+519,Chicken,"('Cucumber', 'Cod', 'Potatoes, White')",96,92.70833333333334,1.4091666666666667
+520,Chicken,"('Cucumber', 'Cod', 'Chicken Egg')",99,92.92929292929293,1.4125252525252525
+521,Chicken,"('Cucumber', 'Cod', 'Carrots')",110,90.9090909090909,1.3818181818181818
+522,Chicken,"('Cucumber', 'Cod', 'Rice, White')",91,91.20879120879121,1.3863736263736264
+523,Chicken,"('Cucumber', 'Turkey')",124,97.58064516129032,1.4832258064516128
+524,Chicken,"('Cucumber', 'Turkey', 'Potatoes, White')",90,98.88888888888889,1.503111111111111
+525,Chicken,"('Cucumber', 'Turkey', 'Chicken Egg')",96,97.91666666666666,1.4883333333333333
+526,Chicken,"('Cucumber', 'Turkey', 'Carrots')",102,97.05882352941177,1.4752941176470589
+527,Chicken,"('Cucumber', 'Turkey', 'Cod')",100,99.0,1.5048
+528,Chicken,"('Cucumber', 'Turkey', 'Cod', 'Carrots')",86,98.83720930232558,1.5023255813953489
+529,Chicken,"('Cucumber', 'Tuna', 'Chicken Egg')",95,91.57894736842105,1.392
+530,Chicken,"('Cucumber', 'Tuna', 'Turkey')",93,98.9247311827957,1.5036559139784946
+531,Cod,"('Cucumber', 'Tuna', 'Turkey', 'Chicken')",92,90.21739130434783,1.84315100514259
+532,Turkey,"('Cucumber', 'Tuna', 'Cod', 'Chicken')",92,90.21739130434783,1.8905850383631713
+533,Cod,"('Cucumber', 'Tuna', 'Turkey')",93,90.32258064516128,1.8453000346860908
+534,Chicken,"('Cucumber', 'Bananas', 'Cod')",90,94.44444444444444,1.4355555555555555
+535,Chicken,"('Cucumber', 'Bananas', 'Turkey')",88,98.86363636363636,1.5027272727272727
+536,Chicken,"('Cucumber', 'Bananas', 'Tuna')",87,90.80459770114942,1.3802298850574712
+537,Carrots,"('Cucumber', 'Salmon', 'Potatoes, White')",87,90.80459770114942,1.8753123438280859
+538,Chicken,"('Cucumber', 'Salmon', 'Cod')",102,90.19607843137256,1.3709803921568628
+539,Chicken,"('Cucumber', 'Salmon', 'Cod', 'Carrots')",91,90.10989010989012,1.3696703296703296
+540,Cod,"('Cucumber', 'Salmon', 'Carrots', 'Chicken')",91,90.10989010989012,1.8409547441805507
+541,Chicken,"('Cucumber', 'Salmon', 'Turkey')",93,98.9247311827957,1.5036559139784946
+542,Carrots,"('Cucumber', 'Salmon', 'Tuna', 'Cod')",88,90.9090909090909,1.8774703557312253
+543,Cod,"('Cucumber', 'Salmon', 'Tuna', 'Carrots')",88,90.9090909090909,1.8572825024437927
+544,Chicken,"('Cucumber', 'Sweet Potato', 'Cod')",89,93.25842696629213,1.4175280898876403
+545,Chicken,"('Cucumber', 'Sweet Potato', 'Turkey')",87,98.85057471264368,1.502528735632184
+546,Chicken,"('Cucumber', 'Garlic', 'Cod')",86,91.86046511627907,1.3962790697674419
+547,Carrots,"('Basil', 'Chicken Egg', 'Potatoes, White', 'Chicken')",87,90.80459770114942,1.8753123438280859
+548,Carrots,"('Basil', 'Chicken Egg', 'Potatoes, White')",106,90.56603773584906,1.870385561936013
+549,"Potatoes, White","('Basil', 'Rice, White', 'Chicken Egg')",96,90.625,1.7874134948096885
+550,Chicken,"('Basil', 'Cod', 'Potatoes, White')",100,90.0,1.368
+551,Carrots,"('Basil', 'Cod', 'Chicken')",114,90.35087719298247,1.8659420289855073
+552,Chicken,"('Basil', 'Cod', 'Carrots', 'Potatoes, White')",89,91.01123595505618,1.3833707865168539
+553,Carrots,"('Basil', 'Cod', 'Potatoes, White', 'Chicken')",90,90.0,1.858695652173913
+554,Chicken,"('Basil', 'Cod', 'Carrots', 'Chicken Egg')",86,91.86046511627907,1.3962790697674419
+555,Carrots,"('Basil', 'Cod', 'Chicken Egg', 'Chicken')",87,90.80459770114942,1.8753123438280859
+556,Chicken,"('Basil', 'Turkey')",131,96.94656488549617,1.473587786259542
+557,Chicken,"('Basil', 'Turkey', 'Potatoes, White')",101,97.02970297029702,1.4748514851485148
+558,Chicken,"('Basil', 'Turkey', 'Chicken Egg')",93,97.84946236559139,1.4873118279569892
+559,Chicken,"('Basil', 'Turkey', 'Carrots')",111,98.1981981981982,1.4926126126126127
+560,Chicken,"('Basil', 'Turkey', 'Carrots', 'Potatoes, White')",87,98.85057471264368,1.502528735632184
+561,Chicken,"('Basil', 'Turkey', 'Rice, White')",98,95.91836734693877,1.4579591836734693
+562,Chicken,"('Basil', 'Turkey', 'Rice, White', 'Potatoes, White')",86,96.51162790697676,1.4669767441860466
+563,Chicken,"('Basil', 'Turkey', 'Cod')",100,97.0,1.4744
+564,Chicken,"('Basil', 'Turkey', 'Cod', 'Carrots')",90,97.77777777777777,1.4862222222222221
+565,Carrots,"('Basil', 'Turkey', 'Cod', 'Chicken')",97,90.72164948453609,1.8735992828328103
+566,Carrots,"('Basil', 'Turkey', 'Cod')",100,90.0,1.858695652173913
+567,Carrots,"('Basil', 'Tuna', 'Chicken')",104,90.38461538461539,1.866638795986622
+568,Carrots,"('Basil', 'Tuna', 'Potatoes, White')",92,91.30434782608695,1.885633270321361
+569,Carrots,"('Basil', 'Tuna', 'Rice, White')",86,91.86046511627907,1.897118301314459
+570,Carrots,"('Basil', 'Tuna', 'Cod', 'Chicken')",91,92.3076923076923,1.9063545150501673
+571,Carrots,"('Basil', 'Tuna', 'Cod')",106,90.56603773584906,1.870385561936013
+572,Cod,"('Basil', 'Tuna', 'Rice, White')",86,90.69767441860465,1.8529632408102026
+573,Chicken,"('Basil', 'Tuna', 'Turkey')",94,98.93617021276596,1.5038297872340425
+574,Carrots,"('Basil', 'Tuna', 'Turkey', 'Chicken')",93,90.32258064516128,1.8653576437587658
+575,Carrots,"('Basil', 'Tuna', 'Turkey')",94,90.42553191489363,1.8674838112858465
+576,Turkey,"('Basil', 'Tuna', 'Cod', 'Chicken')",91,90.10989010989012,1.8883322559793148
+577,Carrots,"('Basil', 'Bananas', 'Potatoes, White')",96,91.66666666666666,1.8931159420289856
+578,Carrots,"('Basil', 'Bananas', 'Rice, White')",93,92.47311827956989,1.9097709209911173
+579,Chicken,"('Basil', 'Bananas', 'Cod')",89,91.01123595505618,1.3833707865168539
+580,Chicken,"('Basil', 'Bananas', 'Turkey')",92,98.91304347826086,1.5034782608695652
+581,Carrots,"('Basil', 'Bananas', 'Turkey', 'Chicken')",91,90.10989010989012,1.860965121834687
+582,Carrots,"('Basil', 'Bananas', 'Tuna')",86,91.86046511627907,1.897118301314459
+583,Carrots,"('Basil', 'Salmon', 'Chicken')",110,90.9090909090909,1.8774703557312253
+584,Carrots,"('Basil', 'Salmon', 'Cod', 'Chicken')",96,92.70833333333334,1.9146286231884058
+585,Carrots,"('Basil', 'Salmon', 'Cod')",111,90.990990990991,1.8791617704661183
+586,Chicken,"('Basil', 'Salmon', 'Turkey')",97,97.9381443298969,1.488659793814433
+587,Chicken,"('Basil', 'Salmon', 'Turkey', 'Carrots')",88,98.86363636363636,1.5027272727272727
+588,Carrots,"('Basil', 'Salmon', 'Turkey', 'Chicken')",95,91.57894736842105,1.891304347826087
+589,Carrots,"('Basil', 'Salmon', 'Turkey')",97,90.72164948453609,1.8735992828328103
+590,Salmon,"('Basil', 'Tuna', 'Potatoes, White')",92,90.21739130434783,2.0487614758357875
+591,Carrots,"('Basil', 'Salmon', 'Tuna', 'Chicken')",93,91.39784946236558,1.8875642823749417
+592,Salmon,"('Basil', 'Tuna', 'Carrots', 'Chicken')",94,90.42553191489363,2.0534881749597353
+593,Salmon,"('Basil', 'Tuna', 'Carrots')",108,90.74074074074075,2.060646303674192
+594,Salmon,"('Basil', 'Tuna', 'Rice, White')",86,93.02325581395348,2.112480311312888
+595,Salmon,"('Basil', 'Tuna', 'Cod', 'Chicken')",91,90.10989010989012,2.046320213650891
+596,Carrots,"('Basil', 'Salmon', 'Tuna', 'Cod')",95,92.63157894736842,1.9130434782608696
+597,Salmon,"('Basil', 'Tuna', 'Cod', 'Carrots')",96,91.66666666666666,2.0816733067729083
+598,Carrots,"('Basil', 'Salmon', 'Bananas')",87,94.25287356321839,1.946526736631684
+599,"Potatoes, White","('Basil', 'Sweet Potato', 'Chicken Egg')",92,90.21739130434783,1.779374153753573
+600,Carrots,"('Basil', 'Sweet Potato', 'Chicken')",111,90.09009009009009,1.8605562083822953
+601,Carrots,"('Basil', 'Sweet Potato', 'Potatoes, White', 'Chicken')",94,91.48936170212765,1.8894542090656798
+602,Carrots,"('Basil', 'Sweet Potato', 'Chicken Egg')",92,91.30434782608695,1.885633270321361
+603,"Potatoes, White","('Basil', 'Sweet Potato', 'Rice, White', 'Chicken')",92,91.30434782608695,1.8008123965698812
+604,Carrots,"('Basil', 'Sweet Potato', 'Rice, White', 'Chicken')",92,90.21739130434783,1.8631852551984878
+605,"Potatoes, White","('Basil', 'Sweet Potato', 'Rice, White', 'Carrots')",98,90.81632653061224,1.7911870630605182
+606,Chicken,"('Basil', 'Sweet Potato', 'Cod', 'Carrots')",88,90.9090909090909,1.3818181818181818
+607,Carrots,"('Basil', 'Sweet Potato', 'Cod', 'Chicken')",87,91.95402298850574,1.8990504747626187
+608,Carrots,"('Basil', 'Sweet Potato', 'Cod')",97,90.72164948453609,1.8735992828328103
+609,Chicken,"('Basil', 'Sweet Potato', 'Turkey')",98,96.93877551020408,1.473469387755102
+610,Chicken,"('Basil', 'Sweet Potato', 'Turkey', 'Carrots')",86,98.83720930232558,1.5023255813953489
+611,Carrots,"('Basil', 'Sweet Potato', 'Tuna')",89,91.01123595505618,1.8795798729848558
+612,Carrots,"('Basil', 'Sweet Potato', 'Salmon')",96,90.625,1.8716032608695652
+613,"Potatoes, White","('Basil', 'Butter', 'Rice, White')",92,90.21739130434783,1.779374153753573
+614,Chicken,"('Basil', 'Butter', 'Turkey')",90,96.66666666666667,1.4693333333333334
+615,Carrots,"('Basil', 'Butter', 'Sweet Potato')",86,90.69767441860465,1.8731041456016178
+616,Carrots,"('Basil', 'Garlic', 'Potatoes, White')",99,90.9090909090909,1.8774703557312253
+617,Carrots,"('Basil', 'Garlic', 'Rice, White')",100,90.0,1.858695652173913
+618,Carrots,"('Basil', 'Garlic', 'Cod')",97,92.78350515463917,1.9161810847153742
+619,Chicken,"('Basil', 'Garlic', 'Turkey')",88,96.5909090909091,1.4681818181818183
+620,Carrots,"('Basil', 'Garlic', 'Tuna')",87,91.95402298850574,1.8990504747626187
+621,Cod,"('Basil', 'Garlic', 'Tuna')",87,94.25287356321839,1.925596341614139
+622,Carrots,"('Basil', 'Garlic', 'Bananas')",90,91.11111111111111,1.8816425120772946
+623,Carrots,"('Basil', 'Garlic', 'Salmon')",87,94.25287356321839,1.946526736631684
+624,Cod,"('Basil', 'Garlic', 'Salmon')",87,93.10344827586206,1.9021134593993325
+625,Carrots,"('Basil', 'Garlic', 'Sweet Potato')",98,90.81632653061224,1.8755545696539486
+626,Carrots,"('Basil', 'Cucumber', 'Potatoes, White')",90,92.22222222222223,1.9045893719806763
+627,Carrots,"('Basil', 'Cucumber', 'Rice, White')",87,91.95402298850574,1.8990504747626187
+628,Carrots,"('Basil', 'Cucumber', 'Cod')",88,90.9090909090909,1.8774703557312253
+629,Carrots,"('Basil', 'Cucumber', 'Bananas')",89,91.01123595505618,1.8795798729848558
+630,Carrots,"('Basil', 'Cucumber', 'Salmon')",88,93.18181818181817,1.9244071146245059
+631,Chicken,"('Squash (drink)', 'Cod')",120,90.83333333333333,1.3806666666666667
+632,Chicken,"('Squash (drink)', 'Cod', 'Potatoes, White')",93,93.54838709677419,1.4219354838709677
+633,Chicken,"('Squash (drink)', 'Cod', 'Chicken Egg')",90,96.66666666666667,1.4693333333333334
+634,Chicken,"('Squash (drink)', 'Cod', 'Carrots')",92,92.3913043478261,1.4043478260869566
+635,Chicken,"('Squash (drink)', 'Turkey')",121,97.52066115702479,1.4823140495867768
+636,Chicken,"('Squash (drink)', 'Turkey', 'Potatoes, White')",98,98.9795918367347,1.5044897959183674
+637,Chicken,"('Squash (drink)', 'Turkey', 'Carrots')",87,98.85057471264368,1.502528735632184
+638,Chicken,"('Squash (drink)', 'Turkey', 'Rice, White')",89,96.62921348314607,1.4687640449438202
+639,Chicken,"('Squash (drink)', 'Tuna')",107,90.65420560747664,1.377943925233645
+640,Chicken,"('Squash (drink)', 'Tuna', 'Potatoes, White')",87,93.10344827586206,1.4151724137931034
+641,Chicken,"('Squash (drink)', 'Tuna', 'Cod')",89,91.01123595505618,1.3833707865168539
+642,Chicken,"('Squash (drink)', 'Butter', 'Chicken Egg')",87,90.80459770114942,1.3802298850574712
+643,"Potatoes, White","('Sugar', 'Chicken Egg', 'Chicken')",102,91.17647058823529,1.798290250356198
+644,"Potatoes, White","('Sugar', 'Carrots', 'Chicken Egg')",91,91.20879120879121,1.7989277158827333
+645,Chicken,"('Sugar', 'Cod')",113,91.1504424778761,1.385486725663717
+646,Chicken,"('Sugar', 'Cod', 'Potatoes, White')",99,90.9090909090909,1.3818181818181818
+647,Chicken,"('Sugar', 'Cod', 'Chicken Egg')",89,91.01123595505618,1.3833707865168539
+648,"Potatoes, White","('Sugar', 'Cod', 'Chicken Egg')",89,95.50561797752809,1.8836748182419034
+649,Chicken,"('Sugar', 'Cod', 'Rice, White')",92,91.30434782608695,1.3878260869565218
+650,"Potatoes, White","('Sugar', 'Cod', 'Rice, White')",92,91.30434782608695,1.8008123965698812
+651,Chicken,"('Sugar', 'Turkey')",116,96.55172413793103,1.4675862068965517
+652,Chicken,"('Sugar', 'Turkey', 'Potatoes, White')",101,97.02970297029702,1.4748514851485148
+653,Chicken,"('Sugar', 'Turkey', 'Rice, White')",97,95.87628865979381,1.457319587628866
+654,Chicken,"('Sugar', 'Turkey', 'Rice, White', 'Potatoes, White')",87,96.55172413793103,1.4675862068965517
+655,"Potatoes, White","('Sugar', 'Turkey', 'Rice, White', 'Chicken')",93,90.32258064516128,1.7814488224132157
+656,Chicken,"('Sugar', 'Turkey', 'Cod')",88,96.5909090909091,1.4681818181818183
+657,Chicken,"('Sugar', 'Tuna')",97,92.78350515463917,1.4103092783505156
+658,Chicken,"('Sugar', 'Tuna', 'Potatoes, White')",88,92.04545454545455,1.3990909090909092
+659,"Potatoes, White","('Sugar', 'Tuna', 'Chicken')",90,90.0,1.7750865051903115
+660,"Potatoes, White","('Sugar', 'Tuna')",97,90.72164948453609,1.7893197303178396
+661,"Potatoes, White","('Sugar', 'Salmon')",95,91.57894736842105,1.806228373702422
+662,"Potatoes, White","('Sugar', 'Sweet Potato')",100,94.0,1.8539792387543252
+663,"Potatoes, White","('Sugar', 'Sweet Potato', 'Rice, White')",89,95.50561797752809,1.8836748182419034
+664,"Rice, White","('Sugar', 'Sweet Potato', 'Potatoes, White')",94,90.42553191489363,1.908983451536643
+665,"Potatoes, White","('Sugar', 'Butter', 'Chicken Egg')",89,91.01123595505618,1.795031297383461
+666,"Potatoes, White","('Sugar', 'Basil')",94,92.5531914893617,1.8254435691673416
+667,"Potatoes, White","('Sugar', 'Squash (drink)', 'Rice, White')",90,91.11111111111111,1.7970011534025374
+668,"Potatoes, White","('Lettuce', 'Rice, White', 'Chicken Egg')",94,91.48936170212765,1.8044614591769124
+669,Chicken,"('Lettuce', 'Cod', 'Potatoes, White')",90,93.33333333333333,1.4186666666666667
+670,Chicken,"('Lettuce', 'Cod', 'Chicken Egg')",91,92.3076923076923,1.403076923076923
+671,Chicken,"('Lettuce', 'Cod', 'Carrots')",101,90.0990099009901,1.3695049504950496
+672,Chicken,"('Lettuce', 'Turkey')",114,98.24561403508771,1.4933333333333334
+673,Chicken,"('Lettuce', 'Turkey', 'Potatoes, White')",88,98.86363636363636,1.5027272727272727
+674,Chicken,"('Lettuce', 'Turkey', 'Chicken Egg')",87,98.85057471264368,1.502528735632184
+675,Chicken,"('Lettuce', 'Turkey', 'Carrots')",97,97.9381443298969,1.488659793814433
+676,Chicken,"('Lettuce', 'Turkey', 'Cod')",90,97.77777777777777,1.4862222222222221
+677,Chicken,"('Lettuce', 'Tuna', 'Chicken Egg')",90,91.11111111111111,1.3848888888888888
+678,Chicken,"('Lettuce', 'Tuna', 'Turkey')",86,98.83720930232558,1.5023255813953489
+679,Chicken,"('Lettuce', 'Salmon', 'Potatoes, White')",91,90.10989010989012,1.3696703296703296
+680,Chicken,"('Lettuce', 'Salmon', 'Chicken Egg')",91,90.10989010989012,1.3696703296703296
+681,Chicken,"('Lettuce', 'Salmon', 'Cod')",95,90.52631578947368,1.376
+682,Chicken,"('Lettuce', 'Salmon', 'Turkey')",86,98.83720930232558,1.5023255813953489
+683,Carrots,"('Lettuce', 'Sweet Potato', 'Chicken')",96,91.66666666666666,1.8931159420289856
+684,Carrots,"('Lettuce', 'Sweet Potato', 'Potatoes, White')",95,91.57894736842105,1.891304347826087
+685,Carrots,"('Lettuce', 'Sweet Potato', 'Rice, White')",86,91.86046511627907,1.897118301314459
+686,Carrots,"('Lettuce', 'Sweet Potato', 'Bananas')",87,91.95402298850574,1.8990504747626187
+687,Carrots,"('Lettuce', 'Garlic', 'Chicken')",88,93.18181818181817,1.9244071146245059
+688,Carrots,"('Lettuce', 'Garlic', 'Potatoes, White')",87,94.25287356321839,1.946526736631684
+689,Carrots,"('Lettuce', 'Garlic')",108,93.51851851851852,1.9313607085346216
+690,Carrots,"('Lettuce', 'Cucumber', 'Potatoes, White')",96,90.625,1.8716032608695652
+691,Carrots,"('Lettuce', 'Cucumber', 'Chicken Egg')",90,90.0,1.858695652173913
+692,Chicken,"('Lettuce', 'Cucumber', 'Cod')",90,90.0,1.368
+693,Carrots,"('Lettuce', 'Cucumber', 'Cod')",90,91.11111111111111,1.8816425120772946
+694,Carrots,"('Lettuce', 'Cucumber', 'Bananas')",94,91.48936170212765,1.8894542090656798
+695,Carrots,"('Lettuce', 'Cucumber', 'Sweet Potato')",87,91.95402298850574,1.8990504747626187
+696,Carrots,"('Lettuce', 'Basil', 'Chicken')",89,93.25842696629213,1.9259892525647289
+697,Carrots,"('Lettuce', 'Basil', 'Potatoes, White')",92,92.3913043478261,1.9080812854442344
+698,Carrots,"('Lettuce', 'Basil', 'Chicken Egg')",88,93.18181818181817,1.9244071146245059
+699,Carrots,"('Lettuce', 'Basil')",114,91.22807017543859,1.8840579710144927
+700,Carrots,"('Lettuce', 'Basil', 'Sweet Potato')",92,91.30434782608695,1.885633270321361
+701,Carrots,"('Lettuce', 'Basil', 'Cucumber')",87,94.25287356321839,1.946526736631684
+702,Chicken,"('not Orange Juice (with bits)', 'Turkey')",102,94.11764705882352,1.4305882352941177
+703,Chicken,"('Strawberries', 'Cod')",117,92.3076923076923,1.403076923076923
+704,Chicken,"('Strawberries', 'Cod', 'Potatoes, White')",88,95.45454545454545,1.450909090909091
+705,Chicken,"('Strawberries', 'Cod', 'Chicken Egg')",95,94.73684210526315,1.44
+706,Chicken,"('Strawberries', 'Cod', 'Carrots')",97,91.75257731958763,1.394639175257732
+707,Chicken,"('Strawberries', 'Turkey')",115,97.3913043478261,1.4803478260869565
+708,Chicken,"('Strawberries', 'Turkey', 'Potatoes, White')",88,98.86363636363636,1.5027272727272727
+709,Chicken,"('Strawberries', 'Turkey', 'Chicken Egg')",91,97.8021978021978,1.4865934065934066
+710,Chicken,"('Strawberries', 'Turkey', 'Carrots')",95,96.84210526315789,1.472
+711,Chicken,"('Strawberries', 'Turkey', 'Cod')",90,97.77777777777777,1.4862222222222221
+712,Chicken,"('Strawberries', 'Tuna')",112,90.17857142857143,1.3707142857142858
+713,Chicken,"('Strawberries', 'Tuna', 'Chicken Egg')",91,92.3076923076923,1.403076923076923
+714,Chicken,"('Strawberries', 'Tuna', 'Carrots')",95,90.52631578947368,1.376
+715,Chicken,"('Strawberries', 'Tuna', 'Cod')",93,91.39784946236558,1.389247311827957
+716,Chicken,"('Strawberries', 'Salmon', 'Cod')",87,90.80459770114942,1.3802298850574712
+717,Tuna,"('Strawberries', 'Salmon', 'Cod')",87,90.80459770114942,2.0139541124379443
+718,Carrots,"('Strawberries', 'Sweet Potato', 'Potatoes, White')",93,90.32258064516128,1.8653576437587658
+719,Carrots,"('Strawberries', 'Sweet Potato', 'Bananas')",88,90.9090909090909,1.8774703557312253
+720,Carrots,"('Strawberries', 'Basil')",102,91.17647058823529,1.882992327365729
+721,Carrots,"('Strawberries', 'Lettuce', 'Chicken')",90,90.0,1.858695652173913
+722,Carrots,"('Strawberries', 'Lettuce', 'Potatoes, White')",91,91.20879120879121,1.8836598184424271
+723,Carrots,"('Strawberries', 'Lettuce')",113,90.2654867256637,1.8641785302039247
+724,Chicken,"('Melon, Honeydew', 'Cod')",123,92.6829268292683,1.408780487804878
+725,Chicken,"('Melon, Honeydew', 'Cod', 'Potatoes, White')",92,95.65217391304348,1.4539130434782608
+726,Chicken,"('Melon, Honeydew', 'Cod', 'Chicken Egg')",95,94.73684210526315,1.44
+727,Chicken,"('Melon, Honeydew', 'Cod', 'Carrots')",99,92.92929292929293,1.4125252525252525
+728,Chicken,"('Melon, Honeydew', 'Cod', 'Rice, White')",86,94.18604651162791,1.4316279069767441
+729,Chicken,"('Melon, Honeydew', 'Turkey')",120,97.5,1.482
+730,Chicken,"('Melon, Honeydew', 'Turkey', 'Potatoes, White')",92,97.82608695652173,1.4869565217391305
+731,Chicken,"('Melon, Honeydew', 'Turkey', 'Chicken Egg')",88,97.72727272727273,1.4854545454545454
+732,Chicken,"('Melon, Honeydew', 'Turkey', 'Carrots')",96,97.91666666666666,1.4883333333333333
+733,Chicken,"('Melon, Honeydew', 'Turkey', 'Cod')",96,98.95833333333334,1.5041666666666667
+734,Chicken,"('Melon, Honeydew', 'Tuna', 'Potatoes, White')",87,94.25287356321839,1.4326436781609195
+735,Chicken,"('Melon, Honeydew', 'Tuna', 'Chicken Egg')",88,90.9090909090909,1.3818181818181818
+736,Chicken,"('Melon, Honeydew', 'Tuna', 'Carrots')",96,91.66666666666666,1.3933333333333333
+737,Chicken,"('Melon, Honeydew', 'Tuna', 'Cod')",104,91.34615384615384,1.3884615384615384
+738,Chicken,"('Melon, Honeydew', 'Tuna', 'Turkey')",91,98.9010989010989,1.5032967032967033
+739,Cod,"('Melon, Honeydew', 'Tuna', 'Turkey', 'Chicken')",90,92.22222222222223,1.8841099163679809
+740,Cod,"('Melon, Honeydew', 'Tuna', 'Turkey')",91,92.3076923076923,1.8858560794044665
+741,Chicken,"('Melon, Honeydew', 'Bananas', 'Cod')",89,92.13483146067416,1.4004494382022472
+742,Chicken,"('Melon, Honeydew', 'Bananas', 'Turkey')",89,98.87640449438202,1.5029213483146067
+743,Chicken,"('Melon, Honeydew', 'Salmon')",115,91.30434782608695,1.3878260869565218
+744,Chicken,"('Melon, Honeydew', 'Salmon', 'Potatoes, White')",87,94.25287356321839,1.4326436781609195
+745,Chicken,"('Melon, Honeydew', 'Salmon', 'Carrots')",98,91.83673469387756,1.3959183673469389
+746,Chicken,"('Melon, Honeydew', 'Salmon', 'Cod')",97,92.78350515463917,1.4103092783505156
+747,Chicken,"('Melon, Honeydew', 'Salmon', 'Turkey')",88,98.86363636363636,1.5027272727272727
+748,Chicken,"('Melon, Honeydew', 'Salmon', 'Tuna')",98,90.81632653061224,1.380408163265306
+749,Chicken,"('Melon, Honeydew', 'Salmon', 'Tuna', 'Carrots')",86,91.86046511627907,1.3962790697674419
+750,Chicken,"('Melon, Honeydew', 'Salmon', 'Tuna', 'Cod')",88,92.04545454545455,1.3990909090909092
+751,Cod,"('Melon, Honeydew', 'Salmon', 'Tuna', 'Chicken')",89,91.01123595505618,1.8593693367162014
+752,Tuna,"('Melon, Honeydew', 'Salmon', 'Cod', 'Chicken')",90,90.0,1.9961089494163424
+753,Tuna,"('Melon, Honeydew', 'Salmon', 'Cod')",97,90.72164948453609,2.012114404909944
+754,Chicken,"('Melon, Honeydew', 'Sweet Potato', 'Cod')",88,93.18181818181817,1.4163636363636363
+755,Chicken,"('Melon, Honeydew', 'Sweet Potato', 'Turkey')",89,97.75280898876404,1.4858426966292135
+756,Carrots,"('Melon, Honeydew', 'Basil', 'Chicken')",86,91.86046511627907,1.897118301314459
+757,"Potatoes, White","('Melon, Honeydew', 'Sugar')",87,91.95402298850574,1.813626058942847
+758,"Potatoes, White","('Apple', 'Rice, White', 'Chicken Egg')",91,90.10989010989012,1.7772538879805315
+759,Chicken,"('Apple', 'Cod')",104,91.34615384615384,1.3884615384615384
+760,Chicken,"('Apple', 'Cod', 'Carrots')",89,92.13483146067416,1.4004494382022472
+761,Chicken,"('Apple', 'Turkey')",104,98.07692307692307,1.4907692307692308
+762,Chicken,"('Apple', 'Turkey', 'Carrots')",88,97.72727272727273,1.4854545454545454
+763,Carrots,"('Apple', 'Salmon', 'Chicken')",88,90.9090909090909,1.8774703557312253
+764,Carrots,"('Apple', 'Garlic', 'Potatoes, White')",88,90.9090909090909,1.8774703557312253
+765,Carrots,"('Apple', 'Cucumber')",97,91.75257731958763,1.8948901837740924
+766,Carrots,"('Apple', 'Basil')",97,90.72164948453609,1.8735992828328103
+767,"Potatoes, White","('Apple', 'Sugar')",88,90.9090909090909,1.7930166719094054
+768,Carrots,"('Apple', 'Lettuce', 'Potatoes, White')",87,90.80459770114942,1.8753123438280859
+769,Carrots,"('Apple', 'Lettuce')",104,90.38461538461539,1.866638795986622
+770,"Rice, White","('Honey', 'Carrots', 'Potatoes, White', 'Chicken')",86,90.69767441860465,1.9147286821705427
+771,Chicken,"('Honey', 'Cod', 'Carrots')",87,90.80459770114942,1.3802298850574712
+772,Chicken,"('Honey', 'Turkey')",117,95.72649572649573,1.455042735042735
+773,Chicken,"('Honey', 'Turkey', 'Potatoes, White')",90,96.66666666666667,1.4693333333333334
+774,Chicken,"('Honey', 'Turkey', 'Chicken Egg')",86,96.51162790697676,1.4669767441860466
+775,Chicken,"('Honey', 'Turkey', 'Carrots')",89,96.62921348314607,1.4687640449438202
+776,Chicken,"('Honey', 'Turkey', 'Rice, White')",90,96.66666666666667,1.4693333333333334
+777,Chicken,"('Honey', 'Turkey', 'Cod')",88,97.72727272727273,1.4854545454545454
+778,Chicken,"('Honey', 'Salmon', 'Carrots')",91,90.10989010989012,1.3696703296703296
+779,Cod,"('Honey', 'Salmon', 'Rice, White')",88,90.9090909090909,1.8572825024437927
+780,Chicken,"('Honey', 'Salmon', 'Turkey')",87,97.70114942528735,1.4850574712643678
+781,Chicken,"('Honey', 'Sweet Potato', 'Turkey')",87,96.55172413793103,1.4675862068965517
+782,"Rice, White","('Honey', 'Basil', 'Potatoes, White')",87,90.80459770114942,1.91698595146871
+783,Carrots,"('Honey', 'Basil', 'Rice, White')",88,90.9090909090909,1.8774703557312253
+784,"Potatoes, White","('Honey', 'Sugar')",101,90.0990099009901,1.7770392956250642
+785,Chicken,"('Yoghurt - Plain', 'Carrots', 'Chicken Egg')",87,90.80459770114942,1.3802298850574712
+786,Chicken,"('Yoghurt - Plain', 'Cod')",122,90.1639344262295,1.3704918032786886
+787,Chicken,"('Yoghurt - Plain', 'Cod', 'Potatoes, White')",100,90.0,1.368
+788,Chicken,"('Yoghurt - Plain', 'Cod', 'Chicken Egg')",95,91.57894736842105,1.392
+789,Chicken,"('Yoghurt - Plain', 'Cod', 'Carrots')",86,90.69767441860465,1.3786046511627907
+790,Chicken,"('Yoghurt - Plain', 'Turkey')",113,95.57522123893806,1.4527433628318585
+791,Chicken,"('Yoghurt - Plain', 'Turkey', 'Potatoes, White')",86,97.67441860465115,1.4846511627906978
+792,Chicken,"('Yoghurt - Plain', 'Turkey', 'Chicken Egg')",86,96.51162790697676,1.4669767441860466
+793,Chicken,"('Yoghurt - Plain', 'Turkey', 'Cod')",89,96.62921348314607,1.4687640449438202
+794,Chicken,"('Yoghurt - Plain', 'Tuna')",113,90.2654867256637,1.3720353982300886
+795,Chicken,"('Yoghurt - Plain', 'Tuna', 'Potatoes, White')",91,91.20879120879121,1.3863736263736264
+796,Chicken,"('Yoghurt - Plain', 'Tuna', 'Chicken Egg')",91,91.20879120879121,1.3863736263736264
+797,Chicken,"('Yoghurt - Plain', 'Tuna', 'Cod')",92,90.21739130434783,1.371304347826087
+798,Chicken,"('Yoghurt - Plain', 'Salmon', 'Potatoes, White')",88,90.9090909090909,1.3818181818181818
+799,Chicken,"('Yoghurt - Plain', 'Butter', 'Chicken Egg')",94,91.48936170212765,1.3906382978723404
+800,Chicken,"('Yoghurt - Plain', 'Butter', 'Carrots')",87,91.95402298850574,1.3977011494252873
+801,Chicken,"('Yoghurt - Plain', 'Butter', 'Rice, White')",91,91.20879120879121,1.3863736263736264
+802,"Potatoes, White","('Yoghurt - Plain', 'Butter', 'Rice, White')",91,93.4065934065934,1.8422753716871363
+803,Chicken,"('Yoghurt - Plain', 'Butter', 'Cod')",88,90.9090909090909,1.3818181818181818
+804,"Potatoes, White","('Yoghurt - Plain', 'Butter', 'Cod')",88,90.9090909090909,1.7930166719094054
+805,Chicken,"('Yoghurt - Plain', 'Butter', 'Turkey')",86,97.67441860465115,1.4846511627906978
+806,"Potatoes, White","('Yoghurt - Plain', 'Sugar')",92,91.30434782608695,1.8008123965698812
+807,Chicken,"('Watermelon', 'Cod')",119,93.27731092436974,1.4178151260504201
+808,Chicken,"('Watermelon', 'Cod', 'Carrots')",96,93.75,1.425
+809,Chicken,"('Watermelon', 'Turkey')",110,99.0909090909091,1.5061818181818183
+810,Chicken,"('Watermelon', 'Turkey', 'Carrots')",94,98.93617021276596,1.5038297872340425
+811,Chicken,"('Watermelon', 'Turkey', 'Cod')",91,98.9010989010989,1.5032967032967033
+812,Chicken,"('Watermelon', 'Tuna')",113,90.2654867256637,1.3720353982300886
+813,Chicken,"('Watermelon', 'Tuna', 'Carrots')",94,92.5531914893617,1.406808510638298
+814,Chicken,"('Watermelon', 'Tuna', 'Cod')",98,92.85714285714286,1.4114285714285715
+815,Chicken,"('Watermelon', 'Bananas', 'Cod')",86,93.02325581395348,1.413953488372093
+816,Chicken,"('Watermelon', 'Salmon', 'Carrots')",100,90.0,1.368
+817,Chicken,"('Watermelon', 'Salmon', 'Cod')",97,92.78350515463917,1.4103092783505156
+818,Chicken,"('Watermelon', 'Salmon', 'Cod', 'Carrots')",86,93.02325581395348,1.413953488372093
+819,Chicken,"('Watermelon', 'Salmon', 'Tuna')",95,90.52631578947368,1.376
+820,Chicken,"('Watermelon', 'Salmon', 'Tuna', 'Carrots')",88,92.04545454545455,1.3990909090909092
+821,Carrots,"('Watermelon', 'Salmon', 'Tuna', 'Chicken')",86,94.18604651162791,1.9451466127401416
+822,Tuna,"('Watermelon', 'Salmon', 'Carrots', 'Chicken')",90,90.0,1.9961089494163424
+823,Salmon,"('Watermelon', 'Tuna', 'Carrots', 'Chicken')",87,93.10344827586206,2.114301415029537
+824,Carrots,"('Watermelon', 'Salmon', 'Tuna')",95,92.63157894736842,1.9130434782608696
+825,Salmon,"('Watermelon', 'Tuna', 'Carrots')",94,93.61702127659575,2.1259642281936086
+826,Cod,"('Watermelon', 'Salmon', 'Tuna', 'Chicken')",86,91.86046511627907,1.8767191797949487
+827,Tuna,"('Watermelon', 'Salmon', 'Cod', 'Carrots')",86,91.86046511627907,2.0373721835128045
+828,Chicken,"('Watermelon', 'Sweet Potato', 'Cod')",86,93.02325581395348,1.413953488372093
+829,Carrots,"('Watermelon', 'Basil', 'Chicken')",88,90.9090909090909,1.8774703557312253
+830,Carrots,"('Watermelon', 'Basil')",111,90.09009009009009,1.8605562083822953
+831,Carrots,"('Watermelon', 'Basil', 'Bananas')",87,90.80459770114942,1.8753123438280859
+832,Carrots,"('Watermelon', 'Basil', 'Sweet Potato')",86,93.02325581395348,1.9211324570273003
+833,Chicken,"('Watermelon', 'Melon, Honeydew', 'Cod')",94,92.5531914893617,1.406808510638298
+834,Chicken,"('Watermelon', 'Melon, Honeydew', 'Turkey')",90,98.88888888888889,1.503111111111111
+835,Chicken,"('Melon, Cantaloupe', 'Cod')",114,92.98245614035088,1.4133333333333333
+836,Chicken,"('Melon, Cantaloupe', 'Cod', 'Chicken Egg')",88,95.45454545454545,1.450909090909091
+837,Chicken,"('Melon, Cantaloupe', 'Cod', 'Carrots')",93,93.54838709677419,1.4219354838709677
+838,Chicken,"('Melon, Cantaloupe', 'Turkey')",111,97.2972972972973,1.478918918918919
+839,Chicken,"('Melon, Cantaloupe', 'Turkey', 'Carrots')",93,97.84946236559139,1.4873118279569892
+840,Chicken,"('Melon, Cantaloupe', 'Turkey', 'Cod')",90,98.88888888888889,1.503111111111111
+841,Chicken,"('Melon, Cantaloupe', 'Tuna', 'Carrots')",90,92.22222222222223,1.4017777777777778
+842,Chicken,"('Melon, Cantaloupe', 'Tuna', 'Cod')",95,91.57894736842105,1.392
+843,Chicken,"('Melon, Cantaloupe', 'Salmon')",111,90.990990990991,1.3830630630630631
+844,Chicken,"('Melon, Cantaloupe', 'Salmon', 'Carrots')",96,91.66666666666666,1.3933333333333333
+845,Chicken,"('Melon, Cantaloupe', 'Salmon', 'Cod')",94,92.5531914893617,1.406808510638298
+846,Chicken,"('Melon, Cantaloupe', 'Salmon', 'Tuna')",96,90.625,1.3775
+847,Salmon,"('Melon, Cantaloupe', 'Tuna', 'Carrots')",90,94.44444444444444,2.144754316069057
+848,Chicken,"('Melon, Cantaloupe', 'Salmon', 'Tuna', 'Cod')",86,91.86046511627907,1.3962790697674419
+849,Cod,"('Melon, Cantaloupe', 'Salmon', 'Tuna', 'Chicken')",87,90.80459770114942,1.8551476949697194
+850,Tuna,"('Melon, Cantaloupe', 'Salmon', 'Cod', 'Chicken')",87,90.80459770114942,2.0139541124379443
+851,Salmon,"('Melon, Cantaloupe', 'Tuna', 'Cod', 'Chicken')",87,90.80459770114942,2.062096441818931
+852,Tuna,"('Melon, Cantaloupe', 'Salmon', 'Cod')",94,91.48936170212765,2.0291414852222864
+853,Salmon,"('Melon, Cantaloupe', 'Tuna', 'Cod')",95,90.52631578947368,2.055776892430279
+854,Carrots,"('Melon, Cantaloupe', 'Sweet Potato', 'Potatoes, White')",90,90.0,1.858695652173913
+855,Carrots,"('Melon, Cantaloupe', 'Basil')",103,90.29126213592234,1.8647108484592656
+856,"Melon, Honeydew","('Melon, Cantaloupe', 'Chicken')",133,93.98496240601504,2.9928172386272944
+857,"Melon, Honeydew","('Melon, Cantaloupe', 'Potatoes, White', 'Chicken')",101,97.02970297029702,3.08977266441728
+858,"Melon, Honeydew","('Melon, Cantaloupe', 'Potatoes, White')",116,97.41379310344827,3.1020034675399732
+859,"Melon, Honeydew","('Melon, Cantaloupe', 'Chicken Egg', 'Chicken')",98,92.85714285714286,2.956903431763767
+860,"Melon, Honeydew","('Melon, Cantaloupe', 'Chicken Egg', 'Potatoes, White')",87,96.55172413793103,3.0745521094201504
+861,"Melon, Honeydew","('Melon, Cantaloupe', 'Chicken Egg')",113,93.80530973451327,2.9870964552331043
+862,"Melon, Honeydew","('Melon, Cantaloupe', 'Carrots', 'Chicken')",112,94.64285714285714,3.0137669592976857
+863,"Melon, Cantaloupe","('Melon, Honeydew', 'Carrots', 'Chicken')",117,90.5982905982906,3.1297591297591296
+864,"Melon, Honeydew","('Melon, Cantaloupe', 'Carrots', 'Potatoes, White', 'Chicken')",89,96.62921348314607,3.0770196472286737
+865,"Melon, Honeydew","('Melon, Cantaloupe', 'Carrots', 'Potatoes, White')",102,97.05882352941177,3.090699967137693
+866,"Melon, Honeydew","('Melon, Cantaloupe', 'Carrots', 'Chicken Egg')",93,93.54838709677419,2.978915119841413
+867,"Melon, Honeydew","('Melon, Cantaloupe', 'Carrots')",132,95.45454545454545,3.0396140172676485
+868,"Melon, Cantaloupe","('Melon, Honeydew', 'Carrots')",139,90.64748201438849,3.131458469587966
+869,"Melon, Honeydew","('Melon, Cantaloupe', 'Rice, White', 'Chicken')",90,94.44444444444444,3.007448789571695
+870,"Melon, Honeydew","('Melon, Cantaloupe', 'Rice, White', 'Potatoes, White')",89,96.62921348314607,3.0770196472286737
+871,"Melon, Honeydew","('Melon, Cantaloupe', 'Rice, White', 'Carrots')",92,94.56521739130434,3.0112946320136023
+872,"Melon, Honeydew","('Melon, Cantaloupe', 'Rice, White')",108,94.44444444444444,3.007448789571695
+873,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Cod')",110,92.72727272727272,1.4094545454545455
+874,"Melon, Honeydew","('Melon, Cantaloupe', 'Cod', 'Chicken')",106,96.22641509433963,3.064193106356066
+875,"Melon, Cantaloupe","('Melon, Honeydew', 'Cod', 'Potatoes, White', 'Chicken')",88,90.9090909090909,3.1404958677685952
+876,"Melon, Cantaloupe","('Melon, Honeydew', 'Cod', 'Potatoes, White')",92,90.21739130434783,3.116600790513834
+877,"Melon, Cantaloupe","('Melon, Honeydew', 'Cod', 'Chicken Egg', 'Chicken')",90,90.0,3.109090909090909
+878,"Melon, Honeydew","('Melon, Cantaloupe', 'Cod', 'Chicken Egg')",88,96.5909090909091,3.0757998984255965
+879,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Cod', 'Carrots')",91,93.4065934065934,1.4197802197802198
+880,"Melon, Honeydew","('Melon, Cantaloupe', 'Cod', 'Carrots', 'Chicken')",87,97.70114942528735,3.1111539202465806
+881,"Melon, Cantaloupe","('Melon, Honeydew', 'Cod', 'Carrots', 'Chicken')",92,92.3913043478261,3.191699604743083
+882,"Melon, Honeydew","('Melon, Cantaloupe', 'Cod', 'Carrots')",93,97.84946236559139,3.1158767345467653
+883,"Melon, Cantaloupe","('Melon, Honeydew', 'Cod', 'Carrots')",99,91.91919191919192,3.1753902662993574
+884,"Melon, Honeydew","('Melon, Cantaloupe', 'Cod')",114,96.49122807017544,3.0726256983240225
+885,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Turkey')",107,97.19626168224299,1.4773831775700934
+886,"Melon, Honeydew","('Melon, Cantaloupe', 'Turkey', 'Chicken')",108,96.29629629629629,3.0664183736809436
+887,"Melon, Cantaloupe","('Melon, Honeydew', 'Turkey', 'Potatoes, White', 'Chicken')",90,91.11111111111111,3.1474747474747473
+888,"Melon, Cantaloupe","('Melon, Honeydew', 'Turkey', 'Potatoes, White')",92,91.30434782608695,3.1541501976284585
+889,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Turkey', 'Carrots')",90,97.77777777777777,1.4862222222222221
+890,"Melon, Honeydew","('Melon, Cantaloupe', 'Turkey', 'Carrots', 'Chicken')",91,96.7032967032967,3.0793787218368225
+891,"Melon, Cantaloupe","('Melon, Honeydew', 'Turkey', 'Carrots', 'Chicken')",94,93.61702127659575,3.234042553191489
+892,"Melon, Honeydew","('Melon, Cantaloupe', 'Turkey', 'Carrots')",93,96.7741935483871,3.081636330870427
+893,"Melon, Cantaloupe","('Melon, Honeydew', 'Turkey', 'Carrots')",96,93.75,3.2386363636363638
+894,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Turkey', 'Cod')",87,98.85057471264368,1.502528735632184
+895,"Melon, Honeydew","('Melon, Cantaloupe', 'Turkey', 'Cod', 'Chicken')",89,96.62921348314607,3.0770196472286737
+896,"Melon, Cantaloupe","('Melon, Honeydew', 'Turkey', 'Cod', 'Chicken')",95,90.52631578947368,3.1272727272727274
+897,"Melon, Honeydew","('Melon, Cantaloupe', 'Turkey', 'Cod')",90,96.66666666666667,3.078212290502793
+898,"Melon, Cantaloupe","('Melon, Honeydew', 'Turkey', 'Cod')",96,90.625,3.1306818181818183
+899,"Melon, Honeydew","('Melon, Cantaloupe', 'Turkey')",111,96.3963963963964,3.06960591876793
+900,"Melon, Honeydew","('Melon, Cantaloupe', 'Tuna', 'Chicken')",97,95.87628865979381,3.0530438288314232
+901,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Tuna', 'Carrots')",87,91.95402298850574,1.3977011494252873
+902,"Melon, Cantaloupe","('Melon, Honeydew', 'Tuna', 'Carrots', 'Chicken')",88,90.9090909090909,3.1404958677685952
+903,"Melon, Honeydew","('Melon, Cantaloupe', 'Tuna', 'Carrots')",90,96.66666666666667,3.078212290502793
+904,"Melon, Cantaloupe","('Melon, Honeydew', 'Tuna', 'Carrots')",96,90.625,3.1306818181818183
+905,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Tuna', 'Cod')",92,91.30434782608695,1.3878260869565218
+906,Cod,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Tuna', 'Chicken')",93,90.32258064516128,1.8453000346860908
+907,"Melon, Honeydew","('Melon, Cantaloupe', 'Tuna', 'Cod', 'Chicken')",87,96.55172413793103,3.0745521094201504
+908,"Melon, Honeydew","('Melon, Cantaloupe', 'Tuna', 'Cod')",95,96.84210526315789,3.083798882681564
+909,"Melon, Cantaloupe","('Melon, Honeydew', 'Tuna', 'Turkey', 'Chicken')",90,90.0,3.109090909090909
+910,"Melon, Cantaloupe","('Melon, Honeydew', 'Tuna', 'Turkey')",91,90.10989010989012,3.1128871128871127
+911,"Melon, Honeydew","('Melon, Cantaloupe', 'Tuna')",108,96.29629629629629,3.0664183736809436
+912,"Melon, Honeydew","('Melon, Cantaloupe', 'Bananas', 'Chicken')",97,92.78350515463917,2.9545585440304096
+913,"Melon, Honeydew","('Melon, Cantaloupe', 'Bananas', 'Potatoes, White')",86,96.51162790697676,3.0732753020657397
+914,"Melon, Honeydew","('Melon, Cantaloupe', 'Bananas', 'Carrots')",97,94.84536082474226,3.0202154005644184
+915,"Melon, Cantaloupe","('Melon, Honeydew', 'Bananas', 'Turkey', 'Chicken')",88,90.9090909090909,3.1404958677685952
+916,"Melon, Cantaloupe","('Melon, Honeydew', 'Bananas', 'Turkey')",89,91.01123595505618,3.1440245148110315
+917,"Melon, Honeydew","('Melon, Cantaloupe', 'Bananas')",116,93.10344827586206,2.9647466769408592
+918,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Salmon')",107,90.65420560747664,1.377943925233645
+919,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Chicken')",101,96.03960396039604,3.0582443719232257
+920,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Chicken')",105,92.38095238095238,3.191341991341991
+921,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Potatoes, White')",87,94.25287356321839,3.256008359456635
+922,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Salmon', 'Carrots')",93,91.39784946236558,1.389247311827957
+923,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Carrots', 'Chicken')",88,96.5909090909091,3.0757998984255965
+924,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Carrots', 'Chicken')",90,94.44444444444444,3.2626262626262625
+925,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Carrots')",96,96.875,3.084846368715084
+926,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Carrots')",98,94.89795918367348,3.2782931354359928
+927,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Salmon', 'Cod')",91,92.3076923076923,1.403076923076923
+928,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Cod', 'Chicken')",87,96.55172413793103,3.0745521094201504
+929,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Cod', 'Chicken')",90,93.33333333333333,3.224242424242424
+930,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Cod')",94,96.80851063829788,3.082729109711161
+931,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Cod')",97,93.81443298969072,3.240862230552952
+932,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Turkey', 'Chicken')",87,94.25287356321839,3.256008359456635
+933,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Turkey')",88,94.31818181818183,3.2582644628099175
+934,Chicken,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Salmon', 'Tuna')",92,90.21739130434783,1.371304347826087
+935,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Tuna', 'Chicken')",87,95.40229885057471,3.03795029859372
+936,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Tuna', 'Chicken')",89,93.25842696629213,3.2216547497446375
+937,Salmon,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Tuna', 'Carrots')",87,94.25287356321839,2.1404039016348397
+938,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Tuna', 'Carrots')",86,95.34883720930233,3.2938689217758985
+939,Cod,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Salmon', 'Tuna')",92,90.21739130434783,1.84315100514259
+940,Tuna,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Salmon', 'Cod')",91,91.20879120879121,2.0229187155257193
+941,Salmon,"('Melon, Cantaloupe', 'Melon, Honeydew', 'Tuna', 'Cod')",92,90.21739130434783,2.0487614758357875
+942,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Tuna', 'Cod')",86,96.51162790697676,3.0732753020657397
+943,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Tuna', 'Cod')",88,94.31818181818183,3.2582644628099175
+944,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon', 'Tuna')",96,95.83333333333334,3.0516759776536313
+945,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon', 'Tuna')",98,93.87755102040816,3.2430426716141003
+946,"Melon, Honeydew","('Melon, Cantaloupe', 'Salmon')",111,96.3963963963964,3.06960591876793
+947,"Melon, Cantaloupe","('Melon, Honeydew', 'Salmon')",115,93.04347826086956,3.214229249011858
+948,"Melon, Honeydew","('Melon, Cantaloupe', 'Sweet Potato', 'Chicken')",97,95.87628865979381,3.0530438288314232
+949,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Chicken')",103,90.29126213592234,3.119152691968226
+950,"Melon, Honeydew","('Melon, Cantaloupe', 'Sweet Potato', 'Potatoes, White')",90,97.77777777777777,3.1135940409683425
+951,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Potatoes, White')",97,90.72164948453609,3.134020618556701
+952,"Melon, Honeydew","('Melon, Cantaloupe', 'Sweet Potato', 'Carrots', 'Chicken')",86,95.34883720930233,3.0362478887878392
+953,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Carrots', 'Chicken')",89,92.13483146067416,3.1828396322778345
+954,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Carrots', 'Potatoes, White')",87,90.80459770114942,3.1368861024033436
+955,"Melon, Honeydew","('Melon, Cantaloupe', 'Sweet Potato', 'Carrots')",100,96.0,3.0569832402234636
+956,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Carrots')",104,92.3076923076923,3.1888111888111887
+957,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Rice, White')",89,91.01123595505618,3.1440245148110315
+958,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Cod')",88,92.04545454545455,3.1797520661157024
+959,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Turkey', 'Chicken')",87,90.80459770114942,3.1368861024033436
+960,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Turkey')",89,91.01123595505618,3.1440245148110315
+961,"Melon, Honeydew","('Melon, Cantaloupe', 'Sweet Potato', 'Bananas')",90,96.66666666666667,3.078212290502793
+962,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato', 'Bananas')",95,91.57894736842105,3.1636363636363636
+963,"Melon, Honeydew","('Melon, Cantaloupe', 'Sweet Potato')",115,96.52173913043478,3.073597279572504
+964,"Melon, Cantaloupe","('Melon, Honeydew', 'Sweet Potato')",122,90.98360655737704,3.143070044709389
+965,"Melon, Honeydew","('Melon, Cantaloupe', 'Butter', 'Carrots')",86,96.51162790697676,3.0732753020657397
+966,"Melon, Cantaloupe","('Melon, Honeydew', 'Butter', 'Carrots')",90,92.22222222222223,3.1858585858585857
+967,"Melon, Honeydew","('Melon, Cantaloupe', 'Butter')",97,96.90721649484536,3.0858722570984276
+968,"Melon, Cantaloupe","('Melon, Honeydew', 'Garlic', 'Carrots')",88,90.9090909090909,3.1404958677685952
+969,"Melon, Honeydew","('Melon, Cantaloupe', 'Garlic')",94,94.68085106382979,3.014976821585641
+970,"Melon, Honeydew","('Melon, Cantaloupe', 'Cucumber', 'Carrots')",92,96.73913043478261,3.080519795967938
+971,"Melon, Honeydew","('Melon, Cantaloupe', 'Cucumber')",105,96.19047619047619,3.063048683160415
+972,"Melon, Cantaloupe","('Melon, Honeydew', 'Basil', 'Chicken')",86,90.69767441860465,3.1331923890063424
+973,"Melon, Honeydew","('Melon, Cantaloupe', 'Basil', 'Carrots')",93,94.6236559139785,3.0131555235177507
+974,"Melon, Cantaloupe","('Melon, Honeydew', 'Basil', 'Carrots')",96,91.66666666666666,3.1666666666666665
+975,"Melon, Honeydew","('Melon, Cantaloupe', 'Basil')",103,95.14563106796116,3.029777078700439
+976,"Melon, Cantaloupe","('Melon, Honeydew', 'Basil')",108,90.74074074074075,3.1346801346801345
+977,"Melon, Honeydew","('Melon, Cantaloupe', 'Lettuce', 'Carrots')",88,95.45454545454545,3.0396140172676485
+978,"Melon, Cantaloupe","('Melon, Honeydew', 'Lettuce', 'Carrots')",91,92.3076923076923,3.1888111888111887
+979,"Melon, Honeydew","('Melon, Cantaloupe', 'Lettuce')",101,96.03960396039604,3.0582443719232257
+980,"Melon, Cantaloupe","('Melon, Honeydew', 'Lettuce')",106,91.50943396226415,3.1612349914236706
+981,"Melon, Honeydew","('Melon, Cantaloupe', 'Strawberries', 'Carrots')",89,95.50561797752809,3.0412403490050846
+982,"Melon, Cantaloupe","('Melon, Honeydew', 'Strawberries', 'Carrots')",93,91.39784946236558,3.1573802541544476
+983,"Melon, Honeydew","('Melon, Cantaloupe', 'Strawberries')",104,94.23076923076923,3.0006446067898582
+984,"Melon, Cantaloupe","('Melon, Honeydew', 'Strawberries')",108,90.74074074074075,3.1346801346801345
+985,"Melon, Honeydew","('Melon, Cantaloupe',)",165,94.54545454545455,3.01066531234129
+986,"Melon, Honeydew","('Melon, Cantaloupe', 'Apple', 'Carrots')",87,94.25287356321839,3.0013484877672894
+987,"Melon, Honeydew","('Melon, Cantaloupe', 'Apple')",98,93.87755102040816,2.9893968760688634
+988,"Melon, Honeydew","('Melon, Cantaloupe', 'Honey')",90,97.77777777777777,3.1135940409683425
+989,Chicken,"('Melon, Cantaloupe', 'Watermelon', 'Cod')",89,92.13483146067416,1.4004494382022472
+990,Chicken,"('Melon, Cantaloupe', 'Watermelon', 'Turkey')",86,98.83720930232558,1.5023255813953489
+991,Carrots,"('Melon, Cantaloupe', 'Watermelon', 'Basil')",87,90.80459770114942,1.8753123438280859
+992,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Chicken')",98,94.89795918367348,3.0218903203739598
+993,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Chicken')",103,90.29126213592234,3.119152691968226
+994,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Potatoes, White')",88,96.5909090909091,3.0757998984255965
+995,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Potatoes, White')",91,93.4065934065934,3.226773226773227
+996,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Chicken Egg')",88,95.45454545454545,3.0396140172676485
+997,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Chicken Egg')",92,91.30434782608695,3.1541501976284585
+998,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Carrots', 'Chicken')",86,94.18604651162791,3.2536997885835097
+999,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Carrots')",101,96.03960396039604,3.0582443719232257
+1000,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Carrots')",103,94.1747572815534,3.2533097969991176
+1001,Chicken,"('Melon, Cantaloupe', 'Watermelon', 'Melon, Honeydew', 'Cod')",87,91.95402298850574,1.3977011494252873
+1002,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Cod', 'Chicken')",87,91.95402298850574,3.1765935214211076
+1003,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Cod')",89,97.75280898876404,3.112798945452263
+1004,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Cod')",94,92.5531914893617,3.1972920696324953
+1005,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Turkey', 'Chicken')",89,93.25842696629213,3.2216547497446375
+1006,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Turkey')",86,97.67441860465115,3.1103027153436402
+1007,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Turkey')",90,93.33333333333333,3.224242424242424
+1008,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Tuna')",89,91.01123595505618,3.1440245148110315
+1009,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Bananas')",93,93.54838709677419,2.978915119841413
+1010,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Bananas')",94,92.5531914893617,3.1972920696324953
+1011,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Sweet Potato')",90,97.77777777777777,3.1135940409683425
+1012,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Sweet Potato')",92,95.65217391304348,3.3043478260869565
+1013,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Cucumber')",87,96.55172413793103,3.0745521094201504
+1014,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Cucumber')",92,91.30434782608695,3.1541501976284585
+1015,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Basil')",87,96.55172413793103,3.0745521094201504
+1016,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Basil')",89,94.3820224719101,3.26046986721144
+1017,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon', 'Strawberries')",87,93.10344827586206,2.9647466769408592
+1018,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew', 'Strawberries')",88,92.04545454545455,3.1797520661157024
+1019,"Melon, Honeydew","('Melon, Cantaloupe', 'Watermelon')",123,95.1219512195122,3.029023027660444
+1020,"Melon, Cantaloupe","('Watermelon', 'Melon, Honeydew')",128,91.40625,3.1576704545454546
+1021,Carrots,"('Peas', 'Chicken Egg', 'Potatoes, White')",90,91.11111111111111,1.8816425120772946
+1022,Carrots,"('Peas', 'Rice, White', 'Chicken')",95,90.52631578947368,1.8695652173913044
+1023,Carrots,"('Peas', 'Rice, White', 'Potatoes, White')",92,91.30434782608695,1.885633270321361
+1024,Chicken,"('Peas', 'Turkey')",101,98.01980198019803,1.48990099009901
+1025,Chicken,"('Peas', 'Turkey', 'Carrots')",88,97.72727272727273,1.4854545454545454
+1026,Carrots,"('Peas', 'Tuna')",93,91.39784946236558,1.8875642823749417
+1027,Carrots,"('Peas', 'Bananas', 'Chicken')",92,92.3913043478261,1.9080812854442344
+1028,Carrots,"('Peas', 'Bananas')",107,90.65420560747664,1.8722064201544089
+1029,Carrots,"('Peas', 'Salmon', 'Chicken')",86,90.69767441860465,1.8731041456016178
+1030,Carrots,"('Peas', 'Sweet Potato', 'Chicken')",93,93.54838709677419,1.9319775596072932
+1031,Carrots,"('Peas', 'Sweet Potato')",104,93.26923076923077,1.9262123745819397
+1032,Chicken,"('Peas', 'Butter')",97,91.75257731958763,1.394639175257732
+1033,Chicken,"('Peas', 'Butter', 'Carrots')",87,90.80459770114942,1.3802298850574712
+1034,Carrots,"('Peas', 'Garlic')",96,91.66666666666666,1.8931159420289856
+1035,Carrots,"('Peas', 'Cucumber')",98,91.83673469387756,1.896628216503993
+1036,Carrots,"('Peas', 'Basil')",99,93.93939393939394,1.9400527009222661
+1037,"Potatoes, White","('Peas', 'Sugar')",87,90.80459770114942,1.7909557332060613
+1038,Carrots,"('Peas', 'Lettuce', 'Chicken')",92,90.21739130434783,1.8631852551984878
+1039,Carrots,"('Peas', 'Lettuce')",105,91.42857142857143,1.8881987577639752
+1040,Carrots,"('Peas', 'Apple')",89,91.01123595505618,1.8795798729848558
+1041,Carrots,"('Peas', 'Watermelon')",90,90.0,1.858695652173913
+1042,Chicken,"('Beef',)",161,95.65217391304348,1.4539130434782608
+1043,Chicken,"('Beef', 'Potatoes, White')",119,97.47899159663865,1.4816806722689075
+1044,Chicken,"('Beef', 'Chicken Egg')",122,97.54098360655738,1.4826229508196722
+1045,Chicken,"('Beef', 'Chicken Egg', 'Potatoes, White')",97,96.90721649484536,1.4729896907216495
+1046,Chicken,"('Beef', 'Carrots')",110,96.36363636363636,1.4647272727272727
+1047,Chicken,"('Beef', 'Carrots', 'Potatoes, White')",91,96.7032967032967,1.4698901098901098
+1048,Chicken,"('Beef', 'Carrots', 'Chicken Egg')",88,96.5909090909091,1.4681818181818183
+1049,Chicken,"('Beef', 'Rice, White')",112,96.42857142857143,1.4657142857142857
+1050,Chicken,"('Beef', 'Rice, White', 'Potatoes, White')",96,96.875,1.4725
+1051,Chicken,"('Beef', 'Rice, White', 'Chicken Egg')",89,96.62921348314607,1.4687640449438202
+1052,Chicken,"('Beef', 'Cod')",112,97.32142857142857,1.4792857142857143
+1053,Chicken,"('Beef', 'Cod', 'Potatoes, White')",91,97.8021978021978,1.4865934065934066
+1054,Chicken,"('Beef', 'Cod', 'Chicken Egg')",91,97.8021978021978,1.4865934065934066
+1055,Chicken,"('Beef', 'Turkey')",124,99.19354838709677,1.507741935483871
+1056,Chicken,"('Beef', 'Turkey', 'Potatoes, White')",95,98.94736842105263,1.504
+1057,Chicken,"('Beef', 'Turkey', 'Chicken Egg')",99,98.98989898989899,1.5046464646464646
+1058,Chicken,"('Beef', 'Turkey', 'Carrots')",89,98.87640449438202,1.5029213483146067
+1059,Chicken,"('Beef', 'Turkey', 'Rice, White')",91,98.9010989010989,1.5032967032967033
+1060,Chicken,"('Beef', 'Turkey', 'Cod')",93,98.9247311827957,1.5036559139784946
+1061,Chicken,"('Beef', 'Tuna')",104,96.15384615384616,1.4615384615384615
+1062,Chicken,"('Beef', 'Tuna', 'Chicken Egg')",86,97.67441860465115,1.4846511627906978
+1063,Chicken,"('Beef', 'Tuna', 'Cod')",86,96.51162790697676,1.4669767441860466
+1064,Chicken,"('Beef', 'Tuna', 'Turkey')",86,98.83720930232558,1.5023255813953489
+1065,Chicken,"('Beef', 'Bananas')",89,97.75280898876404,1.4858426966292135
+1066,Chicken,"('Beef', 'Salmon')",101,98.01980198019803,1.48990099009901
+1067,Chicken,"('Beef', 'Salmon', 'Cod')",86,97.67441860465115,1.4846511627906978
+1068,Chicken,"('Beef', 'Salmon', 'Turkey')",87,98.85057471264368,1.502528735632184
+1069,Chicken,"('Beef', 'Sweet Potato')",87,98.85057471264368,1.502528735632184
+1070,Chicken,"('Beef', 'Butter')",102,97.05882352941177,1.4752941176470589
+1071,Chicken,"('Beef', 'Butter', 'Potatoes, White')",88,96.5909090909091,1.4681818181818183
+1072,Chicken,"('Beef', 'Garlic')",88,97.72727272727273,1.4854545454545454
+1073,Chicken,"('Beef', 'Squash (drink)')",86,95.34883720930233,1.4493023255813953
+1074,"Rice, White","('Cheese - Hard', 'Carrots', 'Potatoes, White', 'Chicken')",86,90.69767441860465,1.9147286821705427
+1075,"Rice, White","('Cheese - Hard', 'Carrots', 'Potatoes, White')",96,90.625,1.9131944444444444
+1076,Chicken,"('Cheese - Hard', 'Cod', 'Potatoes, White')",95,90.52631578947368,1.376
+1077,Chicken,"('Cheese - Hard', 'Cod', 'Carrots')",94,92.5531914893617,1.406808510638298
+1078,Chicken,"('Cheese - Hard', 'Turkey')",104,96.15384615384616,1.4615384615384615
+1079,Chicken,"('Cheese - Hard', 'Turkey', 'Carrots')",87,97.70114942528735,1.4850574712643678
+1080,Chicken,"('Cheese - Hard', 'Turkey', 'Rice, White')",89,95.50561797752809,1.451685393258427
+1081,Chicken,"('Cheese - Hard', 'Tuna')",101,90.0990099009901,1.3695049504950496
+1082,Chicken,"('Cheese - Hard', 'Tuna', 'Chicken Egg')",88,90.9090909090909,1.3818181818181818
+1083,Chicken,"('Cheese - Hard', 'Bananas')",100,91.0,1.3832
+1084,Chicken,"('Cheese - Hard', 'Bananas', 'Chicken Egg')",86,91.86046511627907,1.3962790697674419
+1085,Cod,"('Cheese - Hard', 'Salmon', 'Chicken')",87,90.80459770114942,1.8551476949697194
+1086,Cod,"('Cheese - Hard', 'Salmon')",98,90.81632653061224,1.8553873162168093
+1087,Chicken,"('Cheese - Hard', 'Sweet Potato')",93,90.32258064516128,1.3729032258064515
+1088,Chicken,"('Cheese - Hard', 'Butter', 'Potatoes, White')",102,90.19607843137256,1.3709803921568628
+1089,Chicken,"('Cheese - Hard', 'Butter', 'Rice, White', 'Potatoes, White')",91,90.10989010989012,1.3696703296703296
+1090,"Potatoes, White","('Cheese - Hard', 'Butter', 'Rice, White', 'Chicken')",90,91.11111111111111,1.7970011534025374
+1091,"Potatoes, White","('Cheese - Hard', 'Butter', 'Rice, White', 'Chicken Egg')",88,90.9090909090909,1.7930166719094054
+1092,Chicken,"('Cheese - Hard', 'Garlic')",90,90.0,1.368
+1093,Carrots,"('Cheese - Hard', 'Garlic')",90,90.0,1.858695652173913
+1094,Carrots,"('Cheese - Hard', 'Cucumber')",86,93.02325581395348,1.9211324570273003
+1095,Carrots,"('Cheese - Hard', 'Basil')",92,90.21739130434783,1.8631852551984878
+1096,Chicken,"('Cheese - Hard', 'Yoghurt - Plain')",96,90.625,1.3775
+1097,Chicken,"('Lemon', 'Rice, White', 'Carrots')",92,90.21739130434783,1.371304347826087
+1098,Chicken,"('Lemon', 'Cod')",101,92.07920792079209,1.3996039603960395
+1099,Chicken,"('Lemon', 'Cod', 'Carrots')",90,94.44444444444444,1.4355555555555555
+1100,Carrots,"('Lemon', 'Cod', 'Chicken')",93,91.39784946236558,1.8875642823749417
+1101,Chicken,"('Lemon', 'Turkey')",102,100.0,1.52
+1102,Chicken,"('Lemon', 'Turkey', 'Carrots')",87,100.0,1.52
+1103,Chicken,"('Lemon', 'Tuna', 'Carrots')",87,90.80459770114942,1.3802298850574712
+1104,Chicken,"('Lemon', 'Salmon', 'Carrots')",87,91.95402298850574,1.3977011494252873
+1105,Carrots,"('Lemon', 'Sweet Potato', 'Chicken')",94,91.48936170212765,1.8894542090656798
+1106,Carrots,"('Lemon', 'Sweet Potato', 'Potatoes, White')",87,93.10344827586206,1.9227886056971515
+1107,Chicken,"('Lemon', 'Butter')",92,91.30434782608695,1.3878260869565218
+1108,Carrots,"('Lemon', 'Basil', 'Chicken')",93,90.32258064516128,1.8653576437587658
+1109,Carrots,"('Lemon', 'Basil', 'Potatoes, White')",86,91.86046511627907,1.897118301314459
+1110,Carrots,"('Lemon', 'Lettuce')",97,90.72164948453609,1.8735992828328103
+1111,Carrots,"('Lemon', 'Melon, Cantaloupe', 'Melon, Honeydew')",91,90.10989010989012,1.860965121834687
+1112,"Melon, Cantaloupe","('Lemon', 'Melon, Honeydew', 'Carrots')",88,93.18181818181817,3.21900826446281
+1113,"Melon, Honeydew","('Lemon', 'Melon, Cantaloupe')",96,94.79166666666666,3.0185055865921786
+1114,"Melon, Cantaloupe","('Lemon', 'Melon, Honeydew')",98,92.85714285714286,3.207792207792208
+1115,Chicken,"('Mushroom', 'Cod')",99,90.9090909090909,1.3818181818181818
+1116,Chicken,"('Mushroom', 'Turkey')",98,98.9795918367347,1.5044897959183674
+1117,Chicken,"('Mushroom', 'Salmon')",94,90.42553191489363,1.374468085106383
+1118,Carrots,"('Mushroom', 'Basil')",100,91.0,1.8793478260869565
+1119,Carrots,"('Mushroom', 'Peas')",93,90.32258064516128,1.8653576437587658
+1120,Chicken,"('Raspberries', 'Cod')",103,92.23300970873787,1.4019417475728155
+1121,Chicken,"('Raspberries', 'Cod', 'Carrots')",89,92.13483146067416,1.4004494382022472
+1122,Chicken,"('Raspberries', 'Turkey')",99,97.97979797979798,1.4892929292929293
+1123,Chicken,"('Raspberries', 'Tuna')",96,91.66666666666666,1.3933333333333333
+1124,Chicken,"('Raspberries', 'Salmon', 'Carrots')",86,90.69767441860465,1.3786046511627907
+1125,Carrots,"('Raspberries', 'Lettuce')",94,91.48936170212765,1.8894542090656798
+1126,Chicken,"('Raspberries', 'Strawberries', 'Cod')",88,93.18181818181817,1.4163636363636363
+1127,Carrots,"('Raspberries', 'Strawberries', 'Sweet Potato')",89,91.01123595505618,1.8795798729848558
+1128,Carrots,"('Raspberries', 'Melon, Honeydew', 'Strawberries')",86,90.69767441860465,1.8731041456016178
+1129,Strawberries,"('Raspberries', 'Melon, Honeydew', 'Carrots')",86,90.69767441860465,2.9373678646934462
+1130,Strawberries,"('Raspberries', 'Apple')",93,93.54838709677419,3.029692082111437
+1131,"Melon, Cantaloupe","('Raspberries', 'Melon, Honeydew', 'Carrots')",86,90.69767441860465,3.1331923890063424
+1132,"Melon, Cantaloupe","('Raspberries', 'Melon, Honeydew', 'Strawberries')",86,91.86046511627907,3.1733615221987317
+1133,"Melon, Honeydew","('Raspberries', 'Melon, Cantaloupe')",93,95.6989247311828,3.047395927194089
+1134,Strawberries,"('Raspberries', 'Lemon', 'Carrots')",86,90.69767441860465,2.9373678646934462
+1135,Chicken,"('Onions', 'Cod')",101,91.0891089108911,1.3845544554455445
+1136,Chicken,"('Onions', 'Turkey')",96,97.91666666666666,1.4883333333333333
+1137,Cod,"('Onions', 'Salmon')",92,91.30434782608695,1.8653576437587658
+1138,Carrots,"('Onions', 'Garlic', 'Cod')",86,90.69767441860465,1.8731041456016178
+1139,Carrots,"('Onions', 'Basil')",94,92.5531914893617,1.9114246068455134
+1140,Garlic,"('Onions', 'Basil')",94,90.42553191489363,2.564306128929819
+1141,Chicken,"('not Coffee', 'Cod')",88,92.04545454545455,1.3990909090909092
+1142,Chicken,"('not Coffee', 'Turkey')",87,95.40229885057471,1.4501149425287356
+1143,Carrots,"('Broccoli', 'Potatoes, White')",111,90.09009009009009,1.8605562083822953
+1144,Carrots,"('Broccoli', 'Chicken Egg', 'Potatoes, White')",90,90.0,1.858695652173913
+1145,Carrots,"('Broccoli', 'Rice, White')",97,90.72164948453609,1.8735992828328103
+1146,Chicken,"('Broccoli', 'Cod')",105,91.42857142857143,1.3897142857142857
+1147,Chicken,"('Broccoli', 'Cod', 'Carrots')",95,92.63157894736842,1.408
+1148,Carrots,"('Broccoli', 'Cod', 'Chicken')",96,91.66666666666666,1.8931159420289856
+1149,Carrots,"('Broccoli', 'Cod')",105,90.47619047619048,1.8685300207039337
+1150,Chicken,"('Broccoli', 'Turkey')",99,98.98989898989899,1.5046464646464646
+1151,Chicken,"('Broccoli', 'Turkey', 'Carrots')",88,98.86363636363636,1.5027272727272727
+1152,Chicken,"('Broccoli', 'Tuna', 'Carrots')",91,90.10989010989012,1.3696703296703296
+1153,Carrots,"('Broccoli', 'Tuna', 'Chicken')",88,93.18181818181817,1.9244071146245059
+1154,Carrots,"('Broccoli', 'Tuna')",99,91.91919191919192,1.8983311374615723
+1155,Chicken,"('Broccoli', 'Salmon')",96,91.66666666666666,1.3933333333333333
+1156,Chicken,"('Broccoli', 'Salmon', 'Carrots')",90,92.22222222222223,1.4017777777777778
+1157,Carrots,"('Broccoli', 'Salmon', 'Chicken')",88,94.31818181818183,1.9478754940711462
+1158,Carrots,"('Broccoli', 'Salmon')",96,93.75,1.9361413043478262
+1159,Chicken,"('Broccoli', 'Butter')",89,91.01123595505618,1.3833707865168539
+1160,Carrots,"('Broccoli', 'Basil')",103,90.29126213592234,1.8647108484592656
+1161,Carrots,"('Broccoli', 'Lettuce')",103,91.2621359223301,1.8847615027437739
+1162,Carrots,"('Broccoli', 'Strawberries')",92,91.30434782608695,1.885633270321361
+1163,Carrots,"('Broccoli', 'Peas')",96,92.70833333333334,1.9146286231884058
+1164,Carrots,"('Broccoli', 'Raspberries')",87,91.95402298850574,1.8990504747626187
+1165,Carrots,"('Broccoli', 'Onions')",86,91.86046511627907,1.897118301314459
+1166,Garlic,"('Broccoli', 'Onions')",86,90.69767441860465,2.5720236029156545
+1167,Chicken,"('Chocolate - Milk', 'Potatoes, White')",122,90.1639344262295,1.3704918032786886
+1168,Chicken,"('Chocolate - Milk', 'Chicken Egg')",106,91.50943396226415,1.390943396226415
+1169,Chicken,"('Chocolate - Milk', 'Chicken Egg', 'Potatoes, White')",94,91.48936170212765,1.3906382978723404
+1170,"Potatoes, White","('Chocolate - Milk', 'Rice, White', 'Chicken')",101,91.0891089108911,1.7965671999725925
+1171,"Potatoes, White","('Chocolate - Milk', 'Rice, White')",114,90.35087719298247,1.782006920415225
+1172,Chicken,"('Chocolate - Milk', 'Rice, White', 'Chicken Egg')",89,91.01123595505618,1.3833707865168539
+1173,"Potatoes, White","('Chocolate - Milk', 'Rice, White', 'Chicken Egg')",89,91.01123595505618,1.795031297383461
+1174,"Potatoes, White","('Chocolate - Milk', 'Rice, White', 'Carrots')",90,91.11111111111111,1.7970011534025374
+1175,Chicken,"('Chocolate - Milk', 'Cod')",96,94.79166666666666,1.4408333333333334
+1176,Chicken,"('Chocolate - Milk', 'Cod', 'Potatoes, White')",87,95.40229885057471,1.4501149425287356
+1177,"Potatoes, White","('Chocolate - Milk', 'Cod', 'Chicken')",91,91.20879120879121,1.7989277158827333
+1178,"Potatoes, White","('Chocolate - Milk', 'Cod')",96,90.625,1.7874134948096885
+1179,Chicken,"('Chocolate - Milk', 'Turkey')",101,97.02970297029702,1.4748514851485148
+1180,Chicken,"('Chocolate - Milk', 'Turkey', 'Potatoes, White')",89,98.87640449438202,1.5029213483146067
+1181,Chicken,"('Chocolate - Milk', 'Sweet Potato')",90,90.0,1.368
+1182,"Potatoes, White","('Chocolate - Milk', 'Sweet Potato')",90,95.55555555555556,1.8846597462514418
+1183,"Rice, White","('Chocolate - Milk', 'Sweet Potato', 'Potatoes, White')",86,90.69767441860465,1.9147286821705427
+1184,Chicken,"('Chocolate - Milk', 'Butter')",101,93.06930693069307,1.4146534653465346
+1185,Chicken,"('Chocolate - Milk', 'Butter', 'Potatoes, White')",92,94.56521739130434,1.4373913043478261
+1186,"Potatoes, White","('Chocolate - Milk', 'Butter', 'Chicken')",94,92.5531914893617,1.8254435691673416
+1187,"Potatoes, White","('Chocolate - Milk', 'Butter')",101,91.0891089108911,1.7965671999725925
+1188,"Potatoes, White","('Chocolate - Milk', 'Sugar', 'Chicken')",99,90.9090909090909,1.7930166719094054
+1189,"Potatoes, White","('Chocolate - Milk', 'Sugar', 'Rice, White')",95,91.57894736842105,1.806228373702422
+1190,Chicken,"('Chocolate - Milk', 'Sugar', 'Butter')",86,93.02325581395348,1.413953488372093
+1191,"Potatoes, White","('Chocolate - Milk', 'Sugar', 'Butter')",86,91.86046511627907,1.811780799871248
+1192,Chicken,"('Chocolate - Milk', 'Cheese - Hard')",90,93.33333333333333,1.4186666666666667
+1193,"Potatoes, White","('Chocolate - Milk', 'Cheese - Hard')",90,91.11111111111111,1.7970011534025374
+1194,"Rice, White","('Chocolate - Milk', 'Cheese - Hard')",90,90.0,1.9
+1195,Chicken,"('Cauliflower', 'Chicken Egg')",104,90.38461538461539,1.373846153846154
+1196,Carrots,"('Cauliflower', 'Chicken Egg')",104,90.38461538461539,1.866638795986622
+1197,Carrots,"('Cauliflower',)",140,90.0,1.858695652173913
+1198,Carrots,"('Cauliflower', 'Rice, White', 'Chicken')",87,90.80459770114942,1.8753123438280859
+1199,Carrots,"('Cauliflower', 'Rice, White', 'Potatoes, White')",88,90.9090909090909,1.8774703557312253
+1200,Carrots,"('Cauliflower', 'Rice, White')",103,91.2621359223301,1.8847615027437739
+1201,Chicken,"('Cauliflower', 'Cod')",97,92.78350515463917,1.4103092783505156
+1202,Chicken,"('Cauliflower', 'Cod', 'Carrots')",89,92.13483146067416,1.4004494382022472
+1203,Carrots,"('Cauliflower', 'Cod', 'Chicken')",90,91.11111111111111,1.8816425120772946
+1204,Carrots,"('Cauliflower', 'Cod')",97,91.75257731958763,1.8948901837740924
+1205,Chicken,"('Cauliflower', 'Turkey')",96,97.91666666666666,1.4883333333333333
+1206,Chicken,"('Cauliflower', 'Turkey', 'Carrots')",87,97.70114942528735,1.4850574712643678
+1207,Carrots,"('Cauliflower', 'Turkey', 'Chicken')",94,90.42553191489363,1.8674838112858465
+1208,Carrots,"('Cauliflower', 'Turkey')",96,90.625,1.8716032608695652
+1209,Chicken,"('Cauliflower', 'Tuna')",90,91.11111111111111,1.3848888888888888
+1210,Chicken,"('Cauliflower', 'Tuna', 'Carrots')",86,90.69767441860465,1.3786046511627907
+1211,Carrots,"('Cauliflower', 'Tuna')",90,95.55555555555556,1.9734299516908214
+1212,Carrots,"('Cauliflower', 'Bananas')",95,91.57894736842105,1.891304347826087
+1213,Chicken,"('Cauliflower', 'Salmon')",88,92.04545454545455,1.3990909090909092
+1214,Carrots,"('Cauliflower', 'Salmon')",88,94.31818181818183,1.9478754940711462
+1215,Cod,"('Cauliflower', 'Salmon')",88,90.9090909090909,1.8572825024437927
+1216,Carrots,"('Cauliflower', 'Sweet Potato')",100,93.0,1.9206521739130435
+1217,Carrots,"('Cauliflower', 'Garlic', 'Chicken')",86,93.02325581395348,1.9211324570273003
+1218,Carrots,"('Cauliflower', 'Garlic')",101,93.06930693069307,1.922083512699096
+1219,Carrots,"('Cauliflower', 'Cucumber')",94,94.68085106382979,1.9553654024051803
+1220,Carrots,"('Cauliflower', 'Basil')",89,93.25842696629213,1.9259892525647289
+1221,Carrots,"('Cauliflower', 'Lettuce')",98,92.85714285714286,1.9177018633540373
+1222,Carrots,"('Cauliflower', 'Apple')",89,92.13483146067416,1.9027845627747924
+1223,Carrots,"('Cauliflower', 'Broccoli', 'Chicken')",88,92.04545454545455,1.9009387351778657
+1224,Carrots,"('Cauliflower', 'Broccoli')",102,93.13725490196079,1.9234867860187552
+1225,"Potatoes, White","('Grapes', 'Rice, White', 'Chicken')",86,90.69767441860465,1.7888468656956626
+1226,Chicken,"('Grapes', 'Cod')",97,90.72164948453609,1.3789690721649484
+1227,Chicken,"('Grapes', 'Turkey')",91,97.8021978021978,1.4865934065934066
+1228,Chicken,"('Grapes', 'Tuna')",91,90.10989010989012,1.3696703296703296
+1229,Carrots,"('Grapes', 'Apple')",97,90.72164948453609,1.8735992828328103
+1230,"Melon, Honeydew","('Grapes', 'Melon, Cantaloupe')",87,95.40229885057471,3.03795029859372
+1231,"Melon, Cantaloupe","('Grapes', 'Melon, Honeydew')",92,90.21739130434783,3.116600790513834
+1232,Carrots,"('Grapes', 'Lemon')",86,90.69767441860465,1.8731041456016178
+1233,Carrots,"('Grapes', 'Raspberries')",86,90.69767441860465,1.8731041456016178
+1234,Strawberries,"('Grapes', 'Raspberries')",86,93.02325581395348,3.0126849894291756
+1235,"Potatoes, White","('Spinach', 'Rice, White', 'Chicken')",90,90.0,1.7750865051903115
+1236,Chicken,"('Spinach', 'Turkey')",90,98.88888888888889,1.503111111111111
+1237,Carrots,"('Spinach', 'Garlic')",91,90.10989010989012,1.860965121834687
+1238,Carrots,"('Spinach', 'Cucumber')",99,91.91919191919192,1.8983311374615723
+1239,Carrots,"('Spinach', 'Strawberries')",91,92.3076923076923,1.9063545150501673
+1240,Carrots,"('Spinach', 'Melon, Honeydew')",92,90.21739130434783,1.8631852551984878
+1241,"Melon, Honeydew","('Spinach', 'Melon, Cantaloupe')",88,96.5909090909091,3.0757998984255965
+1242,"Melon, Cantaloupe","('Spinach', 'Melon, Honeydew')",92,92.3913043478261,3.191699604743083
+1243,Carrots,"('Spinach', 'Mushroom')",86,90.69767441860465,1.8731041456016178
+1244,Chicken,"('Blueberries', 'Cod')",94,92.5531914893617,1.406808510638298
+1245,Chicken,"('Blueberries', 'Turkey')",101,97.02970297029702,1.4748514851485148
+1246,Chicken,"('Blueberries', 'Tuna')",96,90.625,1.3775
+1247,Chicken,"('Blueberries', 'Salmon')",92,90.21739130434783,1.371304347826087
+1248,Carrots,"('Blueberries', 'Lettuce')",98,90.81632653061224,1.8755545696539486
+1249,"Melon, Honeydew","('Blueberries', 'Melon, Cantaloupe')",91,96.7032967032967,3.0793787218368225
+1250,"Melon, Cantaloupe","('Blueberries', 'Melon, Honeydew')",94,93.61702127659575,3.234042553191489
+1251,Strawberries,"('Blueberries', 'Raspberries', 'Carrots')",90,90.0,2.914772727272727
+1252,Carrots,"('Blueberries', 'Grapes')",90,91.11111111111111,1.8816425120772946
+1253,Strawberries,"('Blueberries', 'Grapes')",90,90.0,2.914772727272727
+1254,"Rice, White","('Cow Milk - Semi-Skimmed', 'Carrots', 'Chicken')",88,90.9090909090909,1.9191919191919191
+1255,Chicken,"('Cow Milk - Semi-Skimmed', 'Cod')",104,90.38461538461539,1.373846153846154
+1256,Chicken,"('Cow Milk - Semi-Skimmed', 'Turkey')",97,96.90721649484536,1.4729896907216495
+1257,Chicken,"('Cow Milk - Semi-Skimmed', 'Tuna')",89,92.13483146067416,1.4004494382022472
+1258,Chicken,"('Cow Milk - Semi-Skimmed', 'Butter', 'Rice, White')",94,90.42553191489363,1.374468085106383
+1259,Chicken,"('Cow Milk - Semi-Skimmed', 'Yoghurt - Plain')",99,90.9090909090909,1.3818181818181818
+1260,Chicken,"('Mango', 'Cod')",98,91.83673469387756,1.3959183673469389
+1261,Chicken,"('Mango', 'Turkey')",98,96.93877551020408,1.473469387755102
+1262,Carrots,"('Mango', 'Sweet Potato', 'Potatoes, White')",88,90.9090909090909,1.8774703557312253
+1263,Carrots,"('Mango', 'Lettuce')",89,92.13483146067416,1.9027845627747924
+1264,"Melon, Honeydew","('Mango', 'Melon, Cantaloupe', 'Carrots')",89,95.50561797752809,3.0412403490050846
+1265,"Melon, Cantaloupe","('Mango', 'Melon, Honeydew', 'Carrots')",91,93.4065934065934,3.226773226773227
+1266,"Melon, Honeydew","('Mango', 'Melon, Cantaloupe')",103,95.14563106796116,3.029777078700439
+1267,"Melon, Cantaloupe","('Mango', 'Melon, Honeydew')",108,90.74074074074075,3.1346801346801345
+1268,"Melon, Cantaloupe","('Mango', 'Watermelon', 'Melon, Honeydew')",88,92.04545454545455,3.1797520661157024
+1269,Chicken,"('Peach', 'Cod')",97,91.75257731958763,1.394639175257732
+1270,Chicken,"('Peach', 'Turkey')",96,97.91666666666666,1.4883333333333333
+1271,Chicken,"('Peach', 'Tuna')",92,90.21739130434783,1.371304347826087
+1272,Carrots,"('Peach', 'Salmon')",89,91.01123595505618,1.8795798729848558
+1273,Chicken,"('Peach', 'Butter')",91,91.20879120879121,1.3863736263736264
+1274,Carrots,"('Peach', 'Cucumber')",91,91.20879120879121,1.8836598184424271
+1275,Carrots,"('Peach', 'Basil')",90,92.22222222222223,1.9045893719806763
+1276,Carrots,"('Peach', 'Lettuce')",94,92.5531914893617,1.9114246068455134
+1277,Carrots,"('Peach', 'Melon, Honeydew')",100,90.0,1.858695652173913
+1278,Carrots,"('Peach', 'Apple')",94,90.42553191489363,1.8674838112858465
+1279,Carrots,"('Peach', 'Melon, Cantaloupe')",100,90.0,1.858695652173913
+1280,Carrots,"('Peach', 'Melon, Cantaloupe', 'Melon, Honeydew')",95,90.52631578947368,1.8695652173913044
+1281,"Melon, Honeydew","('Peach', 'Melon, Cantaloupe', 'Carrots')",90,95.55555555555556,3.0428305400372437
+1282,"Melon, Cantaloupe","('Peach', 'Melon, Honeydew', 'Carrots')",90,95.55555555555556,3.301010101010101
+1283,"Melon, Honeydew","('Peach', 'Melon, Cantaloupe')",100,95.0,3.025139664804469
+1284,"Melon, Cantaloupe","('Peach', 'Melon, Honeydew')",100,95.0,3.2818181818181817
+1285,Chicken,"('Pork',)",140,97.14285714285714,1.4765714285714286
+1286,Chicken,"('Pork', 'Potatoes, White')",108,97.22222222222221,1.4777777777777779
+1287,Chicken,"('Pork', 'Chicken Egg')",112,99.10714285714286,1.5064285714285715
+1288,Chicken,"('Pork', 'Chicken Egg', 'Potatoes, White')",88,98.86363636363636,1.5027272727272727
+1289,Chicken,"('Pork', 'Carrots')",94,97.87234042553192,1.4876595744680852
+1290,Chicken,"('Pork', 'Rice, White')",98,97.95918367346938,1.4889795918367348
+1291,Chicken,"('Pork', 'Cod')",101,98.01980198019803,1.48990099009901
+1292,Chicken,"('Pork', 'Cod', 'Chicken Egg')",86,98.83720930232558,1.5023255813953489
+1293,Chicken,"('Pork', 'Turkey')",114,99.12280701754386,1.5066666666666666
+1294,Chicken,"('Pork', 'Turkey', 'Potatoes, White')",87,100.0,1.52
+1295,Chicken,"('Pork', 'Turkey', 'Chicken Egg')",93,100.0,1.52
+1296,Chicken,"('Pork', 'Tuna')",92,98.91304347826086,1.5034782608695652
+1297,Chicken,"('Pork', 'Salmon')",91,98.9010989010989,1.5032967032967033
+1298,Chicken,"('Pork', 'Butter')",94,96.80851063829788,1.4714893617021276
+1299,Chicken,"('Pork', 'Beef')",108,100.0,1.52
+1300,Chicken,"('Pork', 'Beef', 'Potatoes, White')",87,100.0,1.52
+1301,Chicken,"('Pork', 'Beef', 'Chicken Egg')",91,100.0,1.52
+1302,Chicken,"('Pork', 'Beef', 'Turkey')",92,100.0,1.52
+1303,Chicken,"('Nectarine', 'Cod')",96,91.66666666666666,1.3933333333333333
+1304,Chicken,"('Nectarine', 'Turkey')",94,96.80851063829788,1.4714893617021276
+1305,Chicken,"('Nectarine', 'Butter')",88,90.9090909090909,1.3818181818181818
+1306,Carrots,"('Nectarine', 'Lettuce')",90,90.0,1.858695652173913
+1307,"Melon, Cantaloupe","('Nectarine', 'Melon, Honeydew', 'Chicken')",86,94.18604651162791,3.2536997885835097
+1308,"Melon, Honeydew","('Nectarine', 'Melon, Cantaloupe', 'Carrots')",88,95.45454545454545,3.0396140172676485
+1309,"Melon, Cantaloupe","('Nectarine', 'Melon, Honeydew', 'Carrots')",88,95.45454545454545,3.2975206611570247
+1310,"Melon, Honeydew","('Nectarine', 'Melon, Cantaloupe')",103,96.11650485436894,3.06069317134024
+1311,"Melon, Cantaloupe","('Nectarine', 'Melon, Honeydew')",105,94.28571428571428,3.257142857142857
+1312,"Melon, Honeydew","('Nectarine', 'Melon, Cantaloupe', 'Watermelon')",86,96.51162790697676,3.0732753020657397
+1313,"Melon, Cantaloupe","('Nectarine', 'Watermelon', 'Melon, Honeydew')",87,95.40229885057471,3.295715778474399
+1314,Strawberries,"('Nectarine', 'Raspberries')",93,90.32258064516128,2.9252199413489737
+1315,"Melon, Cantaloupe","('Nectarine', 'Peach', 'Melon, Honeydew')",86,95.34883720930233,3.2938689217758985
+1316,Chicken,"('Tomatoes', 'Turkey')",87,98.85057471264368,1.502528735632184
+1317,Carrots,"('Tomatoes', 'Sweet Potato')",93,91.39784946236558,1.8875642823749417
+1318,Carrots,"('Tomatoes', 'Cucumber')",94,90.42553191489363,1.8674838112858465
+1319,Carrots,"('Tomatoes', 'Lettuce')",94,91.48936170212765,1.8894542090656798
+1320,Chicken,"('Pineapple', 'Cod')",91,91.20879120879121,1.3863736263736264
+1321,Chicken,"('Pineapple', 'Turkey')",93,97.84946236559139,1.4873118279569892
+1322,Carrots,"('Pineapple', 'Turkey', 'Chicken')",91,90.10989010989012,1.860965121834687
+1323,Carrots,"('Pineapple', 'Turkey')",93,90.32258064516128,1.8653576437587658
+1324,Carrots,"('Pineapple', 'Sweet Potato')",96,90.625,1.8716032608695652
+1325,Carrots,"('Pineapple', 'Basil')",87,93.10344827586206,1.9227886056971515
+1326,Carrots,"('Pineapple', 'Lettuce')",89,91.01123595505618,1.8795798729848558
+1327,"Melon, Honeydew","('Pineapple', 'Melon, Cantaloupe')",89,92.13483146067416,2.9339024543343166
+1328,"Melon, Cantaloupe","('Pineapple', 'Melon, Honeydew')",89,92.13483146067416,3.1828396322778345
+1329,Carrots,"('Pineapple', 'Raspberries')",86,90.69767441860465,1.8731041456016178
+1330,Carrots,"('Pineapple', 'Blueberries')",86,90.69767441860465,1.8731041456016178
+1331,Chicken,"('Lime', 'Cod')",90,92.22222222222223,1.4017777777777778
+1332,Chicken,"('Lime', 'Turkey')",93,100.0,1.52
+1333,Chicken,"('Lime', 'Butter')",86,93.02325581395348,1.413953488372093
+1334,Carrots,"('Lime', 'Lettuce')",89,91.01123595505618,1.8795798729848558
+1335,"Melon, Honeydew","('Lime', 'Melon, Cantaloupe')",92,95.65217391304348,3.04590721399077
+1336,"Melon, Cantaloupe","('Lime', 'Melon, Honeydew')",93,94.6236559139785,3.2688172043010755
+1337,Lemon,"('Lime', 'Chicken')",114,95.6140350877193,3.5620915032679736
+1338,Lemon,"('Lime', 'Potatoes, White')",98,95.91836734693877,3.5734293717486993
+1339,Lemon,"('Lime', 'Chicken Egg')",93,95.6989247311828,3.5652540586126924
+1340,Lemon,"('Lime', 'Carrots', 'Chicken')",98,97.95918367346938,3.6494597839135654
+1341,Lemon,"('Lime', 'Carrots', 'Potatoes, White')",87,96.55172413793103,3.597025016903313
+1342,Lemon,"('Lime', 'Carrots')",113,97.34513274336283,3.6265833767135174
+1343,Lemon,"('Lime', 'Rice, White', 'Carrots')",86,97.67441860465115,3.6388508891928866
+1344,Lime,"('Lemon', 'Rice, White', 'Carrots')",92,91.30434782608695,3.717391304347826
+1345,Lemon,"('Lime', 'Rice, White')",96,97.91666666666666,3.647875816993464
+1346,Chicken,"('Lime', 'Lemon', 'Cod')",88,92.04545454545455,1.3990909090909092
+1347,Lemon,"('Lime', 'Cod')",90,97.77777777777777,3.6427015250544663
+1348,Chicken,"('Lime', 'Lemon', 'Turkey')",90,100.0,1.52
+1349,Lemon,"('Lime', 'Turkey', 'Chicken')",93,96.7741935483871,3.6053130929791273
+1350,Lime,"('Lemon', 'Turkey', 'Carrots', 'Chicken')",87,91.95402298850574,3.7438423645320196
+1351,Lime,"('Lemon', 'Turkey', 'Carrots')",87,91.95402298850574,3.7438423645320196
+1352,Lemon,"('Lime', 'Turkey')",93,96.7741935483871,3.6053130929791273
+1353,Lime,"('Lemon', 'Tuna', 'Chicken')",90,90.0,3.664285714285714
+1354,Lemon,"('Lime', 'Tuna')",95,96.84210526315789,3.607843137254902
+1355,Lemon,"('Lime', 'Bananas', 'Carrots')",87,96.55172413793103,3.597025016903313
+1356,Lime,"('Lemon', 'Bananas', 'Carrots')",93,90.32258064516128,3.6774193548387095
+1357,Lemon,"('Lime', 'Bananas')",99,96.96969696969697,3.6125965537730242
+1358,Lime,"('Lemon', 'Salmon', 'Carrots')",87,90.80459770114942,3.6970443349753697
+1359,Lemon,"('Lime', 'Salmon')",92,95.65217391304348,3.5635123614663256
+1360,Lemon,"('Lime', 'Sweet Potato', 'Carrots')",88,97.72727272727273,3.640819964349376
+1361,Lemon,"('Lime', 'Sweet Potato')",98,97.95918367346938,3.6494597839135654
+1362,Lemon,"('Lime', 'Butter')",86,95.34883720930233,3.5522115823073417
+1363,Lemon,"('Lime', 'Garlic')",90,95.55555555555556,3.559912854030501
+1364,Lime,"('Lemon', 'Cucumber', 'Carrots')",88,92.04545454545455,3.747564935064935
+1365,Lemon,"('Lime', 'Cucumber')",93,97.84946236559139,3.6453721273455617
+1366,Lime,"('Lemon', 'Cucumber')",99,91.91919191919192,3.742424242424242
+1367,Lemon,"('Lime', 'Basil', 'Carrots')",90,97.77777777777777,3.6427015250544663
+1368,Lime,"('Lemon', 'Basil', 'Carrots')",97,90.72164948453609,3.6936671575846836
+1369,Lemon,"('Lime', 'Basil')",102,97.05882352941177,3.615916955017301
+1370,Lime,"('Lemon', 'Basil')",110,90.0,3.664285714285714
+1371,Carrots,"('Lime', 'Lemon', 'Lettuce')",87,90.80459770114942,1.8753123438280859
+1372,Lemon,"('Lime', 'Lettuce')",89,97.75280898876404,3.6417713152676803
+1373,Lime,"('Lemon', 'Strawberries', 'Carrots')",88,90.9090909090909,3.7012987012987013
+1374,Lemon,"('Lime', 'Strawberries')",97,95.87628865979381,3.5718617343844756
+1375,Carrots,"('Lime', 'Lemon', 'Melon, Honeydew')",91,90.10989010989012,1.860965121834687
+1376,Lime,"('Lemon', 'Melon, Honeydew', 'Carrots')",88,93.18181818181817,3.793831168831169
+1377,Lemon,"('Lime', 'Melon, Honeydew')",93,97.84946236559139,3.6453721273455617
+1378,Lime,"('Lemon', 'Melon, Honeydew')",98,92.85714285714286,3.7806122448979593
+1379,Lime,"('Lemon', 'Honey')",89,92.13483146067416,3.751203852327448
+1380,Lime,"('Lemon', 'Watermelon', 'Carrots')",86,95.34883720930233,3.882059800664452
+1381,Lemon,"('Lime', 'Watermelon')",97,96.90721649484536,3.6102688498079645
+1382,Lime,"('Lemon', 'Watermelon')",101,93.06930693069307,3.789250353606789
+1383,"Melon, Honeydew","('Lime', 'Lemon', 'Melon, Cantaloupe')",90,95.55555555555556,3.0428305400372437
+1384,"Melon, Cantaloupe","('Lime', 'Lemon', 'Melon, Honeydew')",91,94.5054945054945,3.2647352647352648
+1385,Lemon,"('Lime', 'Melon, Cantaloupe', 'Melon, Honeydew')",88,97.72727272727273,3.640819964349376
+1386,Lime,"('Lemon', 'Melon, Cantaloupe', 'Melon, Honeydew')",91,94.5054945054945,3.847723704866562
+1387,Lemon,"('Lime', 'Melon, Cantaloupe')",92,97.82608695652173,3.6445012787723785
+1388,Lime,"('Lemon', 'Melon, Cantaloupe')",96,93.75,3.8169642857142856
+1389,Lemon,"('Lime',)",140,94.28571428571428,3.5126050420168067
+1390,Strawberries,"('Lime', 'Raspberries')",91,90.10989010989012,2.9183316683316685
+1391,Strawberries,"('Lime', 'Raspberries', 'Lemon')",90,90.0,2.914772727272727
+1392,Lemon,"('Lime', 'Raspberries')",91,98.9010989010989,3.6845507433742726
+1393,Lemon,"('Lime', 'Blueberries')",87,97.70114942528735,3.6398467432950192
+1394,Lemon,"('Lime', 'Mango')",88,95.45454545454545,3.556149732620321
+1395,Lime,"('Mango', 'Lemon')",91,92.3076923076923,3.758241758241758
+1396,Lemon,"('Lime', 'Peach')",89,98.87640449438202,3.6836307556730556
+1397,Lime,"('Peach', 'Lemon')",96,91.66666666666666,3.732142857142857
+1398,Lemon,"('Lime', 'Nectarine')",90,96.66666666666667,3.6013071895424837
+1399,Lime,"('Nectarine', 'Lemon')",96,90.625,3.689732142857143
+1400,Peach,"('Lime', 'Nectarine', 'Lemon')",87,90.80459770114942,3.7506246876561717
+1401,Lime,"('Pineapple', 'Lemon')",89,91.01123595505618,3.70545746388443
+1402,Chicken,"('Brown Sugar', 'Cod')",86,93.02325581395348,1.413953488372093
+1403,Chicken,"('Brown Sugar', 'Turkey')",98,96.93877551020408,1.473469387755102
+1404,Chicken,"('Brown Sugar', 'Turkey', 'Potatoes, White')",87,97.70114942528735,1.4850574712643678
+1405,Chicken,"('Brown Sugar', 'Turkey', 'Rice, White')",87,96.55172413793103,1.4675862068965517
+1406,Chicken,"('Brown Sugar', 'Tuna')",86,94.18604651162791,1.4316279069767441
+1407,Chicken,"('Brown Sugar', 'Salmon')",87,90.80459770114942,1.3802298850574712
+1408,"Potatoes, White","('Brown Sugar', 'Sweet Potato')",92,91.30434782608695,1.8008123965698812
+1409,"Rice, White","('Brown Sugar', 'Sweet Potato')",92,91.30434782608695,1.9275362318840579
+1410,Carrots,"('Brown Sugar', 'Basil')",86,90.69767441860465,1.8731041456016178
+1411,"Rice, White","('Brown Sugar', 'Basil')",86,90.69767441860465,1.9147286821705427
+1412,"Potatoes, White","('Brown Sugar', 'Sugar', 'Chicken')",87,91.95402298850574,1.813626058942847
+1413,"Potatoes, White","('Brown Sugar', 'Sugar')",104,90.38461538461539,1.782672344956082
+1414,"Potatoes, White","('Brown Sugar', 'Sugar', 'Rice, White')",92,90.21739130434783,1.779374153753573
+1415,not Peanuts,"('not Almond', 'not Raisins')",106,92.45283018867924,3.0817610062893084
+1416,Chicken,"('Peppers (Capsicum)', 'Turkey')",88,98.86363636363636,1.5027272727272727
+1417,Carrots,"('Cherries', 'Potatoes, White')",94,90.42553191489363,1.8674838112858465
+1418,Chicken,"('Cherries', 'Turkey')",89,96.62921348314607,1.4687640449438202
+1419,Carrots,"('Cherries', 'Basil')",86,93.02325581395348,1.9211324570273003
+1420,"Melon, Honeydew","('Cherries', 'Melon, Cantaloupe')",94,95.74468085106383,3.0488529656484014
+1421,Lime,"('Cherries', 'Lemon')",87,90.80459770114942,3.6970443349753697
+1422,Chicken,"('Ice Cream', 'Cod')",90,90.0,1.368
+1423,Chicken,"('Ice Cream', 'Turkey')",88,96.5909090909091,1.4681818181818183
+1424,Chicken,"('Ice Cream', 'Tuna')",86,94.18604651162791,1.4316279069767441
+1425,"Potatoes, White","('Chocolate - Dark', 'Rice, White')",95,90.52631578947368,1.7854671280276817
+1426,Chicken,"('Chocolate - Dark', 'Cod')",92,92.3913043478261,1.4043478260869566
+1427,Chicken,"('Chocolate - Dark', 'Turkey')",97,94.84536082474226,1.4416494845360825
+1428,Chicken,"('Chocolate - Dark', 'Salmon')",86,90.69767441860465,1.3786046511627907
+1429,Carrots,"('Leeks', 'Potatoes, White')",96,90.625,1.8716032608695652
+1430,Carrots,"('Leeks', 'Chicken Egg')",91,90.10989010989012,1.860965121834687
+1431,Chicken,"('Leeks', 'Cod')",92,90.21739130434783,1.371304347826087
+1432,Carrots,"('Leeks', 'Cod')",92,90.21739130434783,1.8631852551984878
+1433,Chicken,"('Leeks', 'Turkey')",90,97.77777777777777,1.4862222222222221
+1434,Carrots,"('Leeks', 'Tuna')",87,90.80459770114942,1.8753123438280859
+1435,Carrots,"('Leeks', 'Bananas')",90,91.11111111111111,1.8816425120772946
+1436,Carrots,"('Leeks', 'Salmon')",87,90.80459770114942,1.8753123438280859
+1437,Cod,"('Leeks', 'Salmon')",87,90.80459770114942,1.8551476949697194
+1438,Carrots,"('Leeks', 'Cucumber')",92,90.21739130434783,1.8631852551984878
+1439,Carrots,"('Leeks', 'Lettuce')",96,90.625,1.8716032608695652
+1440,Carrots,"('Leeks', 'Strawberries')",87,90.80459770114942,1.8753123438280859
+1441,Carrots,"('Leeks', 'Onions')",86,93.02325581395348,1.9211324570273003
+1442,Carrots,"('Leeks', 'Broccoli')",86,91.86046511627907,1.897118301314459
+1443,Chicken,"('Lemonade', 'Chicken Egg')",90,90.0,1.368
+1444,"Potatoes, White","('Lemonade', 'Rice, White', 'Chicken')",86,91.86046511627907,1.811780799871248
+1445,"Potatoes, White","('Lemonade', 'Rice, White')",97,92.78350515463917,1.8299860878250633
+1446,"Potatoes, White","('Cheese - Soft', 'Chicken Egg')",103,91.2621359223301,1.7999798434508012
+1447,"Potatoes, White","('Cheese - Soft', 'Rice, White', 'Chicken Egg')",88,90.9090909090909,1.7930166719094054
+1448,Chicken,"('Cheese - Soft', 'Turkey')",87,96.55172413793103,1.4675862068965517
+1449,"Potatoes, White","('Cheese - Soft', 'Butter', 'Chicken')",93,91.39784946236558,1.8026565464895636
+1450,Butter,"('Cheese - Soft', 'Potatoes, White', 'Chicken')",94,90.42553191489363,2.47800736497545
+1451,"Potatoes, White","('Cheese - Soft', 'Butter')",105,91.42857142857143,1.8032624814631735
+1452,"Potatoes, White","('Cheese - Soft', 'Butter', 'Chicken Egg')",89,93.25842696629213,1.8393530578126822
+1453,"Potatoes, White","('Cheese - Soft', 'Butter', 'Rice, White')",90,91.11111111111111,1.7970011534025374
+1454,Butter,"('Cheese - Soft', 'Rice, White', 'Potatoes, White')",91,90.10989010989012,2.4693575655114115
+1455,Butter,"('Cheese - Soft', 'Cod', 'Potatoes, White')",86,90.69767441860465,2.48546511627907
+1456,Butter,"('Cheese - Soft', 'Turkey')",87,90.80459770114942,2.488395225464191
+1457,"Potatoes, White","('Cheese - Soft', 'Sugar')",90,90.0,1.7750865051903115
+1458,Butter,"('Cheese - Soft', 'Sugar')",90,90.0,2.4663461538461537
+1459,"Potatoes, White","('Cheese - Soft', 'Yoghurt - Plain')",90,90.0,1.7750865051903115
+1460,"Potatoes, White","('Cheese - Soft', 'Cheese - Hard', 'Chicken Egg')",89,93.25842696629213,1.8393530578126822
+1461,Chicken Egg,"('Cheese - Soft', 'Cheese - Hard', 'Potatoes, White')",92,90.21739130434783,1.8300324926504719
+1462,"Potatoes, White","('Cheese - Soft', 'Cheese - Hard', 'Rice, White')",89,91.01123595505618,1.795031297383461
+1463,"Potatoes, White","('Cheese - Soft', 'Cheese - Hard', 'Butter')",90,92.22222222222223,1.8189158016147635
+1464,Butter,"('Cheese - Soft', 'Cheese - Hard', 'Potatoes, White')",92,90.21739130434783,2.4723035117056855
+1465,not Peanuts,"('not Tangerine', 'not Almond')",94,91.48936170212765,3.049645390070922
+1466,not Tangerine,"('not Orange', 'not Peanuts')",93,90.32258064516128,3.6256247160381645
+1467,not Tangerine,"('not Orange', 'not Raisins')",103,91.2621359223301,3.6633392588540956
+1468,not Tangerine,"('not Orange', 'not Almond')",88,92.04545454545455,3.694782330345711
+1469,not Peanuts,"('not Cashews', 'not Orange Juice (with bits)')",102,92.15686274509804,3.0718954248366015
+1470,not Peanuts,"('not Cashews', 'not Raisins')",100,96.0,3.2
+1471,not Almond,"('not Cashews', 'not Orange Juice (with bits)')",102,90.19607843137256,3.3384262796027504
+1472,not Peanuts,"('not Cashews', 'not Almond', 'not Orange Juice (with bits)')",92,94.56521739130434,3.152173913043478
+1473,not Almond,"('not Cashews', 'not Peanuts', 'not Orange Juice (with bits)')",94,92.5531914893617,3.425670074606245
+1474,not Cashews,"('not Almond', 'not Peanuts', 'not Orange Juice (with bits)')",92,94.56521739130434,3.642038777908343
+1475,not Peanuts,"('not Cashews', 'not Almond')",130,93.84615384615384,3.128205128205128
+1476,not Almond,"('not Cashews', 'not Peanuts')",133,91.72932330827066,3.3951762523191094
+1477,not Cashews,"('not Almond', 'not Peanuts')",130,93.84615384615384,3.6143451143451144
+1478,not Peanuts,"('not Cashews', 'not Almond', 'not Raisins')",94,97.87234042553192,3.2624113475177303
+1479,not Almond,"('not Cashews', 'not Raisins', 'not Peanuts')",96,95.83333333333334,3.5470779220779223
+1480,not Cashews,"('not Almond', 'not Raisins', 'not Peanuts')",98,93.87755102040816,3.615554329840044
+1481,not Almond,"('not Cashews', 'not Raisins')",100,94.0,3.479220779220779
+1482,not Peanuts,"('not Cashews', 'not Orange')",86,91.86046511627907,3.062015503875969
+1483,not Almond,"('not Cashews', 'not Orange')",86,93.02325581395348,3.443068559347629
+1484,not Cashews,"('not Orange', 'not Almond')",88,90.9090909090909,3.501228501228501
+1485,not Peanuts,"('not Cashews', 'not Tangerine')",88,93.18181818181817,3.106060606060606
+1486,not Cashews,"('not Tangerine', 'not Almond', 'not Peanuts')",86,91.86046511627907,3.537869264613451
+1487,not Almond,"('not Cashews', 'not Tangerine')",88,95.45454545454545,3.5330578512396693
+1488,Chicken,"('Apple Juice', 'Cod')",90,92.22222222222223,1.4017777777777778
+1489,"Melon, Cantaloupe","('Orange', 'Melon, Honeydew')",86,90.69767441860465,3.1331923890063424
+1490,Lime,"('Orange', 'Lemon')",87,93.10344827586206,3.79064039408867
+1491,not Orange Juice (with bits),"('not Orange Juice (without bits)', 'not Orange')",95,93.6842105263158,2.518867924528302
+1492,Carrots,"('Pear', 'Potatoes, White')",88,90.9090909090909,1.8774703557312253
+1493,Chicken,"('Pear', 'Cod')",87,94.25287356321839,1.4326436781609195
+1494,Chicken,"('Pear', 'Turkey')",88,98.86363636363636,1.5027272727272727
+1495,Chicken,"('Pear', 'Tuna')",87,93.10344827586206,1.4151724137931034
+1496,Carrots,"('Pear', 'Sweet Potato')",93,91.39784946236558,1.8875642823749417
+1497,"Melon, Cantaloupe","('Pear', 'Melon, Honeydew', 'Carrots')",86,93.02325581395348,3.2135306553911205
+1498,"Melon, Honeydew","('Pear', 'Melon, Cantaloupe')",94,94.68085106382979,3.014976821585641
+1499,"Melon, Cantaloupe","('Pear', 'Melon, Honeydew')",96,92.70833333333334,3.202651515151515
+1500,Strawberries,"('Pear', 'Raspberries')",86,90.69767441860465,2.9373678646934462
+1501,Carrots,"('Tangerine', 'Lettuce')",90,90.0,1.858695652173913
+1502,"Melon, Honeydew","('Tangerine', 'Melon, Cantaloupe')",89,94.3820224719101,3.0054610507814954
+1503,"Melon, Cantaloupe","('Tangerine', 'Melon, Honeydew')",91,92.3076923076923,3.1888111888111887
+1504,Lime,"('Tangerine', 'Lemon')",88,93.18181818181817,3.793831168831169
+1505,not Orange Juice (with bits),"('not Apple Juice', 'not Orange Juice (without bits)')",103,94.1747572815534,2.532057153324785
+1506,Carrots,"('Runner Beans', 'Potatoes, White')",87,90.80459770114942,1.8753123438280859
+1507,Chicken,"('Runner Beans', 'Turkey')",86,98.83720930232558,1.5023255813953489
+1508,Carrots,"('Runner Beans', 'Basil')",90,91.11111111111111,1.8816425120772946
+1509,Carrots,"('Runner Beans', 'Peas')",94,90.42553191489363,1.8674838112858465
+1510,Chicken,"('Lamb',)",127,94.48818897637796,1.4362204724409449
+1511,Chicken,"('Lamb', 'Potatoes, White')",94,96.80851063829788,1.4714893617021276
+1512,Chicken,"('Lamb', 'Chicken Egg')",97,97.9381443298969,1.488659793814433
+1513,Chicken,"('Lamb', 'Carrots')",89,93.25842696629213,1.4175280898876403
+1514,Chicken,"('Lamb', 'Rice, White')",90,95.55555555555556,1.4524444444444444
+1515,Chicken,"('Lamb', 'Cod')",99,96.96969696969697,1.4739393939393939
+1516,Chicken,"('Lamb', 'Turkey')",102,97.05882352941177,1.4752941176470589
+1517,Chicken,"('Lamb', 'Tuna')",86,97.67441860465115,1.4846511627906978
+1518,Chicken,"('Lamb', 'Beef')",103,97.0873786407767,1.4757281553398058
+1519,Chicken,"('Lamb', 'Beef', 'Turkey')",86,98.83720930232558,1.5023255813953489
+1520,Chicken,"('Lamb', 'Pork')",92,97.82608695652173,1.4869565217391305
+1521,Beef,"('Lamb', 'Pork', 'Chicken')",90,90.0,3.186335403726708
+1522,"Potatoes, White","('Chocolate - White', 'Chicken')",104,90.38461538461539,1.782672344956082
+1523,"Potatoes, White","('Chocolate - White', 'Chicken Egg')",90,91.11111111111111,1.7970011534025374
+1524,"Potatoes, White","('Chocolate - White', 'Rice, White')",93,93.54838709677419,1.8450719946422591
+1525,"Potatoes, White","('Chocolate - White', 'Sugar', 'Chicken')",87,91.95402298850574,1.813626058942847
+1526,"Potatoes, White","('Chocolate - White', 'Sugar')",98,91.83673469387756,1.811312760398277
+1527,Chocolate - Milk,"('Chocolate - White', 'Chicken')",104,91.34615384615384,3.6927168576104745
+1528,Chicken,"('Chocolate - White', 'Chocolate - Milk', 'Potatoes, White')",94,91.48936170212765,1.3906382978723404
+1529,"Potatoes, White","('Chocolate - White', 'Chocolate - Milk', 'Chicken')",95,90.52631578947368,1.7854671280276817
+1530,Chocolate - Milk,"('Chocolate - White', 'Potatoes, White', 'Chicken')",94,91.48936170212765,3.6985061113626077
+1531,Chocolate - Milk,"('Chocolate - White', 'Chicken Egg')",90,90.0,3.6382978723404253
+1532,"Potatoes, White","('Chocolate - White', 'Chocolate - Milk', 'Rice, White')",87,93.10344827586206,1.8362963846796325
+1533,Chocolate - Milk,"('Chocolate - White', 'Rice, White', 'Potatoes, White')",87,93.10344827586206,3.763756419662509
+1534,Chocolate - Milk,"('Chocolate - White', 'Rice, White')",93,93.54838709677419,3.781743308167467
+1535,Chicken,"('Chocolate - White', 'Chocolate - Milk', 'Sugar')",90,90.0,1.368
+1536,Chocolate - Milk,"('Chocolate - White', 'Sugar', 'Chicken')",87,93.10344827586206,3.763756419662509
+1537,"Potatoes, White","('Chocolate - White', 'Chocolate - Milk', 'Sugar')",90,92.22222222222223,1.8189158016147635
+1538,Chocolate - Milk,"('Chocolate - White', 'Sugar', 'Potatoes, White')",90,92.22222222222223,3.728132387706856
+1539,Chocolate - Milk,"('Chocolate - White', 'Sugar')",98,91.83673469387756,3.7125488493269647
+1540,Raspberries,"('Blackberries', 'Chicken')",91,90.10989010989012,3.4704484704484706
+1541,Strawberries,"('Blackberries', 'Raspberries', 'Carrots')",86,90.69767441860465,2.9373678646934462
+1542,Raspberries,"('Blackberries', 'Strawberries')",96,91.66666666666666,3.5304054054054053
+1543,Raspberries,"('Blackberries', 'Blueberries')",93,92.47311827956989,3.5614646904969485
+1544,Lime,"('Blackberries', 'Lemon')",87,90.80459770114942,3.6970443349753697
+1545,Carrots,"('Oats', 'Sweet Potato')",87,93.10344827586206,1.9227886056971515
+1546,not Tangerine,"('not Kiwi', 'not Orange')",98,91.83673469387756,3.686404139120437
+1547,not Orange,"('not Nectarine', 'not Orange Juice (with bits)')",95,92.63157894736842,3.6164383561643834
+1548,not Orange,"('not Nectarine', 'not Raisins')",99,90.9090909090909,3.5491905354919053
+1549,not Tangerine,"('not Nectarine', 'not Raisins')",99,92.92929292929293,3.7302603499786597
+1550,not Orange,"('not Nectarine', 'not Tangerine', 'not Raisins')",92,92.3913043478261,3.6070577724836212
+1551,not Tangerine,"('not Nectarine', 'not Orange', 'not Raisins')",90,94.44444444444444,3.791079812206573
+1552,not Nectarine,"('not Tangerine', 'not Orange', 'not Raisins')",94,90.42553191489363,4.090678824721378
+1553,not Orange,"('not Nectarine', 'not Tangerine')",111,91.8918918918919,3.5875601629026286
+1554,not Tangerine,"('not Nectarine', 'not Orange')",112,91.07142857142857,3.6556841046277664
+1555,not Orange,"('not Nectarine', 'not Kiwi')",94,92.5531914893617,3.6133780238997377
+1556,not Orange,"('not Nectarine', 'not Kiwi', 'not Tangerine')",88,93.18181818181817,3.637920298879203
+1557,not Tangerine,"('not Nectarine', 'not Kiwi', 'not Orange')",87,94.25287356321839,3.7833899951432732
+1558,not Nectarine,"('not Kiwi', 'not Tangerine', 'not Orange')",90,91.11111111111111,4.121693121693122
+1559,not Tangerine,"('not Nectarine', 'not Kiwi')",94,93.61702127659575,3.75786634701828
+1560,not Orange,"('not Plums', 'not Tangerine', 'not Raisins')",88,92.04545454545455,3.5935554171855544
+1561,not Orange,"('not Plums', 'not Tangerine')",102,91.17647058823529,3.5596293311845284
+1562,not Tangerine,"('not Plums', 'not Orange')",99,93.93939393939394,3.770806658130602
+1563,not Orange,"('not Plums', 'not Kiwi')",91,90.10989010989012,3.5179888604546137
+1564,not Tangerine,"('not Plums', 'not Kiwi')",91,93.4065934065934,3.749419594490017
+1565,not Orange,"('not Plums', 'not Nectarine', 'not Raisins')",86,93.02325581395348,3.631729850270787
+1566,not Orange,"('not Plums', 'not Nectarine')",100,91.0,3.552739726027397
+1567,not Nectarine,"('not Plums', 'not Orange')",99,91.91919191919192,4.158249158249158
+1568,not Tangerine,"('not Plums', 'not Nectarine', 'not Raisins')",86,96.51162790697676,3.8740583033082214
+1569,not Nectarine,"('not Plums', 'not Tangerine', 'not Raisins')",88,94.31818181818183,4.266774891774892
+1570,not Plums,"('not Nectarine', 'not Tangerine', 'not Raisins')",92,90.21739130434783,4.215074839629366
+1571,not Orange,"('not Plums', 'not Nectarine', 'not Tangerine')",94,92.5531914893617,3.6133780238997377
+1572,not Tangerine,"('not Plums', 'not Nectarine', 'not Orange')",91,95.6043956043956,3.8376412320074293
+1573,not Nectarine,"('not Plums', 'not Tangerine', 'not Orange')",93,93.54838709677419,4.231950844854071
+1574,not Tangerine,"('not Plums', 'not Nectarine')",100,94.0,3.7732394366197184
+1575,not Nectarine,"('not Plums', 'not Tangerine')",102,92.15686274509804,4.169000933706816
+1576,not Plums,"('not Nectarine', 'not Kiwi', 'not Tangerine')",88,90.9090909090909,4.247391952309985
+1577,not Nectarine,"('not Plums', 'not Kiwi')",91,92.3076923076923,4.175824175824176
+1578,not Raisins,"('not Raspberries', 'not Peanuts')",89,91.01123595505618,3.163195395998904
+1579,not Orange,"('not Raspberries', 'not Tangerine', 'not Raisins')",86,90.69767441860465,3.5409366040140173
+1580,not Tangerine,"('not Raspberries', 'not Orange')",91,95.6043956043956,3.8376412320074293
+1581,not Tangerine,"('not Raspberries', 'not Kiwi')",88,90.9090909090909,3.649167733674776
+1582,not Orange,"('not Raspberries', 'not Nectarine')",87,94.25287356321839,3.679735474728389
+1583,not Nectarine,"('not Raspberries', 'not Orange')",91,90.10989010989012,4.076399790685505
+1584,not Nectarine,"('not Raspberries', 'not Tangerine', 'not Orange')",87,90.80459770114942,4.1078270388615215
+1585,not Tangerine,"('not Raspberries', 'not Nectarine')",87,96.55172413793103,3.8756677999028653
+1586,not Orange,"('not Raspberries', 'not Plums')",87,91.95402298850574,3.5899858290033064
+1587,not Plums,"('not Raspberries', 'not Tangerine', 'not Orange')",87,90.80459770114942,4.242509892594686
+1588,not Tangerine,"('not Raspberries', 'not Plums')",87,95.40229885057471,3.8295288975230695
+1589,"Potatoes, White","('Hot Chocolate', 'Carrots')",86,90.69767441860465,1.7888468656956626
+1590,not Orange,"('not Blackberries', 'not Tangerine')",91,91.20879120879121,3.5608911636308895
+1591,not Tangerine,"('not Blackberries', 'not Orange')",92,90.21739130434783,3.6214023270055113
+1592,not Orange,"('not Blackberries', 'not Nectarine')",87,94.25287356321839,3.679735474728389
+1593,not Tangerine,"('not Blackberries', 'not Nectarine')",87,91.95402298850574,3.691112190383681
+1594,Cheese - Hard,"('Cheese - Other', 'Chicken')",92,92.3913043478261,3.510869565217391
+1595,Cheese - Hard,"('Cheese - Other', 'Potatoes, White')",90,94.44444444444444,3.588888888888889
+1596,Cheese - Hard,"('Cheese - Other', 'Chicken Egg')",89,93.25842696629213,3.5438202247191013
+1597,Cheese - Hard,"('Cheese - Other', 'Rice, White')",87,96.55172413793103,3.668965517241379
+1598,Cheese - Hard,"('Cheese - Other', 'Butter')",89,94.3820224719101,3.5865168539325842
+1599,Cheese - Hard,"('Cheese - Other',)",106,92.45283018867924,3.513207547169811
+1600,Cheese - Hard,"('Cheese - Other', 'Cheese - Soft')",88,94.31818181818183,3.584090909090909
+1601,not Orange,"('not Grapes', 'not Tangerine')",87,90.80459770114942,3.545111006140765
+1602,not Orange,"('not Lime', 'not Tangerine')",97,91.75257731958763,3.582121169326366
+1603,not Tangerine,"('not Lime', 'not Orange')",95,93.6842105263158,3.76056338028169
+1604,not Tangerine,"('not Lime', 'not Kiwi')",91,91.20879120879121,3.6611979569726048
+1605,not Orange,"('not Lime', 'not Nectarine')",90,94.44444444444444,3.6872146118721463
+1606,not Nectarine,"('not Lime', 'not Tangerine', 'not Orange')",89,91.01123595505618,4.117174959871589
+1607,not Tangerine,"('not Lime', 'not Nectarine')",90,94.44444444444444,3.791079812206573
+1608,not Tangerine,"('not Lime', 'not Blackberries')",86,90.69767441860465,3.640681297084835
+1609,not Raisins,"('not Cherries', 'not Tangerine')",87,90.80459770114942,3.156013456686291
+1610,not Orange,"('not Cherries', 'not Tangerine')",87,93.10344827586206,3.6348606518658477
+1611,not Tangerine,"('not Cherries', 'not Orange')",87,93.10344827586206,3.7372510927634774
+1612,not Nectarine,"('not Cherries', 'not Orange')",87,91.95402298850574,4.159824849480022
+1613,not Tangerine,"('not Cherries', 'not Nectarine')",89,91.01123595505618,3.653267922139579
+1614,not Nectarine,"('not Cherries', 'not Tangerine')",87,93.10344827586206,4.211822660098522
+1615,not Plums,"('not Cherries', 'not Orange')",87,94.25287356321839,4.403617863199548
+1616,not Tangerine,"('not Cherries', 'not Plums')",92,90.21739130434783,3.6214023270055113
+1617,not Plums,"('not Cherries', 'not Tangerine')",87,95.40229885057471,4.457320520067835
+1618,not Plums,"('not Cherries', 'not Kiwi')",87,90.80459770114942,4.242509892594686
+1619,not Nectarine,"('not Cherries', 'not Plums')",92,92.3913043478261,4.179606625258799
+1620,not Plums,"('not Cherries', 'not Nectarine')",89,95.50561797752809,4.462147725179591
+1621,not Orange,"('not Pineapple', 'not Raisins')",86,91.86046511627907,3.586333227142402
+1622,not Tangerine,"('not Pineapple', 'not Raisins')",86,90.69767441860465,3.640681297084835
+1623,not Orange,"('not Pineapple', 'not Tangerine')",90,94.44444444444444,3.6872146118721463
+1624,not Tangerine,"('not Pineapple', 'not Orange')",94,90.42553191489363,3.629757267006293
+1625,not Orange,"('not Lemon', 'not Tangerine')",86,93.02325581395348,3.631729850270787
+1626,not Tangerine,"('not Lemon', 'not Orange')",87,91.95402298850574,3.691112190383681
+1627,not Lime,"('not Lemon', 'not Orange')",87,96.55172413793103,4.62474645030426
+1628,not Lime,"('not Lemon', 'not Tangerine')",86,98.83720930232558,4.73421926910299
+1629,not Lime,"('not Lemon',)",105,95.23809523809523,4.561824729891957
+1630,not Orange,"('not Peach', 'not Tangerine')",86,91.86046511627907,3.586333227142402
+1631,not Tangerine,"('not Peach', 'not Orange')",87,90.80459770114942,3.6449732880038854
+1632,not Nectarine,"('not Peach', 'not Orange')",87,93.10344827586206,4.211822660098522
+1633,not Tangerine,"('not Peach', 'not Nectarine')",91,90.10989010989012,3.6170871382138987
+1634,not Nectarine,"('not Peach', 'not Tangerine')",86,95.34883720930233,4.313399778516057
+1635,not Plums,"('not Peach', 'not Orange')",87,93.10344827586206,4.349915206331261
+1636,not Tangerine,"('not Peach', 'not Plums')",91,90.10989010989012,3.6170871382138987
+1637,not Plums,"('not Peach', 'not Tangerine')",86,95.34883720930233,4.454822722073961
+1638,not Nectarine,"('not Peach', 'not Plums')",91,93.4065934065934,4.225536368393511
+1639,not Plums,"('not Peach', 'not Nectarine')",91,93.4065934065934,4.364078544406413
+1640,not Raspberries,"('not Blueberries', 'not Blackberries')",90,91.11111111111111,4.3277777777777775
+1641,not Blackberries,"('not Blueberries', 'not Raspberries')",88,93.18181818181817,4.53962703962704
+1642,not Blackberries,"('not Blueberries',)",100,90.0,4.384615384615385
+1643,Chicken,"('Cream',)",86,90.69767441860465,1.3786046511627907
+1644,Butter,"('Cream',)",86,93.02325581395348,2.5491949910554563
