@@ -4,27 +4,27 @@ digraph {
 	edge [headport=w tailport=e]
 		A [label="Overall
 Possible
-Recommendations:33"]
+Recommendations:78"]
 		B [label="User
 Possible
-Recommendations:4"]
+Recommendations:77"]
 		C [label="Missed
-Recommendations: 29"]
+Recommendations: 1"]
 		D [label="Usable
-Recommendations:4"]
+Recommendations:51"]
 		E [label="Conflicting
-Recommendations:0"]
+Recommendations:26"]
 		J [label="Missed
-Recommendations: 29"]
+Recommendations: 1"]
 		M [label="Unreconciled
-Conflicts:0"]
-		F [label="Correct: 0"]
-		G [label="Incorrect: 0"]
-		H [label="New: 4"]
+Conflicts:26"]
+		F [label="Correct: 36"]
+		G [label="Incorrect: 10"]
+		H [label="New: 5"]
 		K [label="Missed
-Recommendations: 29"]
-		I [label="Accuracy: N/A"]
-		l [label="Number of rules that apply: 6"]
+Recommendations: 1"]
+		I [label="Accuracy: 78.26086956521739"]
+		l [label="Number of rules that apply: 180761"]
 			A -> B
 			A -> C
 			B -> D
