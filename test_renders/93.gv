@@ -7,24 +7,24 @@ Possible
 Recommendations:78"]
 		B [label="User
 Possible
-Recommendations:2"]
+Recommendations:63"]
 		C [label="Missed
-Recommendations: 76"]
+Recommendations: 15"]
 		D [label="Usable
-Recommendations:2"]
+Recommendations:62"]
 		E [label="Conflicting
-Recommendations:0"]
+Recommendations:1"]
 		J [label="Missed
-Recommendations: 76"]
+Recommendations: 15"]
 		M [label="Unreconciled
-Conflicts:0"]
-		F [label="Correct: 0"]
-		G [label="Incorrect: 0"]
-		H [label="New: 2"]
+Conflicts:1"]
+		F [label="Correct: 41"]
+		G [label="Incorrect: 3"]
+		H [label="New: 18"]
 		K [label="Missed
-Recommendations: 76"]
-		I [label="Accuracy: nan"]
-		l [label="Number of rules that apply: 2"]
+Recommendations: 15"]
+		I [label="Accuracy: 93.18181818181817"]
+		l [label="Number of rules that apply: 259958"]
 			A -> B
 			A -> C
 			B -> D
